@@ -36,7 +36,7 @@ cover-img: "/assets/img/packforest.jpeg"
 
 <!-- The application for GCC 2022 opened on Thursday April 14, 2022. The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 8, 2022__. -->
 
-# The application for GCC 2022 closed on June 8, 2022. Successful applicants will be notified in July 2022.
+# The application for GCC 2022 closed on TO BE ANNOUNCED. Successful applicants will be notified in July 2022.
 
 ### Eligibility
 
