@@ -7,11 +7,15 @@ cover-img: "/assets/img/pack1.jpeg"
 
 # Location
 
-GCC 2022 will be held at the [Pack Forest Conference Center](https://www.packforest.org/index.html){:target="_blank"} in Eatonville, Washington. Pack Forest is 1.5 hours south of the University of Washington campus in Seattle and offers shared cabins as accomodations.
+GCC 2023 will be on November 2 - 4, 2023 at the [Marine Biological Laboratory](https://www.mbl.edu/){:target="_blank"}, located in Woods Hole, Massachusetts. The drive between Woods Hole and Boston is approximately 1.5 hours. Transportation between Boston and Woods Hole will be provided.  
 
+### More Logistics information coming soon. 
+Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
+
+<!--- 
 # Transportation
 
-{% include note.html content="All the times are tentative and given in Pacific Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
+{% include note.html content="All the times are tentative and given in Eastern Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
 
 We will organize and provide transportation to and from Pack Forest on Friday morning and Sunday afternoon/evening. Complimentary buses will be making stops at UW Seattle campus and the Seattle-Tacoma airport. A handful of attendees will also be driving their personal car to the conference and have offered to take some passengers, so you may also be assigned to ride in a car which will likely pick-up at UW.
 
@@ -78,3 +82,4 @@ We will do our best to match you with a graduate student host if you need housin
   </div>
 </div>
 </body>
+---> 
