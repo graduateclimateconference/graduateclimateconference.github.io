@@ -99,7 +99,7 @@ cover-img: "/assets/img/rainier1.jpeg"
       <div>
         <div class="profile">
           <h2 class="profile__name">Richelle Moskvichev</h2>
-          <p>- Website <br> - Fundraising <br> - Communications/Avertising</p>
+          <p>- Website<br>- Fundraising<br>- Communications</p>
           <img alt="Richelle Moskvichev" src="/assets/img/headshots/Moskvichev_Richelle.JPG" />
         </div>
       </div>
