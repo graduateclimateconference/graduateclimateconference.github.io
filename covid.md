@@ -36,7 +36,7 @@ Conference attendees will be required to participate in a wellness check upon ar
 
 ## 3. Isolation Protocols
 
-Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) {:target="_blank"} before or during the meeting should immediately contact the GCC 2023 co-chairs Eva Gnegy ([egnegy@eoas.ubc.ca](mailto:egnegy@eoas.ubc.ca)), Shawn Wang ([syiwang@mit.edu](mailto:syiwang@mit.edu)), and Mariya Galochkina ([mgalo@mit.edu](mailto:mgalo@mit.edu)). An isolation apartment will be provided to allow said attendee to quarantine for the remainder of the conference.
+Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html){:target="_blank"} before or during the meeting should immediately contact the GCC 2023 co-chairs Eva Gnegy ([egnegy@eoas.ubc.ca](mailto:egnegy@eoas.ubc.ca)), Shawn Wang ([syiwang@mit.edu](mailto:syiwang@mit.edu)), and Mariya Galochkina ([mgalo@mit.edu](mailto:mgalo@mit.edu)). An isolation apartment will be provided to allow said attendee to quarantine for the remainder of the conference.
 
 ## 4. Other Onsite Safety Measures
 
