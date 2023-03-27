@@ -34,13 +34,14 @@ cover-img: "/assets/img/packforest.jpeg"
 <!-- <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform"> -->
 <!-- <button class="button">Apply to the GCC!</button></a> -->
 
-<!-- The application for GCC 2022 opened on Thursday April 14, 2022. The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 8, 2022__. -->
+The application for GCC 2023 opens on Monday April 10, 2023. 
+The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 7, 2023__. Successful applicants will be notified in July 2023.
 
-# The application for GCC 2022 closed on TO BE ANNOUNCED. Successful applicants will be notified in July 2022.
+<!-- # The application for GCC 2023 closed on June 7, 2023. Successful applicants will be notified in July 2022. -->
 
 ### Eligibility
+The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2023.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals from underrepresented groups in STEM.
 
-The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2022.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals from underrepresented groups in STEM.
 
 ### Application Instructions
 
@@ -60,4 +61,4 @@ In addition to your basic contact information, the application will require you 
 - your preference for an oral/poster presentation
 - if you require travel assistance funding to attend the conference
 
-Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Wednesday, June 8th, 2022. Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
+__Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Wednesday, June 7th, 2023.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
