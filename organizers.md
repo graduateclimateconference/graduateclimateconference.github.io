@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meet the Organizers
-subtitle: GCC 2022 Executive Committee
+subtitle: GCC 2023 Executive Committee
 cover-img: "/assets/img/rainier1.jpeg"
 ---
 
