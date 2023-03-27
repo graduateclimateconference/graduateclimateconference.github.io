@@ -36,7 +36,7 @@ Conference attendees will be required to participate in a wellness check upon ar
 
 ## 3. Isolation Protocols
 
-Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html){:target="_blank"} before or during the meeting should immediately contact the GCC 2022 co-chairs Bryony Puxley ([bryony.puxley@ou.edu](mailto:bryony.puxley@ou.edu)) and Becca Cleveland-Stout ([rrcs@uw.edu](mailto:rrcs@uw.edu)). An isolation apartment will be provided to allow said attendee to quarantine for the remainder of the conference.
+Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) {:target="_blank"} before or during the meeting should immediately contact the GCC 2023 co-chairs Eva Gnegy ([egnegy@eoas.ubc.ca](mailto:egnegy@eoas.ubc.ca)), Shawn Wang ([syiwang@mit.edu](mailto:syiwang@mit.edu)), and Mariya Galochkina ([mgalo@mit.edu](mailto:mgalo@mit.edu)). An isolation apartment will be provided to allow said attendee to quarantine for the remainder of the conference.
 
 ## 4. Other Onsite Safety Measures
 
@@ -46,6 +46,5 @@ Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.
 
 ## 5. Additional Resources
 - [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html){:target="_blank"}
-- [State of Washington COVID-19 Guidelines](https://doh.wa.gov/emergencies/covid-19){:target="_blank"}
-- [Seattle COVID-19 Guidelines](https://www.seattle.gov/covid-19){:target="_blank"}
-- [University of Washington COVID-19 Guidelines](https://www.washington.edu/coronavirus/){:target="_blank"}
+- [State of Massachusetts COVID-19 Guidelines](https://www.mass.gov/covid-19-updates-and-information){:target="_blank"}
+- [MIT COVID-19 Information](https://now.mit.edu/){:target="_blank"}
