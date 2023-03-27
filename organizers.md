@@ -13,16 +13,23 @@ cover-img: "/assets/img/rainier1.jpeg"
     <ul class="auto-grid" role="list">
       <div>
         <div class="profile">
-          <h2 class="profile__name">Becca Cleveland Stout</h2>
+          <h2 class="profile__name">Eva Gnegy</h2>
           <p>Co-chair<br> <br> </p>
-          <img alt="Becca Cleveland Stout" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
+          <img alt="Eva Gnegy" src="/assets/img/headshots/eva-headshot.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Bryony Puxley</h2>
+          <h2 class="profile__name">Mariya Galochkina</h2>
           <p>Co-chair<br> <br> </p>
-          <img alt="Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
+          <img alt="Mariya Galochkina" src="/assets/img/headshots/Galochkina_Mariya_GCC.jpg" />
+        </div>
+      </div>
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Shawn Wang</h2>
+          <p>Co-chair<br> <br> </p>
+          <img alt="Shawn Wang" src="/assets/img/headshots/Wang_Shawn_GCC.jpeg" />
         </div>
       </div>
     </ul>
@@ -33,32 +40,32 @@ cover-img: "/assets/img/rainier1.jpeg"
   <h1>Executive Committee</h1>
   <div class="team">
     <ul class="auto-grid" role="list">
-      <!-- <div>
-        <div class="profile">
-          <h2 class="profile__name">Zinka Bartolek</h2>
-          <p>- None?<br> <br> </p>
-          <img alt="Zinka Bartolek" src="/assets/img/avatar-icon.png" />
-        </div>
-      </div> -->
       <div>
         <div class="profile">
-          <h2 class="profile__name">Cassia Cai</h2>
-          <p>- Communication<br>- Fundraising</p>
-          <img alt="Cassia Cai" src="/assets/img/headshots/Cassia Cai.jpeg" />
+          <h2 class="profile__name">Becca Cleveland Stout</h2>
+          <p>- Abstracts<br> <br> </p>
+          <img alt="Becca Cleveland Stout" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Jacob Cohen</h2>
-          <p>- Website<br>- Abstracts</p>
-          <img alt="Jacob Cohen" src="/assets/img/headshots/jacob_cohen.jpg" />
+          <h2 class="profile__name">Alan Gaul</h2>
+          <p>- Conference Logistics</p>
+          <img alt="Alan Gaul" src="/assets/img/headshots/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Annie Doubleday</h2>
-          <p>- Communication<br>- Logistics</p>
-          <img alt="Annie Doubleday" src="/assets/img/headshots/Doubleday_Annie2..jpeg" />
+          <h2 class="profile__name">Katherine Hasnain</h2>
+          <p>- Fundraising</p>
+          <img alt="Katherine Hasnain" src="/assets/img/headshots/Katherine Hasnain headshot-LinkedIn.jpg" />
+        </div>
+      </div>
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Emmie Le Roy</h2>
+          <p>- Recording & Evaluations <br> - Audio-Visual</p>
+          <img alt="Emmie Le Roy" src="/assets/img/headshots/avatar-icon.png" />
         </div>
       </div>
       <div>
