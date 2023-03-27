@@ -4,19 +4,23 @@ title: Schedule & Abstracts
 cover-img: "/assets/img/rainier1.jpeg"
 ---
 
-# Schedule
+# 2022 Schedule, for reference
 
-<img src="/assets/img/schedule.png" alt="Conference schedule">
+<img src="/assets/img/schedule.png" alt="Conference schedule 2022">
 
+<!-- 
 # Oral Presentation and Poster Abstracts
 
 [Conference Program](https://graduateclimateconference.github.io/pdf/program.pdf)
 
-[Abstracts](https://graduateclimateconference.github.io/pdf/abstracts.pdf)
+[Abstracts](https://graduateclimateconference.github.io/pdf/abstracts.pdf) -->
 
-As a reminder, your talk should be aimed at a general audience, as there will be graduate students from a range of disciplines and backgrounds attending.
+
+__*2023 Conference program and abstracts will be updated after applications are submitted*__
 
 #### Oral Presentations
+As a reminder, your talk should be aimed at a general audience, as there will be graduate students from a range of disciplines and backgrounds attending.
+
 Please keep your oral presentation between 10-12 minutes long. We have a tight schedule, so at 12 minutes we will ask that you wrap up your talk. There will be a panel discussion after your session, during which participants will be able to ask questions. 
 
 #### Poster Presentations
@@ -24,6 +28,9 @@ Your poster should be a maximum of 60” x 40” (1.5 m x 1 m). We do not have p
 
 # Keynote Speakers
 
+#### To be announced! :) 
+
+<!--
 __Dr. Tamara Pico__
 > Diversity, Equity, Inclusion, and Justice Keynote Speaker
 
@@ -34,3 +41,4 @@ __Dr. Natalya Gomez__
 > Early Career Scientist Keynote Speaker
 
 Dr. Natalya Gomez is an Associate Professor in the Department of Earth & Planetary Sciences and the Canada Research Chair in Geodynamics of Ice sheet - Sea level interactions at McGill University. She received her Bachelors in Physics and a Masters in Geophysics and Environmental Studies from the University of Toronto, completed her PhD at Harvard, and was a postdoctoral fellow at the Courant Institute of Mathematics at New York University before arriving at McGill. Dr. Gomez’s work lies at the intersection between climate science, glaciology and global geophysics, and aims to understand solid Earth and ice sheet responses to past, present, and future climate changes. In her research, she has identified key stabilizing feedbacks on marine ice sheets and has been instrumental in understanding sea level implications of Antarctic melt. Dr. Gomez received the AGU Cryosphere Early Career Award in 2019, and is a member of the steering committee of the World Climate Research Programme on Regional Sea-level Change & Coastal Impacts.
+-->
