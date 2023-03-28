@@ -44,7 +44,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Becca Cleveland Stout</h2>
           <p>- Abstracts<br> <br> </p>
-          <img alt="Becca Cleveland Stout" src="/assets/img/avatar-icon.png" />
+          <img alt="Becca Cleveland Stout" src="/assets/img/Rebecca_ClevelandStout.jpg" />
         </div>
       </div>
       <div>
@@ -72,28 +72,28 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Amy Liu</h2>
           <p>- Communication<br>- Swag</p>
-          <img alt="Amy Liu" src="/assets/img/headshots/Kristen Falcinelli.jpeg" />
+          <img alt="Amy Liu" src="/assets/img/headshots/liu_amy.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Ankur Mahesh</h2>
           <p>- Abstracts<br>- Audio/Visual</p>
-          <img alt="Ankur Mahesh" src="/assets/img/headshots/Mariya Galochkina.jpeg" />
+          <img alt="Ankur Mahesh" src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Evan Meeker</h2>
           <p>- Fundraising<br> <br> </p>
-          <img alt="Evan Meeker" src="/assets/img/headshots/lhahn.jpeg" />
+          <img alt="Evan Meeker" src="/assets/img/headshots/meeker_evan.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Anthony Meza</h2>
           <p>- Website<br> <br> </p>
-          <img alt="Anthony Meza" src="/assets/img/headshots/Emmy_Hallett.jpeg" />
+          <img alt="Anthony Meza" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
@@ -114,56 +114,56 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Chinedu Nsude</h2>
           <p>- Social<br>- Swag</p>
-          <img alt="Chinedu Nsude" src="/assets/img/headshots/Hersh_Cora.jpeg" />
+          <img alt="Chinedu Nsude" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Elena Perez</h2>
           <p>- Logistics<br> <br> </p>
-          <img alt="Elena Perez" src="/assets/img/headshots/Lauren-Hunt.jpeg" />
+          <img alt="Elena Perez" src="/assets/img/headshots/PerezElena.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Bryony Puxley</h2>
           <p>- Fundraising<br>- Recording</p>
-          <img alt="Bryony Puxley" src="/assets/img/headshots/LeBlanc_Danielle.jpeg" />
+          <img alt="Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Vanessa Sun</h2>
           <p>- Logistics<br>-Audio/Visual<br>- Recording</p>
-          <img alt="Vanessa Sun" src="/assets/img/headshots/RebeccaLima.jpeg" />
+          <img alt="Vanessa Sun" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Ben Tiger</h2>
           <p>- Fundraising<br>- Swag</p>
-          <img alt="Ben Tiger" src="/assets/img/headshots/Amy Liu.jpg" />
+          <img alt="Ben Tiger" src="/assets/img/headshots/tiger_benjamin_gcc.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Hemalatha Velappan</h2>
           <p>- Fundraising<br>- Social</p>
-          <img alt="Hemalatha Velappan" src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpeg" />
+          <img alt="Hemalatha Velappan" src="/assets/img/headshots/Hemalatha_Velappan.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Ciara Willisn</h2>
           <p>- Logistics<br>- Swag</p>
-          <img alt="Ciara Willis" src="/assets/img/headshots/LNguyen_headshot.jpeg" />
+          <img alt="Ciara Willis" src="/assets/img/headshots/Willis headshot.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Lily Zhang</h2>
           <p>- Communication<br> <br> </p>
-          <img alt="Lily Zhang" src="/assets/img/headshots/Oghenekevwe_Oghenechovwen.jpeg" />
+          <img alt="Lily Zhang" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
   
