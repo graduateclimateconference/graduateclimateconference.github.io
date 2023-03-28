@@ -44,7 +44,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Becca Cleveland Stout</h2>
           <p>- Abstracts<br> <br> </p>
-          <img alt="Becca Cleveland Stout" src="/assets/img/Rebecca_ClevelandStout.jpg" />
+          <img alt="Becca Cleveland Stout" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
         </div>
       </div>
       <div>
