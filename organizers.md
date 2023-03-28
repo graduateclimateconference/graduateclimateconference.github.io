@@ -14,21 +14,21 @@ cover-img: "/assets/img/rainier1.jpeg"
       <div>
         <div class="profile">
           <h2 class="profile__name">Eva Gnegy</h2>
-          <p>Co-chair<br> <br> </p>
+          <p>- Co-chair<br>- Abstracts<br> </p>
           <img alt="Eva Gnegy" src="/assets/img/headshots/eva-headshot.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Mariya Galochkina</h2>
-          <p>Co-chair<br> <br> </p>
+          <p>- Co-chair<br>- Abstracts<br> </p>
           <img alt="Mariya Galochkina" src="/assets/img/headshots/Galochkina_Mariya_GCC.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Shawn Wang</h2>
-          <p>Co-chair<br> <br> </p>
+          <p>- Co-chair<br>- Abstracts<br> </p>
           <img alt="Shawn Wang" src="/assets/img/headshots/Wang_Shawn_GCC.jpeg" />
         </div>
       </div>
@@ -64,35 +64,35 @@ cover-img: "/assets/img/rainier1.jpeg"
       <div>
         <div class="profile">
           <h2 class="profile__name">Emmie Le Roy</h2>
-          <p>- Recording & Evaluations <br> - Audio-Visual</p>
+          <p>- Recording & Evaluations <br> - Audio & Visual</p>
           <img alt="Emmie Le Roy" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Amy Liu</h2>
-          <p>- Communication<br>- Swag</p>
+          <p>- Communication<br>- Social</p>
           <img alt="Amy Liu" src="/assets/img/headshots/liu_amy.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Ankur Mahesh</h2>
-          <p>- Abstracts<br>- Audio/Visual</p>
+          <p>- Fundraising<br>- Transportation Logistics</p>
           <img alt="Ankur Mahesh" src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Evan Meeker</h2>
-          <p>- Fundraising<br> <br> </p>
+          <p>- Conference Logistics<br>- Audio & Visual <br> </p>
           <img alt="Evan Meeker" src="/assets/img/headshots/meeker_evan.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Anthony Meza</h2>
-          <p>- Website<br> <br> </p>
+          <p>- Swag<br>- Social<br> </p>
           <img alt="Anthony Meza" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
@@ -113,56 +113,56 @@ cover-img: "/assets/img/rainier1.jpeg"
       <div>
         <div class="profile">
           <h2 class="profile__name">Chinedu Nsude</h2>
-          <p>- Social<br>- Swag</p>
+          <p>- Transportation</p>
           <img alt="Chinedu Nsude" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Elena Perez</h2>
-          <p>- Logistics<br> <br> </p>
+          <p>- Social<br>- Audio & Visual<br> </p>
           <img alt="Elena Perez" src="/assets/img/headshots/PerezElena.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Bryony Puxley</h2>
-          <p>- Fundraising<br>- Recording</p>
+          <p>- Abstracts</p>
           <img alt="Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Vanessa Sun</h2>
-          <p>- Logistics<br>-Audio/Visual<br>- Recording</p>
+          <p>- Conference Logistics<br>- Transportation Logistics</p>
           <img alt="Vanessa Sun" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Ben Tiger</h2>
-          <p>- Fundraising<br>- Swag</p>
+          <p>- Abstracts<br>- Swag</p>
           <img alt="Ben Tiger" src="/assets/img/headshots/tiger_benjamin_gcc.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Hemalatha Velappan</h2>
-          <p>- Fundraising<br>- Social</p>
+          <p>- Communication<br>- Recording & Evaluation</p>
           <img alt="Hemalatha Velappan" src="/assets/img/headshots/Hemalatha_Velappan.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Ciara Willisn</h2>
-          <p>- Logistics<br>- Swag</p>
+          <p>- Fundraising<br>- Transportation Logistics</p>
           <img alt="Ciara Willis" src="/assets/img/headshots/Willis headshot.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Lily Zhang</h2>
-          <p>- Communication<br> <br> </p>
+          <p>- Communication<br>- Swag<br> </p>
           <img alt="Lily Zhang" src="/assets/img/avatar-icon.png" />
         </div>
       </div>
