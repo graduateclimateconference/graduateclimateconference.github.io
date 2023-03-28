@@ -14,8 +14,8 @@ Specific actions that the GCC will take in order to ensure an equitable and incl
 - Providing participants with a number of papers on diversity, equity and inclusion, that all are expected to read. These papers will be relevant to a keynote session during the GCC that will focus on topics covered by the readings. 
 - Including a keynote on diversity, equity, and inclusion and a dedicated discussion period following the keynote.  During the discussion period, participants will also be asked to discuss and share best practices and lessons learned from URGE (Unlearning Racism in the Geosciences) pods at their home institutions.  
 - Blind evaluation of all applications conducted by at least two committee members. 
-- Establishing clear expectations for appropriate and inclusive behavior during the conference, as laid out in the [GCC Code of Conduct](https://graduateclimateconference.github.io/pdf/GCC2022_CodeOfConduct.pdf){:target="_blank"}. 
-    - All participants will be expected to read and agree to the [GCC Code of Conduct](https://graduateclimateconference.github.io/pdf/GCC2022_CodeOfConduct.pdf){:target="_blank"} in advance of the conference. Adherence to this Code of Conduct will help advance the GCC’s goal of enabling and encouraging all meeting attendees to participate fully in the conference. 
+- Establishing clear expectations for appropriate and inclusive behavior during the conference, as laid out in the [GCC Code of Conduct](https://graduateclimateconference.github.io/pdf/TEMP_GCC_CodeofConduct_2023.pdf){:target="_blank"}. 
+    - All participants will be expected to read and agree to the [GCC Code of Conduct](https://graduateclimateconference.github.io/pdf/TEMP_GCC_CodeofConduct_2023.pdf){:target="_blank"} in advance of the conference. Adherence to this Code of Conduct will help advance the GCC’s goal of enabling and encouraging all meeting attendees to participate fully in the conference. 
 - Hosting participatory workshops, of which 50% will be relevant to the topics of diversity, equity and inclusion.
 - Committing to record and evaluate the conference in the following ways:
     - Participants will be asked for their gender and racial identities. Since the review process will be conducted blind to identity and institution affiliation, we expect the participants to reflect the population of applicants, but upon completion, if the accepted population is unbalanced in some way, we will re-evaluate the review criteria to aim for equal representation.
@@ -26,4 +26,4 @@ Specific actions that the GCC will take in order to ensure an equitable and incl
 
 We will have two keynote speakers at the GCC: a speaker to discuss diversity, equity, inclusion, and justice (DEIJ), and an early career scientist with a unique perspective on career paths in research, academia, science communication, and beyond.
 
-Read about the speakers on the [Schedule & Abstracts](https://graduateclimateconference.github.io/schedule/) page.
+Read about the speakers on the Schedule & Abstracts page (coming soon!).
