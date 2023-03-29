@@ -93,7 +93,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Anthony Meza</h2>
           <p>- Swag<br>- Social<br> </p>
-          <img alt="Anthony Meza" src="/assets/img/avatar-icon.png" />
+          <img alt="Anthony Meza" src="/assets/img/headshots/Anthony_Meza_temp.jpeg" />
         </div>
       </div>
       <div>
