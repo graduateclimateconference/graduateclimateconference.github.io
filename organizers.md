@@ -65,7 +65,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Emmie Le Roy</h2>
           <p>- Recording & Evaluations <br> - Audio & Visual</p>
-          <img alt="Emmie Le Roy" src="/assets/img/avatar-icon.png" />
+          <img alt="Emmie Le Roy" src="/assets/img/headshots/Emmie-LeRoy.jpg" />
         </div>
       </div>
       <div>
@@ -93,7 +93,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Anthony Meza</h2>
           <p>- Swag<br>- Social<br> </p>
-          <img alt="Anthony Meza" src="/assets/img/headshots/Anthony_Meza_temp.jpeg" />
+          <img alt="Anthony Meza" src="/assets/img/headshots/Anthony-Meza.jpg" />
         </div>
       </div>
       <div>
@@ -114,7 +114,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Chinedu Nsude</h2>
           <p>- Transportation</p>
-          <img alt="Chinedu Nsude" src="/assets/img/avatar-icon.png" />
+          <img alt="Chinedu Nsude" src="/assets/img/headshots/Chinedu-Headshot.jpg" />
         </div>
       </div>
       <div>
@@ -163,7 +163,7 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Lily Zhang</h2>
           <p>- Communication<br>- Swag<br> </p>
-          <img alt="Lily Zhang" src="/assets/img/avatar-icon.png" />
+          <img alt="Lily Zhang" src="/assets/img/headshots/Lily-Zhang.jpeg" />
         </div>
       </div>
   
