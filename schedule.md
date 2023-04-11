@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule & Abstracts
-cover-img: "/assets/img/rainier1.jpeg"
+cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
 
 # 2022 Schedule, for reference
