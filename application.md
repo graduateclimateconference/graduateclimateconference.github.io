@@ -2,7 +2,7 @@
 layout: page
 title: Application
 subtitle: Applying to the Graduate Climate Conference
-cover-img: "/assets/img/WoodsHole2.jpg"
+cover-img: "/assets/img/WoodsHole2.jpeg"
 ---
 
 <!-- # Application Link -->
