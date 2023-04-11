@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19 Policies and Information
-cover-img: "/assets/img/rainier1.jpeg"
+cover-img: "/assets/img/WoodsHole1.jpeg"
 ---
 
 # Graduate Climate Conference COVID-19 Protocols
