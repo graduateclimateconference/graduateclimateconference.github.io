@@ -2,7 +2,7 @@
 layout: page
 title: Logistics
 subtitle: What you need to know about the GCC
-cover-img: "/assets/img/pack1.jpeg"
+cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
 
 # Location
