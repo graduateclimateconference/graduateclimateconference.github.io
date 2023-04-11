@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the GCC
-cover-img: "/assets/img/packforest.jpeg"
+cover-img: "/assets/img/WoodsHole2"
 ---
 The Graduate Climate Conference is a conference for graduate students, organized by graduate students. GCC 2023––the 17th annual GCC––will be hosted by the Massachusetts Institute of Technology and the Woods Hole Oceanographic Institution at the Marine Biological Laboratory, located in-person in Woods Hole, Massachusetts on __November 2 - 4th, 2023__. The GCC will continue to provide a range of session topics that will help future leaders in climate science meet and share ideas.
 
