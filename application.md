@@ -32,7 +32,7 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 }
 </style>
 <div class="text-center">
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform" >
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform">
 <button class="button">Apply to the GCC!</button></a>
 </div>
 
