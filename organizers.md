@@ -51,7 +51,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Alan Gaul</h2>
           <p>- Conference Logistics</p>
-          <img alt="Alan Gaul" src="/assets/img/avatar-icon.png" />
+          <img alt="Alan Gaul" src="/assets/img/headshots/Alan-Gaul-GCC.jpg" />
         </div>
       </div>
       <div>
