@@ -171,19 +171,19 @@ img {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 2.5rem;
+  height: 3rem;
 }
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size: 0.8125rem;
+  font-size:  1.25rem;
   letter-spacing: 0.0625rem;
 }
 
 .navbar-custom .navbar-nav .nav-link {
   padding-top: 0;
   padding-bottom: 0;
-  line-height: 1.25rem;
+  line-height: 1.5rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.9375rem;
 }
