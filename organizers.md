@@ -154,7 +154,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Ciara Willisn</h2>
+          <h2 class="profile__name">Ciara Willis</h2>
           <p>- Fundraising<br>- Transportation Logistics</p>
           <img alt="Ciara Willis" src="/assets/img/headshots/Willis headshot.png" />
         </div>
