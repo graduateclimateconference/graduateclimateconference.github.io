@@ -30,7 +30,7 @@ Prior to arriving on site, attendees will be asked to provide proof that they ar
 
 ## 2. Arrival Wellness Check
 
-Conference attendees will be required to participate in a wellness check upon arrival for the GCC 2023. Everyone will be required to show a negative PCR test taken in the 72-hours leading up to the conference. If participants are not able to take a COVID-19 test in the 72-hours leading up to the conference. _This is in addition to completing a rapid test which will be provided upon arrival._ Admittance to the conference will not be allowed until a negative result is shown. 
+Conference attendees will be required to participate in a wellness check upon arrival for the GCC 2023. A rapid test will be provided by the conference organizers. Admittance to the conference will not be allowed until a negative result is shown.
 
 *Attendees unable to be vaccinated for reasons such as medical conditions or religious beliefs will be required to show results of a negative PCR test taken within 72 hours of the meeting, and will _also_ be expected to take a rapid test upon arrival. For these attendees, a negative rapid test upon arrival cannot be substituted for a negative PCR test.
 
