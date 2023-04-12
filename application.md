@@ -31,10 +31,10 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
   text-decoration: underline;
 }
 </style>
-<!-- <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform"> -->
-<!-- <button class="button">Apply to the GCC!</button></a> -->
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform">
+<button class="button">Apply to the GCC!</button></a>
 
-The application for GCC 2023 opens on Monday April 10, 2023. 
+<!-- The application for GCC 2023 opens on Monday April 10, 2023. -->
 The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 7, 2023__. Successful applicants will be notified in July 2023.
 
 <!-- # The application for GCC 2023 closed on June 7, 2023. Successful applicants will be notified in July 2022. -->
