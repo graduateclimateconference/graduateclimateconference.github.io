@@ -143,8 +143,8 @@ img {
 }
 
 .navbar-custom .navbar-brand {
-  line-height: 1.5;
-  width: 170px;
+  line-height: 1.5rem;
+  width: 500px;
   left: 15px;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
@@ -173,12 +173,12 @@ img {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 0.5rem;
+  height: 1.5rem;
 }
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size:  0.95rem;
+  font-size:  0.8125rem;
   letter-spacing: 0.0625rem;
 }
 
