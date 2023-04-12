@@ -32,8 +32,8 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 }
 </style>
 <div class="text-center">
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdX2t4XdsJhbMjS5fLU9Q7ar_yZ8a0C-X_owvRt9X8P3d6zaw/viewform">
-<button class="button">Apply to the GCC!</button></a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeYe5pTLSkPnwSy14krVvwBgUjuw-kXvEmyd1AUktvl0cCRbg/viewform">
+<button class="button">Apply to the GCC!</button> </a>
 </div>
 
 <!-- The application for GCC 2023 opens on Monday April 10, 2023. -->
