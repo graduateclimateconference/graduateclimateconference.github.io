@@ -6,7 +6,7 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 ---
 
 <!-- # Application Link -->
-
+<!--
 <style>
 .button {
   border: none;
@@ -30,16 +30,19 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
   box-shadow: 2px 2px 2px black;
   text-decoration: underline;
 }
-</style>
+</style> -->
+
+<!--
 <div class="text-center">
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeYe5pTLSkPnwSy14krVvwBgUjuw-kXvEmyd1AUktvl0cCRbg/viewform">
 <button class="button">Apply to the GCC!</button> </a>
 </div>
+-->
 
 <!-- The application for GCC 2023 opens on Monday April 10, 2023. -->
-The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 7, 2023__. Successful applicants will be notified in July 2023.
+<!-- The application deadline is __11:59 PM Eastern Daylight Time on Wednesday, June 7, 2023__. Successful applicants will be notified in July 2023. -->
 
-<!-- # The application for GCC 2023 closed on June 7, 2023. Successful applicants will be notified in July 2022. -->
+The application for GCC 2023 closed on June 7, 2023. Successful applicants will be notified in July 2022.
 
 ### Eligibility
 The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2023.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals from underrepresented groups in STEM.
