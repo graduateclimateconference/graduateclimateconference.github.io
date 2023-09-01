@@ -12,15 +12,15 @@ GCC 2023 will be on November 2 - 4, 2023 at the [Marine Biological Laboratory](h
 ### More program and bus schedule information coming soon. 
 Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
 
+{% include note.html content="All the times are tentative and given in Eastern Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
+
 ## Conference Location
 <b> Registration/check-in</b> will be on the 1st floor (front entrance) of the Swope Center at the Marine Biological Laboratory from (TBA) on Thursday, November 2.
   <div class="column right" style="background-color: site.page-col;">
     <img src="/assets/img/MBL.Campus-Grouped-Colors-parking-bikes-2021-with-legend-2022.png" alt="WoodsHole Map">
   </div>
-  
-# Transportation
 
-{% include note.html content="All the times are tentative and given in Eastern Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
+# Transportation
 
 We will provide transportation between Boston and Woods Hole, but we can only ensure transport for you if you are attending the entire conference. Unless you choose to drive yourself, you will be taking a bus from MIT’s campus to MBL, which should take about 1h 45min.
 
