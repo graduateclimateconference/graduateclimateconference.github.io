@@ -70,22 +70,43 @@ subtitle: Graduate Climate Conference Sponsors
         <p>UW Atmospheric Sciences</p>
         <a target="_blank" href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences"></a>
       </div>
+      <div class="column right">
+        <p>UBC Department of Earth, Ocean and Atmospheric Sciences</p>
+        <a target="_blank" href="https://www.eoas.ubc.ca"><img src="/assets/img/sponsors/ubc_eoas.jpg" alt="UBC Department of Earth, Ocean and Atmospheric Sciences"></a>
+      </div>
+      <div class="column left">
+        <p>Woods Hole Oceanographic Institution, President Peter B. de Menocal</p>
+        <a target="_blank" href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/WHOI President.jpg" alt="Woods Hole Oceanographic Institution, President Peter B. de Menocal"></a>
+      </div>
+      <div class="column right">
+        <p>MIT Lorenz Center</p>
+        <a target="_blank" href="https://www.lorenz.mit.edu"><img src="/assets/img/sponsors/MIT Lorenz Center.jpg" alt="MIT Lorenz Center"></a>
+      </div>
+    <div class="column left">
+        <p>MIT Program in Atmospheres, Oceans and Climate</p>
+        <a target="_blank" href="http://paocweb.mit.edu"><img src="/assets/img/sponsors/MIT PAOC Large.png" alt="MIT Program in Atmospheres, Oceans and Climate"></a>
+      </div>
+      <div class="column right">
+        <p>MIT AeroAstro</p>
+        <a target="_blank" href="https://aeroastro.mit.edu"><img src="/assets/img/sponsors/MIT Aero/Astro.png" alt="MIT AeroAstro"></a>
+      </div>
+      <div class="column left">
+        <p>University of Hawaiʻi at Mānoa </p>
+        <a target="_blank" href="https://manoa.hawaii.edu"><img src="/assets/img/sponsors/UH Manoa.jpg" alt="University of Hawaiʻi at Mānoa"></a>
+      </div>
+      <div class="column right">
+        <p>Department of Energy</p>
+        <a target="_blank" href="https://www.energy.gov"><img src="/assets/img/sponsors/DOE.jpg" alt="Department of Energy"></a>
+      </div>
+      <div class="column left">
+        <p>Marine Biological Laboratory</p>
+        <a target="_blank" href="https://www.mbl.edu"><img src="/assets/img/sponsors/MBL.jpeg" alt="Marine Biological Laboratory"></a>
+      </div>
 <!--       <div class="column right">
-        <p>UW Civil & Environmental Engineering</p>
-        <a target="_blank" href="https://cee.mit.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a> -->
-      </div>
-<!--       <div class="column left">
-        <p>UW Department of Earth and Space Sciences</p>
-        <a target="_blank" href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a> -->
-      </div>
-<!--       <div class="column right">
-        <p>Cooperative Institute for Climate, Ocean & Ecosystem Studies</p>
-        <a target="_blank" href="https://cicoes.uw.edu/"><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a> -->
-      </div>
+        <p>MIT Program in Atmospheres, Oceans and Climate</p>
+        <a target="_blank" href="http://paocweb.mit.edu"><img src="/assets/img/sponsors/MIT PAOC Large.png" alt="MIT Program in Atmospheres, Oceans and Climate"></a>
+      </div> -->
 <!--     <div class="column left">
         <p>UW Graduate School</p>
         <a target="_blank" href="https://grad.uw.edu/about-the-graduate-school/"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a> -->
-    </div>
-    <div class="column right">
-    </div>
 </div>
