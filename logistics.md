@@ -47,10 +47,10 @@ Alternatively, you can take the MBTA (referred to as the “T”) which includes
 
 The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system (see map below):
 
-## How to get from Boston Logan Airport to MIT using the T:
+<h4> How to get from Boston Logan Airport to MIT using the T: </h4>
 The best way to get to MIT from the airport is to catch the free Silver Line bus from outside the lower level (baggage claim) of each terminal. This bus provides a free transfer into the subway system at South Station, from which point you can catch the Red Line to Kendall/MIT (look for the Inbound train in the direction of Alewife, exit four stops later). Plan at least an hour to get from Boston Logan Airport to MIT’s campus on the silver and red lines.
 
-## How to get from the South Station bus/train terminals to MIT using the T:
+<h4> How to get from the South Station bus/train terminals to MIT using the T: </h4>
 Those arriving via train or bus will have to purchase a farecard (<3$) to board the Red Line subway at South Station (look for the Inbound train in the direction of Alewife). Get off four stops later at the Kendall/MIT station. Budget half an hour to get from South Station to MIT’s campus.
 
 <style>
@@ -82,6 +82,7 @@ Those arriving via train or bus will have to purchase a farecard (<3$) to board 
 <body>
 <div class="row">
   <div class="column left" style="background-color: site.page-col;">
+    
  <h1> Accommodation and Meals </h1>
 On-site meeting expenses (registration, food, and lodging at the Marine Biological Laboratory in Woods Hole) have been generously covered by our meeting sponsors.
 
@@ -90,14 +91,15 @@ All rooms at the Marine Biological Laboratory (MBL) are located in the Swope Cen
 Towels and bedding will be provided. Meals will be served upstairs on the 2nd floor in Swope.
 
  <h3> What To Bring </h3>
- 
-- Poster or backup copy of your presentation, printed or photocopied travel receipts, and boarding passes (if you were awarded a travel grant)
-- Warm clothes, rain jacket, toiletries, closed-toed shoes. The different conference activities will be located in separate buildings with roughly 5-10 minutes of walking between them. Weather in Massachusetts in November is often cold and rainy, so plan accordingly.
-- Costume for the weekend party (either dress as your science or bring something Halloween-themed)
-- Cash for incidental expenses and optional activities
-- Student ID (if you are planning to go to one of the museums or the aquarium)
-- Towels and bedding are provided if you are staying at MBL. However, if you are staying at a volunteer’s house on other nights, check with your host if you need to bring a sleeping bag and/or pad.
-  </div>
+ <ul>
+<li> Poster or backup copy of your presentation, printed or photocopied travel receipts, and boarding passes (if you were awarded a travel grant)</li>
+<li> Warm clothes, rain jacket, toiletries, closed-toed shoes. The different conference activities will be located in separate buildings with roughly 5-10 minutes of walking between them. Weather in Massachusetts in November is often cold and rainy, so plan accordingly. </li>
+<li> Costume for the weekend party (either dress as your science or bring something Halloween-themed) </li>
+<li> Cash for incidental expenses and optional activities </li>
+<li> Student ID (if you are planning to go to one of the museums or the aquarium) </li>
+<li> Towels and bedding are provided if you are staying at MBL. However, if you are staying at a volunteer’s house on other nights, check with your host if you need to bring a sleeping bag and/or pad. </li>
+ </ul> 
+ </div>
 
 </div>
 </body>
