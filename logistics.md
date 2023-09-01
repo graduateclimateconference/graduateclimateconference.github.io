@@ -97,7 +97,7 @@ Towels and bedding will be provided. Meals will be served upstairs on the 2nd fl
 - Towels and bedding are provided if you are staying at MBL. However, if you are staying at a volunteer’s house on other nights, check with your host if you need to bring a sleeping bag and/or pad.
   </div>
   <div class="column right" style="background-color: site.page-col;">
-    <img src="/assets/img/pfcc_map.png" alt="WoodsHole Map">
+    <img src="/assets/img/MBL.Campus-Grouped-Colors-parking-bikes-2021-with-legend-2022.png" alt="WoodsHole Map">
   </div>
 </div>
 </body>
