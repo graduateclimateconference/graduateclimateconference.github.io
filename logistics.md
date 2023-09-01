@@ -12,36 +12,44 @@ GCC 2023 will be on November 2 - 4, 2023 at the [Marine Biological Laboratory](h
 ### More Logistics information coming soon. 
 Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
 
-<!--- 
+
 # Transportation
 
 {% include note.html content="All the times are tentative and given in Eastern Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
 
-We will organize and provide transportation to and from Pack Forest on Friday morning and Sunday afternoon/evening. Complimentary buses will be making stops at UW Seattle campus and the Seattle-Tacoma airport. A handful of attendees will also be driving their personal car to the conference and have offered to take some passengers, so you may also be assigned to ride in a car which will likely pick-up at UW.
+We will provide transportation between Boston and Woods Hole, but we can only ensure transport for you if you are attending the entire conference. Unless you choose to drive yourself, you will be taking a bus from MIT’s campus to MBL, which should take about 1h 45min.
 
-On Friday morning, two buses will be picking up attendees from UW Seattle campus (exact location TBD) at 9 AM to go to Pack Forest. One bus will make an additional stop at the Seattle-Tacoma airport at 10 AM to pick-up attendees who are arriving on Friday morning. 
+Driving directions:
+Participants who are driving to the conference should proceed directly to the MBL Swope Center for conference registration. You can enter 7 MBL Street, Woods Hole MA 02543 on the GPS. Please plan to arrive no later than 5:00 pm on Thursday, November 7. MBL parking permits must be requested upon registration.
 
-On Sunday, there will be transportation ready at the conclusion of the conference at 12:30 PM to take attendees back to the Seattle-Tacoma airport (drop off by 3 PM) and the UW campus in Seattle (expected drop off by 3:45 PM).
+Bus schedules:
+(To be updated)
 
-For those joining on the Sunday hike at Mt. Rainier, transportation will be provided from Pack Forest to Mt. Rainier National Park [Henry M Jackson Memorial Visitor Center at Paradise](https://www.nps.gov/mora/planyourvisit/hours.htm){:target="_blank"}. __Dropoff at the visitor center will be around 2:00 pm, and pick up will be at the same location by 5:00 pm after the hike. The bus will drive directly to the Seattle-Tacoma airport for dropoff by 8:00 pm, followed by a final dropoff at UW Seattle at 8:45 pm.__
+THURSDAY, NOVEMBER 2:
+(Times to be finalized)
+- Buses leave MIT
 
-# Arriving before Friday morning?
+SATURDAY, NOVEMBER 4:
+(Times to be finalized) 
 
-If you are arriving to Seattle before Friday morning, there are a variety of options to get from the airport to the UW area, which is near where most graduate student hosts will be living. 
+- Buses leave Woods Hole
+- Bus going directly to the airport should arrive at Boston Logan Airport
+- Buses should arrive at MIT, arrival time will depend on whether bus has to make an airport stop
 
-The easiest way to get to UW is using the [Link light rail](https://www.soundtransit.org/ride-with-us/routes-schedules/1-line?direction=0&at=1663311600000&view=table&route_tab=schedule&stops_0=1_990006%2C1_99913&stops_1=1_99914%2C1_990005){:target="_blank"}. [The airport Link light rail station](https://goo.gl/maps/MFiKQZGPqKDStkGs7){:target="_blank"} is a [6 minute walk](https://www.google.com/maps/dir/Baggage+Claim/SeaTac%2FAirport+Station,+SeaTac,+WA+98188/@47.4445536,-122.3004904,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54905df11b7c57ef:0x380d4344d586c6f1!2m2!1d-122.3016775!2d47.4439441!1m5!1m1!1s0x54905cac071112b3:0x305efe0d2b8c1b56!2m2!1d-122.2969!2d47.44538!3e2){:target="_blank"} from the arrivals terminal. Follow signs inside the airport to the light rail station. The cost of a one-way ticket from the airport to the UW campus is $3.25, which you can pay at the station. 
-- Note that to get to UW from the airport, you will want to go in the northbound direction of “Northgate”. When you are heading back to the airport, you will want to go in the southbound “Angle Lake” direction. 
-- Be mindful that the Light Rail does not run 24/7 and has different schedules for weekdays, Saturdays, and Sundays.
-  - __For arrivals__ - the last train northbound leaving the airport headed to UW is at 11:44pm __on weekdays__.
-  - __For departures__ - The earliest train headed to the airport from UW is at 4:45am __on weekdays__.
+# How to get to MIT’s campus
+You can take a cab from Boston Logan Airport or the South Station train/bus terminal, which will cost about $40 and take 20-30 minutes in all cases. Uber and Lyft can be slightly cheaper, depending on demand. If you are planning to take a cab or Uber/Lyft from Boston Logan Airport to MIT and would like to coordinate shared rides with other attendees, please enter your information on the spreadsheet link provided in the final logistics email and use the sheet to contact other attendees.
 
-You can also get around Seattle using King County Metro. Google maps and [King County Metro’s online trip planner](https://tripplanner.kingcounty.gov/#/app/tripplanning){:target="_blank"} are both good resources for finding the fastest route using public transportation. The OneBusAway smartphone app is a great way to track bus arrival and departure times when using any of the buses within and around Seattle. Bus fares are usually $2.75 for a single ride. You will not receive any change if you pay in cash, so be prepared to provide the exact fare amount or overpay. You can also purchase bus pases via the [Transit GO Ticket app](https://kingcounty.gov/depts/transportation/metro/fares-orca/transit-go-ticket.aspx){:target="_blank"}.
+Alternatively, you can take the MBTA (referred to as the “T”) which includes the subway, bus and commuter rail system in Boston. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston.
 
-Other, more expensive options include a taxi, Uber/Lyft, or [Super Shuttle](http://www.shuttlefare.com/seattle_tacoma_airport_shuttle_sea){:target="_blank"}.
+The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system (see map below):
 
-# Accommodations in Seattle
 
-We will do our best to match you with a graduate student host if you need housing Thursday night or Sunday night. We will provide more details to individual attendees about their hosts as we get folks matched up.
+
+## How to get from Boston Logan Airport to MIT using the T:
+The best way to get to MIT from the airport is to catch the free Silver Line bus from outside the lower level (baggage claim) of each terminal. This bus provides a free transfer into the subway system at South Station, from which point you can catch the Red Line to Kendall/MIT (look for the Inbound train in the direction of Alewife, exit four stops later). Plan at least an hour to get from Boston Logan Airport to MIT’s campus on the silver and red lines.
+
+How to get from the South Station bus/train terminals to MIT using the T:
+Those arriving via train or bus will have to purchase a farecard (<3$) to board the Red Line subway at South Station (look for the Inbound train in the direction of Alewife). Get off four stops later at the Kendall/MIT station. Budget half an hour to get from South Station to MIT’s campus.
 
 <style>
 * {
@@ -72,13 +80,24 @@ We will do our best to match you with a graduate student host if you need housin
 <body>
 <div class="row">
   <div class="column left" style="background-color: site.page-col;">
-    <h1>Accomodations</h1>
-    <p>Conference participants will be staying in historical cabins. Each cabin sleeps up to eight people. Restrooms and showers are located in a building across from the cabins (see map for details). Pack Forest provides towels and bedding for all participants.</p>
-    <h3>What to Bring</h3>
-    <p>Here is a reminder of what to bring with you: a headlamp, warm clothes, and a rain jacket. Bedding and towels will be provided. You will be staying in cabins with 8 people in them, so you may want to bring ear plugs with you if you are a light sleeper!</p>
+    Accommodation and Meals
+On-site meeting expenses (registration, food, and lodging at the Marine Biological Laboratory in Woods Hole) have been generously covered by our meeting sponsors.
+
+All rooms at the Marine Biological Laboratory (MBL) are located in the Swope Center and have two twin size beds. If you chose to stay at MBL, you will be sharing a dorm room with another GCC participant, unless you paid extra for a private room through MBL’s website (approx. 213$ total for 3 nights). The private rooms have their own bathrooms, but none of the rooms have a fridge or microwave.
+
+Towels and bedding will be provided. Meals will be served upstairs on the 2nd floor in Swope.
+
+ <h3> What To Bring </h3>
+ 
+- Poster or back-up copy of your presentation, printed or photocopied travel receipts and boarding passes (if you were awarded a travel grant)
+- Warm clothes, rain jacket, toiletries, closed-toed shoes. The different conference activities will be located in separate buildings with roughly 5-10 minutes of walking between them. You will also be outside for a while if you join the MIT campus tour and Freedom Trail. Weather in Massachusetts in November is often cold and rainy, so plan accordingly.
+- Costume for party (either dress as your science or bring something Halloween-themed)
+- Cash for incidental expenses and optional activities
+- Student ID (if you are planning to go to one of the museums or the aquarium)
+- Towels and bedding are provided if you are staying at MBL. However, if you are staying at a volunteer’s house on other nights, check with your host if you need to bring a sleeping bag and/or pad.
   </div>
   <div class="column right" style="background-color: site.page-col;">
-    <img src="/assets/img/pfcc_map.png" alt="Pack Forest Conference Center Map">
+    <img src="/assets/img/pfcc_map.png" alt="WoodsHole Map">
   </div>
 </div>
 </body>
