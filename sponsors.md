@@ -64,7 +64,7 @@ subtitle: Graduate Climate Conference Sponsors
       </div>
       <div class="column right">
         <p>MIT Civil Engineering</p>
-        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/MIT Civil Engineering.png" alt="MIT Civil Engineering"></a>
+        <a target="_blank" href="https://cee.mit.edu"><img src="/assets/img/sponsors/MIT Civil Engineering.png" alt="MIT Civil Engineering"></a>
       </div>
       <div class="column left">
         <p>UW Atmospheric Sciences</p>
