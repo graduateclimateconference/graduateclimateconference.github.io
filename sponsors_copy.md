@@ -63,28 +63,28 @@ subtitle: Graduate Climate Conference Sponsors
         <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=200px; max-width:200px;"></a>
       </div>
       <div class="column right">
-        <p>University of Wisconsin Atmospheric and Oceanic Sciences</p>
-        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uw_aos.jpeg" alt="University of Wisconsin Atmospheric and Oceanic Sciences"></a>
+        <p>MIT Civil Engineering</p>
+        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/MIT Civil Engineering.png" alt="MIT Civil Engineering"></a>
       </div>
       <div class="column left">
         <p>UW Atmospheric Sciences</p>
         <a target="_blank" href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences"></a>
       </div>
-      <div class="column right">
+<!--       <div class="column right">
         <p>UW Civil & Environmental Engineering</p>
-        <a target="_blank" href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a>
+        <a target="_blank" href="https://cee.mit.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Civil & Environmental Engineering"></a> -->
       </div>
-      <div class="column left">
+<!--       <div class="column left">
         <p>UW Department of Earth and Space Sciences</p>
-        <a target="_blank" href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a>
+        <a target="_blank" href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/ess.jpeg" alt="UW Department of Earth and Space Sciences"></a> -->
       </div>
-      <div class="column right">
+<!--       <div class="column right">
         <p>Cooperative Institute for Climate, Ocean & Ecosystem Studies</p>
-        <a target="_blank" href="https://cicoes.uw.edu/"><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a>
+        <a target="_blank" href="https://cicoes.uw.edu/"><img src="/assets/img/sponsors/cicoes.png" alt="Cooperative Institute for Climate, Ocean & Ecosystem Studies"></a> -->
       </div>
-    <div class="column left">
+<!--     <div class="column left">
         <p>UW Graduate School</p>
-        <a target="_blank" href="https://grad.uw.edu/about-the-graduate-school/"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a>
+        <a target="_blank" href="https://grad.uw.edu/about-the-graduate-school/"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a> -->
     </div>
     <div class="column right">
     </div>
