@@ -4,7 +4,7 @@ title: Sponsors
 subtitle: Graduate Climate Conference Sponsors
 ---
 
-### We thank our generous sponsors for their support of the GCC!
+## We thank our generous sponsors for their support of the GCC!
 
 
 
