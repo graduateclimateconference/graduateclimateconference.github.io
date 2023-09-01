@@ -9,10 +9,15 @@ cover-img: "/assets/img/WoodsHole3.jpeg"
 
 GCC 2023 will be on November 2 - 4, 2023 at the [Marine Biological Laboratory](https://www.mbl.edu/){:target="_blank"}, located in Woods Hole, Massachusetts. The drive between Woods Hole and Boston is approximately 1.5 hours. Transportation between Boston and Woods Hole will be provided.  
 
-### More Logistics information coming soon. 
+### More program and bus schedule information coming soon. 
 Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
 
-
+## Conference Location
+<b> Registration/check-in</b> will be on the 1st floor (front entrance) of the Swope Center at the Marine Biological Laboratory from (TBA) on Thursday, November 2.
+  <div class="column right" style="background-color: site.page-col;">
+    <img src="/assets/img/MBL.Campus-Grouped-Colors-parking-bikes-2021-with-legend-2022.png" alt="WoodsHole Map">
+  </div>
+  
 # Transportation
 
 {% include note.html content="All the times are tentative and given in Eastern Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
@@ -31,24 +36,21 @@ THURSDAY, NOVEMBER 2:
 
 SATURDAY, NOVEMBER 4:
 (Times to be finalized) 
-
 - Buses leave Woods Hole
 - Bus going directly to the airport should arrive at Boston Logan Airport
 - Buses should arrive at MIT, arrival time will depend on whether bus has to make an airport stop
 
-# How to get to MIT’s campus
+# How to get to MIT’s campus for the bus
 You can take a cab from Boston Logan Airport or the South Station train/bus terminal, which will cost about $40 and take 20-30 minutes in all cases. Uber and Lyft can be slightly cheaper, depending on demand. If you are planning to take a cab or Uber/Lyft from Boston Logan Airport to MIT and would like to coordinate shared rides with other attendees, please enter your information on the spreadsheet link provided in the final logistics email and use the sheet to contact other attendees.
 
 Alternatively, you can take the MBTA (referred to as the “T”) which includes the subway, bus and commuter rail system in Boston. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston.
 
 The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system (see map below):
 
-
-
 ## How to get from Boston Logan Airport to MIT using the T:
 The best way to get to MIT from the airport is to catch the free Silver Line bus from outside the lower level (baggage claim) of each terminal. This bus provides a free transfer into the subway system at South Station, from which point you can catch the Red Line to Kendall/MIT (look for the Inbound train in the direction of Alewife, exit four stops later). Plan at least an hour to get from Boston Logan Airport to MIT’s campus on the silver and red lines.
 
-How to get from the South Station bus/train terminals to MIT using the T:
+## How to get from the South Station bus/train terminals to MIT using the T:
 Those arriving via train or bus will have to purchase a farecard (<3$) to board the Red Line subway at South Station (look for the Inbound train in the direction of Alewife). Get off four stops later at the Kendall/MIT station. Budget half an hour to get from South Station to MIT’s campus.
 
 <style>
@@ -80,25 +82,22 @@ Those arriving via train or bus will have to purchase a farecard (<3$) to board 
 <body>
 <div class="row">
   <div class="column left" style="background-color: site.page-col;">
-    Accommodation and Meals
+ <h1> Accommodation and Meals </h1>
 On-site meeting expenses (registration, food, and lodging at the Marine Biological Laboratory in Woods Hole) have been generously covered by our meeting sponsors.
 
-All rooms at the Marine Biological Laboratory (MBL) are located in the Swope Center and have two twin size beds. If you chose to stay at MBL, you will be sharing a dorm room with another GCC participant, unless you paid extra for a private room through MBL’s website (approx. 213$ total for 3 nights). The private rooms have their own bathrooms, but none of the rooms have a fridge or microwave.
+All rooms at the Marine Biological Laboratory (MBL) are located in the Swope Center and have two twin-size beds. If you choose to stay at MBL, you will be sharing a dorm room with another GCC participant, unless you paid extra for a private room through MBL’s website (approx. 213$ total for 3 nights). The private rooms have their own bathrooms, but none of the rooms have a fridge or microwave.
 
 Towels and bedding will be provided. Meals will be served upstairs on the 2nd floor in Swope.
 
  <h3> What To Bring </h3>
  
-- Poster or back-up copy of your presentation, printed or photocopied travel receipts and boarding passes (if you were awarded a travel grant)
-- Warm clothes, rain jacket, toiletries, closed-toed shoes. The different conference activities will be located in separate buildings with roughly 5-10 minutes of walking between them. You will also be outside for a while if you join the MIT campus tour and Freedom Trail. Weather in Massachusetts in November is often cold and rainy, so plan accordingly.
-- Costume for party (either dress as your science or bring something Halloween-themed)
+- Poster or backup copy of your presentation, printed or photocopied travel receipts, and boarding passes (if you were awarded a travel grant)
+- Warm clothes, rain jacket, toiletries, closed-toed shoes. The different conference activities will be located in separate buildings with roughly 5-10 minutes of walking between them. Weather in Massachusetts in November is often cold and rainy, so plan accordingly.
+- Costume for the weekend party (either dress as your science or bring something Halloween-themed)
 - Cash for incidental expenses and optional activities
 - Student ID (if you are planning to go to one of the museums or the aquarium)
 - Towels and bedding are provided if you are staying at MBL. However, if you are staying at a volunteer’s house on other nights, check with your host if you need to bring a sleeping bag and/or pad.
   </div>
-  <div class="column right" style="background-color: site.page-col;">
-    <img src="/assets/img/MBL.Campus-Grouped-Colors-parking-bikes-2021-with-legend-2022.png" alt="WoodsHole Map">
-  </div>
+
 </div>
 </body>
----> 
