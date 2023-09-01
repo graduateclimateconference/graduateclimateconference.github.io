@@ -82,7 +82,7 @@ subtitle: Graduate Climate Conference Sponsors
         <p>MIT Lorenz Center</p>
         <a target="_blank" href="https://www.lorenz.mit.edu"><img src="/assets/img/sponsors/MIT Lorenz Center.jpg" alt="MIT Lorenz Center" style="max-height=200px; max-width:200px;"></a>
       </div>
-    <div class="column left">
+      <div class="column left">
         <p>MIT Program in Atmospheres, Oceans and Climate</p>
         <a target="_blank" href="http://paocweb.mit.edu"><img src="/assets/img/sponsors/MIT PAOC Large.png" alt="MIT Program in Atmospheres, Oceans and Climate" style="max-height=200px; max-width:200px;"></a>
       </div>
@@ -106,7 +106,7 @@ subtitle: Graduate Climate Conference Sponsors
         <p>MIT Academic Programs Office</p>
         <a target="_blank" href="https://physics.mit.edu/academic-programs/"><img src="/assets/img/sponsors/MIT-Logo.png" alt="MIT Academic Programs Office" style="max-height=200px; max-width:200px;"></a>
       </div>
-    <div class="column left">
+      <div class="column left">
         <p>Department of Earth, Atmospheric, and Planetary Sciences</p>
         <a target="_blank" href="https://eapsweb.mit.edu"><img src="/assets/img/sponsors/EAPS.jpeg" alt="Department of Earth, Atmospheric, and Planetary Sciences" style="max-height=200px; max-width:200px;"></a>
       <div class="column right">
