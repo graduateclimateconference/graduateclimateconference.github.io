@@ -88,7 +88,7 @@ subtitle: Graduate Climate Conference Sponsors
       </div>
       <div class="column right">
         <p>MIT AeroAstro</p>
-        <a target="_blank" href="https://aeroastro.mit.edu"><img src="/assets/img/sponsors/MIT Aero/Astro.png" alt="MIT AeroAstro"></a>
+        <a target="_blank" href="https://aeroastro.mit.edu"><img src="/assets/img/sponsors/MIT Aero:Astro.png" alt="MIT AeroAstro"></a>
       </div>
       <div class="column left">
         <p>University of Hawaiʻi at Mānoa </p>
@@ -102,11 +102,18 @@ subtitle: Graduate Climate Conference Sponsors
         <p>Marine Biological Laboratory</p>
         <a target="_blank" href="https://www.mbl.edu"><img src="/assets/img/sponsors/MBL.jpeg" alt="Marine Biological Laboratory"></a>
       </div>
-<!--       <div class="column right">
-        <p>MIT Program in Atmospheres, Oceans and Climate</p>
-        <a target="_blank" href="http://paocweb.mit.edu"><img src="/assets/img/sponsors/MIT PAOC Large.png" alt="MIT Program in Atmospheres, Oceans and Climate"></a>
-      </div> -->
-<!--     <div class="column left">
-        <p>UW Graduate School</p>
-        <a target="_blank" href="https://grad.uw.edu/about-the-graduate-school/"><img src="/assets/img/sponsors/uw-grad-school.png" alt="The Graduate School, University of Washington"></a> -->
-</div>
+      <div class="column right">
+        <p>MIT Academic Programs Office</p>
+        <a target="_blank" href="https://physics.mit.edu/academic-programs/"><img src="/assets/img/sponsors/MIT-Logo.png" alt="MIT Academic Programs Office"></a>
+      </div>
+    <div class="column left">
+        <p>Department of Earth, Atmospheric, and Planetary Sciences</p>
+        <a target="_blank" href="https://eapsweb.mit.edu"><img src="/assets/img/sponsors/EAPS.jpeg" alt="Department of Earth, Atmospheric, and Planetary Sciences"></a>
+      <div class="column right">
+        <p>WHOI Marine Chemistry & Geochemistry</p>
+        <a target="_blank" href="https://www.whoi.edu/what-we-do/understand/departments-centers-labs/mcg/"><img src="/assets/img/sponsors/whoi.png" alt="WHOI Marine Chemistry & Geochemistry"></a>
+      </div>
+      <div class="column left">
+        <p>WHOI Applied Ocean Physics & Engineering</p>
+        <a target="_blank" href="https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/"><img src="/assets/img/sponsors/whoi.png" alt="WHOI Applied Ocean Physics & Engineering"></a>
+      </div>
