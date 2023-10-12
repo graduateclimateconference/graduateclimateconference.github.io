@@ -28,17 +28,24 @@ Driving directions:
 Participants who are driving to the conference should proceed directly to the MBL Swope Center for conference registration. You can enter 7 MBL Street, Woods Hole MA 02543 on the GPS. Please plan to arrive no later than 5:00 pm on Thursday, November 7. MBL parking permits must be requested upon registration.
 
 Bus schedules:
-(To be updated)
+Boston Corporate Coach buses: MIT pickup/drop-off outside the Visual Arts Center (20 Ames St, Cambridge, MA 02142). Schedule Updated as of 10/12/2023
 
 THURSDAY, NOVEMBER 2:
-(Times to be finalized)
-- Buses leave MIT
+BUS 1 (Capacity 55)
+- <b>10:00 AM</b> Pick-up at MIT Campus
+- <b>10:30 AM</b> Pick-up at Logan Airport
+- <b>12:30 PM</b> Drop-off at Woods Hole
 
 SATURDAY, NOVEMBER 4:
-(Times to be finalized) 
-- Buses leave Woods Hole
-- Bus going directly to the airport should arrive at Boston Logan Airport
-- Buses should arrive at MIT, arrival time will depend on whether bus has to make an airport stop
+ONE MORNING BUS (Capacity 55)
+- <b>12:30 PM</b> Pick-up at MIT Campus
+- <b>2:30 PM</b> Drop-off at Logan Airport
+- <b>3:00 PM</b>  Drop-off at MIT Campus
+
+TWO EVENING BUSES (Capacity 55 each)
+- <b>3:00 PM</b> Pick-up at MIT Campus
+- <b>5:00 PM</b> Drop-off at Logan Airport
+- <b>5:30 PM</b>  Drop-off at MIT Campus
 
 # How to get to MIT’s campus for the bus
 You can take a cab from Boston Logan Airport or the South Station train/bus terminal, which will cost about $40 and take 20-30 minutes in all cases. Uber and Lyft can be slightly cheaper, depending on demand. If you are planning to take a cab or Uber/Lyft from Boston Logan Airport to MIT and would like to coordinate shared rides with other attendees, please enter your information on the spreadsheet link provided in the final logistics email and use the sheet to contact other attendees.
