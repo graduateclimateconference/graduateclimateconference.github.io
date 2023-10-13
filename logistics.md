@@ -25,7 +25,7 @@ Driving directions:
 Participants who are driving to the conference should proceed directly to the MBL Swope Center for conference registration. You can enter 7 MBL Street, Woods Hole MA 02543 on the GPS. Please plan to arrive no later than 5:00 pm on Thursday, November 7. MBL parking permits must be requested upon registration.
 
 
-We will be using Boston Corporate Coach buses: MIT pickup/drop-off outside the Visual Arts Center (20 Ames St, Cambridge, MA 02142). Schedule Updated as of 10/12/2023.
+We will be using Boston Corporate Coach buses: MIT pickup/drop-off outside the Visual Arts Center (20 Ames St, Cambridge, MA 02142). Logan Airport pickup/drop-off will be at the "charter buses" pick-up zone for each terminal. This is typically outside of the baggage claim area. For example, it's to the left at terminal B and the right at terminal E. Schedule Updated as of 10/13/2023.
 
 THURSDAY, NOVEMBER 2:
 ONE MORNING BUS (Capacity, 55)
