@@ -27,13 +27,13 @@ Participants who are driving to the conference should proceed directly to the MB
 
 We will be using Boston Corporate Coach buses: MIT pickup/drop-off outside the Visual Arts Center (20 Ames St, Cambridge, MA 02142). Logan Airport pickup/drop-off will be at the "charter buses" pick-up zone for each terminal. This is typically outside of the baggage claim area. For example, it's to the left at terminal B and the right at terminal E. Schedule Updated as of 10/13/2023.
 
-THURSDAY, NOVEMBER 2:
+#### THURSDAY, NOVEMBER 2:
 ONE MORNING BUS (Capacity, 55)
 - <b>10:00 AM</b> Pick-up at MIT Campus
 - <b>~10:30 AM</b> Pick-up at Logan Airport
 - <b>~12:30 PM</b> Drop-off at Woods Hole
 
-SATURDAY, NOVEMBER 4:
+#### SATURDAY, NOVEMBER 4: 
 ONE MORNING BUS (Capacity 55)
 - <b>12:30 PM</b> Pick-up at MIT Campus
 - <b>~2:30 PM</b> Drop-off at Logan Airport
