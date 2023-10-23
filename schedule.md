@@ -4,19 +4,17 @@ title: Schedule & Abstracts
 cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
 
-# 2022 Schedule, for reference
+# [2023 Schedule](https://drive.google.com/file/d/1HS188hf-OeCo9JJOtFG1WkN7XsQJYrUY/view?usp=sharing)
 
-<img src="/assets/img/schedule.png" alt="Conference schedule 2022">
+<img src="/assets/img/schedule.png" alt="Conference schedule 2023">
 
-<!-- 
+
 # Oral Presentation and Poster Abstracts
 
 [Conference Program](https://graduateclimateconference.github.io/pdf/program.pdf)
 
-[Abstracts](https://graduateclimateconference.github.io/pdf/abstracts.pdf) -->
+[Abstracts](https://graduateclimateconference.github.io/pdf/abstracts.pdf)
 
-
-__*2023 Conference program and abstracts will be updated after applications are submitted*__
 
 #### Oral Presentations
 As a reminder, your talk should be aimed at a general audience, as there will be graduate students from a range of disciplines and backgrounds attending.
