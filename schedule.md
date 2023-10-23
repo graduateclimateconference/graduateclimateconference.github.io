@@ -9,9 +9,7 @@ cover-img: "/assets/img/WoodsHole3.jpeg"
 <img src="/assets/img/GCC_2023_SCHEDULE-1.png" alt="Conference schedule 2023">
 
 
-# Oral Presentation and Poster Abstracts
-
-[Abstracts](https://graduateclimateconference.github.io/pdf/GCC 2023 Abstracts Booklet_.pdf)
+### [Oral Presentation and Poster Abstracts Booklet] (https://graduateclimateconference.github.io/pdf/GCC 2023 Abstracts Booklet_.pdf)
 
 
 #### Oral Presentations
