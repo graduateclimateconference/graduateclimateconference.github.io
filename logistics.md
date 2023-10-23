@@ -12,7 +12,7 @@ GCC 2023 will be on November 2 - 4, 2023 at the [Marine Biological Laboratory](h
 {% include note.html content="All the times are tentative and given in Eastern Time. This may be updated as bus schedules are confirmed. All attendees will be emailed with final transportation information closer to the conference." %}
 
 ## Conference Location
-<b> Registration/check-in</b> will be on the 1st floor (front entrance) of the Swope Center at the Marine Biological Laboratory from (TBA) on Thursday, November 2.
+<b> Registration/check-in</b> will be on the 1st floor (front entrance) of the Swope Center at the Marine Biological Laboratory from 12:00 - 12:30pm on Thursday, November 2.
   <div class="column right" style="background-color: site.page-col;">
     <img src="/assets/img/MBL.Campus-Grouped-Colors-parking-bikes-2021-with-legend-2022.png" alt="WoodsHole Map">
   </div>
@@ -39,7 +39,7 @@ ONE MORNING BUS (Capacity 55)
 - <b>~2:30 PM</b> Drop-off at Logan Airport
 - <b>~3:00 PM</b>  Drop-off at MIT Campus
 
-TWO EVENING BUSES (Capacity 55 on each bus)
+ONE EVENING BUS (Capacity 55)
 - <b>3:00 PM</b> Pick-up at MIT Campus
 - <b>~5:00 PM</b> Drop-off at Logan Airport
 - <b>~5:30 PM</b>  Drop-off at MIT Campus
