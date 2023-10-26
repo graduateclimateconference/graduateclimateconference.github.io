@@ -4,9 +4,9 @@ title: Schedule & Abstracts
 cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
 
-# [2023 Schedule (link)](https://drive.google.com/file/d/1HS188hf-OeCo9JJOtFG1WkN7XsQJYrUY/view?usp=sharing)
+# [2023 Schedule (link)](https://drive.google.com/file/d/1XvSskbLOHDnwDqOD3oV66cLiRXNcjb15/view?usp=sharing)
 
-<img src="/assets/img/GCC_2023_SCHEDULE-1.png" alt="Conference schedule 2023">
+<img src="/assets/img/GCC_2023_SCHEDULE-10_23_2023.png" alt="Conference schedule 2023">
 
 
 ### [Oral Presentation and Poster Abstracts Booklet (link)](https://graduateclimateconference.github.io/pdf/GCC_2023_Abstracts_Booklet.pdf)
