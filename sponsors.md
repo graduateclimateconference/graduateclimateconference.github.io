@@ -104,7 +104,7 @@ subtitle: Graduate Climate Conference Sponsors
       </div>
       <div class="column right">
         <p>MIT Academic Programs Office</p>
-        <a target="_blank" href="https://physics.mit.edu/academic-programs/"><img src="/assets/img/sponsors/MIT-Logo.png" alt="MIT Academic Programs Office" style="max-height=300px; max-width:300px;"></a>
+        <a target="_blank" href="https://www.whoi.edu/what-we-do/educate/apo/"><img src="/assets/img/sponsors/MIT-Logo.png" alt="MIT Academic Programs Office" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
         <p>Department of Earth, Atmospheric, and Planetary Sciences</p>
