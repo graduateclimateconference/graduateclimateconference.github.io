@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Meet the Organizers
-subtitle: GCC 2023 Executive Committee
-cover-img: "/assets/img/WoodsHole1.jpeg"
+subtitle: GCC 2024 Executive Committee
+cover-img: "/assets/img/rainier1.jpeg"
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
@@ -13,9 +13,9 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
     <ul class="auto-grid" role="list">
       <div>
         <div class="profile">
-          <h2 class="profile__name">Eva Gnegy</h2>
+          <h2 class="profile__name">Evan Meeker</h2>
           <p>- Co-chair<br>- Abstracts<br> </p>
-          <img alt="Eva Gnegy" src="/assets/img/headshots/eva-headshot.jpg" />
+          <img alt="Eva Gnegy" src="/assets/img/headshots/meeker_evan.jpg" />
         </div>
       </div>
       <div>
@@ -42,16 +42,16 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
     <ul class="auto-grid" role="list">
       <div>
         <div class="profile">
-          <h2 class="profile__name">Becca Cleveland Stout</h2>
+          <h2 class="profile__name">Abby Beilman</h2>
           <p>- Abstracts<br> <br> </p>
-          <img alt="Becca Cleveland Stout" src="/assets/img/headshots/Rebecca_ClevelandStout.jpg" />
+          <img alt="Becca Cleveland Stout" src="/assets/img/headshots/AbbyBeilman_logistics_recordingevaluation.PNG" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Alan Gaul</h2>
+          <h2 class="profile__name">Alex Chang</h2>
           <p>- Conference Logistics</p>
-          <img alt="Alan Gaul" src="/assets/img/headshots/Alan-Gaul-GCC.jpg" />
+          <img alt="Alan Gaul" src="/assets/img/headshots/Alex_Chang.PNG" />
         </div>
       </div>
       <div>
