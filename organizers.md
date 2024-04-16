@@ -208,6 +208,5 @@ cover-img: "/assets/img/rainier1.jpeg"
           <img alt="Mariya Galochkina" src="/assets/img/headshots/GalochkinaMariya-GCC.jpg" />
         </div>
 
-    </ul>
   </div>
 </article>
