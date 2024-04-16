@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the GCC
-cover-img: "/assets/img/WoodsHole2.jpeg"
+cover-img: "/assets/img/rainier1.jpeg"
 ---
 The Graduate Climate Conference is a conference for graduate students, organized by graduate students. GCC 2024––the 18th annual GCC––will be hosted by the University of Washington and the Pack Forest Conference Center, located at the foot of Mount Rainier. This is an in-person conference held at Pack Forest Conference Center, Washington, on __November 1 - 3rd, 2024__. The GCC will continue to provide a range of session topics that will help future leaders in climate science meet and share ideas.
 
