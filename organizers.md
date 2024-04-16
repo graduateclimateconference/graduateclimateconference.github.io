@@ -128,14 +128,14 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Godspower Ubit</h2>
           <p>- Communication</p>
-          <img alt="Godspower Ubit" src="/assets/img/headshots/GodspowerUbit.JPGg" />
+          <img alt="Godspower Ubit" src="/assets/img/headshots/GodspowerUbit.JPG" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Henry Olayiwola</h2>
           <p>- Audio & Visual<br>- Swag & Conference Booklet<br> - Conference Logistics<br></p>
-          <img alt="Henry Olayiwola" src="/assets/img/Henry-Olayiwola.jpg" />
+          <img alt="Henry Olayiwola" src="/assets/img/headshots/Henry-Olayiwola.jpg" />
         </div>
       </div>
       <div>
@@ -210,6 +210,7 @@ cover-img: "/assets/img/rainier1.jpeg"
           <p>- Social<br>- Abstracts<br> </p>
           <img alt="Mariya Galochkina" src="/assets/img/headshots/GalochkinaMariya-GCC.jpg" />
         </div>
+
       
     </ul>
   </div>
