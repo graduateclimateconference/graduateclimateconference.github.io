@@ -15,21 +15,21 @@ cover-img: "/assets/img/rainier1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Evan Meeker</h2>
           <p>- Co-chair<br>- Abstracts<br> </p>
-          <img alt="Eva Gnegy" src="/assets/img/headshots/meeker_evan.jpg" />
+          <img alt="Evan Meeker" src="/assets/img/headshots/meeker_evan.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Mariya Galochkina</h2>
+          <h2 class="profile__name">Mackenzie Blanusa</h2>
           <p>- Co-chair<br>- Abstracts<br> </p>
-          <img alt="Mariya Galochkina" src="/assets/img/headshots/Galochkina_Mariya_GCC.jpg" />
+          <img alt="Mackenzie Blanusa" src="/assets/img/headshots/Mackenzie-Blanusa-Cochair.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Shawn Wang</h2>
+          <h2 class="profile__name">Lily Zhang</h2>
           <p>- Co-chair<br>- Abstracts<br> </p>
-          <img alt="Shawn Wang" src="/assets/img/headshots/Wang_Shawn_GCC.jpeg" />
+          <img alt="Lily Zhang" src="/assets/img/headshots/Lily-Zhang.jpeg" />
         </div>
       </div>
     </ul>
@@ -43,130 +43,174 @@ cover-img: "/assets/img/rainier1.jpeg"
       <div>
         <div class="profile">
           <h2 class="profile__name">Abby Beilman</h2>
-          <p>- Abstracts<br> <br> </p>
-          <img alt="Becca Cleveland Stout" src="/assets/img/headshots/AbbyBeilman_logistics_recordingevaluation.PNG" />
+          <p>- Logistics<br> - Recording & Evaluation<br></p> 
+          <img alt="Abby Beilman" src="/assets/img/headshots/AbbyBeilman-logistics-recordingevaluation.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Alex Chang</h2>
-          <p>- Conference Logistics</p>
-          <img alt="Alan Gaul" src="/assets/img/headshots/Alex_Chang.PNG" />
+          <p>- Social</p>
+          <img alt="Alex Chang" src="/assets/img/headshots/Alex-Chang.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Katherine Hasnain</h2>
-          <p>- Fundraising</p>
-          <img alt="Katherine Hasnain" src="/assets/img/headshots/Katherine Hasnain headshot-LinkedIn.jpg" />
+          <h2 class="profile__name">Anna Hall</h2>
+          <p>- Transportation Logistics</p>
+          <img alt="Anna Hall" src="/assets/img/headshots/Anna-Hall-transportation.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Emmie Le Roy</h2>
-          <p>- Recording & Evaluations <br> - Audio & Visual</p>
+          <p>- Communication <br> </p>
           <img alt="Emmie Le Roy" src="/assets/img/headshots/Emmie-LeRoy.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Amy Liu</h2>
-          <p>- Communication<br>- Social</p>
+          <p>- Relations<br></p>
           <img alt="Amy Liu" src="/assets/img/headshots/liu_amy.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Ankur Mahesh</h2>
-          <p>- Fundraising<br>- Transportation Logistics</p>
+          <p>- Fundraising<br></p>
           <img alt="Ankur Mahesh" src="/assets/img/headshots/Mahesh_Ankur-GCC Cropped.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Evan Meeker</h2>
-          <p>- Conference Logistics<br>- Audio & Visual <br> </p>
-          <img alt="Evan Meeker" src="/assets/img/headshots/meeker_evan.jpg" />
+          <h2 class="profile__name">Ashley Moore</h2>
+          <p>- Swag & Conference Booklet<br></p>
+          <img alt="Ashley Moore" src="/assets/img/headshots/AshleyMoore-co-chairpamphletswag.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Anthony Meza</h2>
-          <p>- Swag<br>- Social<br> </p>
-          <img alt="Anthony Meza" src="/assets/img/headshots/Anthony-Meza.jpg" />
+          <h2 class="profile__name">Caroline Ruto</h2>
+          <p>- Website<br></p>
+          <img alt="Caroline Ruto" src="/assets/img/headshots/CarolineRuto-Website.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Richelle Moskvichev</h2>
-          <p>- Website<br>- Fundraising<br>- Communications</p>
-          <img alt="Richelle Moskvichev" src="/assets/img/headshots/Moskvichev_Richelle.JPG" />
+          <h2 class="profile__name">Christina Draeger</h2>
+          <p>- Recording & Evaluation<br></p>
+          <img alt="Christina Draeger" src="/assets/img/headshots/ChristinaDraeger-recordingevaluation.JPG" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Hrag Najarian</h2>
-          <p>- Recording & Evaluations <br>- Website</p>
-          <img alt="Hrag Najarian" src="/assets/img/headshots/Najarian_Hrag.jpeg" />
+          <h2 class="profile__name">Dominik Stiller</h2>
+          <p>- Audio & Visual <br></p>
+          <img alt="Dominik Stiller" src="/assets/img/headshots/DominikStiller-AV.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Chinedu Nsude</h2>
-          <p>- Transportation</p>
+          <p>- Fundraising</p>
           <img alt="Chinedu Nsude" src="/assets/img/headshots/Chinedu-Headshot.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Elena Perez</h2>
-          <p>- Social<br>- Audio & Visual<br> </p>
-          <img alt="Elena Perez" src="/assets/img/headshots/PerezElena.png" />
+          <h2 class="profile__name">Georges Kanaan</h2>
+          <p>- Recording & Evaluation<br> </p>
+          <img alt="Georges Kanaan" src="/assets/img/headshots/GeorgesKanaan-recording.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Bryony Puxley</h2>
-          <p>- Abstracts</p>
-          <img alt="Bryony Puxley" src="/assets/img/headshots/Puxley_Bryony.jpeg" />
+          <h2 class="profile__name">Godspower Ubit</h2>
+          <p>- Communication</p>
+          <img alt="Godspower Ubit" src="/assets/img/headshots/GodspowerUbit.JPGg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Vanessa Sun</h2>
-          <p>- Conference Logistics<br>- Transportation Logistics</p>
-          <img alt="Vanessa Sun" src="/assets/img/avatar-icon.png" />
+          <h2 class="profile__name">Henry Olayiwola</h2>
+          <p>- Audio & Visual<br>- Swag & Conference Booklet<br> - Conference Logistics<br></p>
+          <img alt="Henry Olayiwola" src="/assets/img/Henry-Olayiwola.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Ben Tiger</h2>
-          <p>- Abstracts<br>- Swag</p>
-          <img alt="Ben Tiger" src="/assets/img/headshots/tiger_benjamin_gcc.jpg" />
+          <h2 class="profile__name">Manali Nayak</h2>
+          <p>- Website<br></p>
+          <img alt="Manali Nayak" src="/assets/img/headshots/Manali-Nayak-website.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Hemalatha Velappan</h2>
-          <p>- Communication<br>- Recording & Evaluation</p>
-          <img alt="Hemalatha Velappan" src="/assets/img/headshots/Hemalatha_Velappan.jpg" />
+          <h2 class="profile__name">Mary Grace Albright</h2>
+          <p>- Communication<br>- Audio & Visual</p>
+          <img alt="Mary Grace Albright" src="/assets/img/headshots/MaryGrace-Albright-advertcomms-audiovisual.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Ciara Willis</h2>
-          <p>- Fundraising<br>- Transportation Logistics</p>
-          <img alt="Ciara Willis" src="/assets/img/headshots/Willis headshot.png" />
+          <h2 class="profile__name">Meg Yoder</h2>
+          <p>- Transportation Logistics<br> </p>
+          <img alt="Meg Yoder" src="/assets/img/headshots/MegYoder-transportation.jpg" />
         </div>
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Lily Zhang</h2>
-          <p>- Communication<br>- Swag<br> </p>
-          <img alt="Lily Zhang" src="/assets/img/headshots/Lily-Zhang.jpeg" />
+          <h2 class="profile__name">Nina Buzby</h2>
+          <p>- Swag & Conference Booklet<br> </p>
+          <img alt="Nina Buzby" src="/assets/img/headshots/NinaBuzby.jpg" />
         </div>
-      </div>
-  
+      </div>  
+       <div>
+        <div class="profile">
+          <h2 class="profile__name">Oladapo Ayobami</h2>
+          <p>- Abstract<br> </p>
+          <img alt="Oladapo Ayobami" src="/assets/img/headshots/OladapoAyobami-abstract.jpg" />
+        </div>
+      </div>  
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Reese Barrett</h2>
+          <p>- Conference Logistics<br> </p>
+          <img alt="Reese Barrett" src="/assets/img/headshots/ReeseBarrett-logistics.jpg" />
+        </div>
+      </div>  
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Sky Gale</h2>
+          <p>- Relations<br> </p>
+          <img alt="Sky Gale" src="/assets/img/headshots/SkyGale-relations.jpg" />
+        </div>
+      </div>  
+       </div>  
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Stella Heflin</h2>
+          <p>- Fundraising<br> </p>
+          <img alt="Stella Heflin" src="/assets/img/headshots/Stella_Heflin_fundraising.jpg" />
+        </div>
+      </div>  
+       </div>  
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Taydra Low</h2>
+          <p>- Audio & Visual<br> - Conference Logistics <br> - Swag & Conference Booklet<br></p>
+          <img alt="Taydra Low" src="/assets/img/headshots/TaydraLow.jpg" />
+        </div>
+      </div> 
+       </div>
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Mariya Galochkina</h2>
+          <p>- Social<br>- Abstracts<br> </p>
+          <img alt="Mariya Galochkina" src="/assets/img/headshots/GalochkinaMariya-GCC.jpg" />
+        </div>
+      
     </ul>
   </div>
 </article>
