@@ -187,7 +187,6 @@ cover-img: "/assets/img/rainier1.jpeg"
           <img alt="Sky Gale" src="/assets/img/headshots/SkyGale-relations.jpg" />
         </div>
       </div>  
-       </div>  
       <div>
         <div class="profile">
           <h2 class="profile__name">Stella Heflin</h2>
@@ -195,7 +194,6 @@ cover-img: "/assets/img/rainier1.jpeg"
           <img alt="Stella Heflin" src="/assets/img/headshots/Stella_Heflin_fundraising.jpg" />
         </div>
       </div>  
-       </div>  
       <div>
         <div class="profile">
           <h2 class="profile__name">Taydra Low</h2>
@@ -203,7 +201,6 @@ cover-img: "/assets/img/rainier1.jpeg"
           <img alt="Taydra Low" src="/assets/img/headshots/TaydraLow.jpg" />
         </div>
       </div> 
-       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Mariya Galochkina</h2>
