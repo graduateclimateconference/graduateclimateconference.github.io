@@ -40,7 +40,7 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 -->
 
 <!-- The application for GCC 2024 opens on Monday April 22, 2024. -->
-<!-- The application deadline is __11:59 PM Eastern Daylight Time on Friday, June 7, 2024__. Successful applicants will be notified in July 2024. -->
+<!-- The application deadline is __11:59 PM Eastern Daylight Time on Saturday, June 8, 2024__. Successful applicants will be notified in July 2024. -->
 
 The application for GCC 2024 will open on April 22, 2024. Successful applicants will be notified in July 2024.
 
@@ -66,4 +66,4 @@ In addition to your basic contact information, the application will require you 
 - your preference for an oral/poster presentation
 - if you require travel assistance funding to attend the conference
 
-__Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Friday, June 7th, 2024.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
+__Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Saturday, June 8th, 2024.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
