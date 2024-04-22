@@ -214,10 +214,7 @@ cover-img: "/assets/img/rainier1.jpeg"
           <p>- Social<br>- Abstracts<br> </p>
           <img alt="Mariya Galochkina" src="/assets/img/headshots/GalochkinaMariya-GCC.jpg" />
        </div>
-
-      
-      <div> 
-    <li>
-  </ul>
-</div>
+      </div>
+    </ul>
+  </div>
 </article>
