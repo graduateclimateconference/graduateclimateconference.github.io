@@ -32,6 +32,13 @@ cover-img: "/assets/img/rainier1.jpeg"
           <img alt="Lily Zhang" src="/assets/img/headshots/Lily-Zhang.jpeg" />
         </div>
       </div>
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Lily Zhang</h2>
+          <p>- Co-chair<br>- Abstracts<br> </p>
+          <img alt="Rudra Thaker" src="/assets/img/headshots/RudraThaker-cochair.jpg" />
+        </div>
+      </div>
     </ul>
   </div>
 </article>
