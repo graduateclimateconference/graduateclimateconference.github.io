@@ -42,7 +42,7 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 <!-- The application for GCC 2024 opens on Monday April 22, 2024. -->
 <!-- The application deadline is __11:59 PM Eastern Daylight Time on Saturday, June 8, 2024__. Successful applicants will be notified in July 2024. -->
 
-The application for GCC 2024 will open on April 22, 2024. Successful applicants will be notified in July 2024.
+The application for GCC 2024 will open on April 23, 2024. Successful applicants will be notified in July 2024.
 
 ### Eligibility
 The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2024.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals from underrepresented groups in STEM.
