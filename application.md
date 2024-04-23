@@ -42,9 +42,7 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 <!-- The application for GCC 2024 opens on Monday April 22, 2024. -->
 <!-- The application deadline is __11:59 PM Eastern Daylight Time on Saturday, June 8, 2024__. Successful applicants will be notified in July 2024. -->
 
-The application for GCC 2024 is now open!
-
-### Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdbjYtHFzo-A30FHnb1QgRb9feNr54nDKf08KAsdurAb1FIyQ/viewform)
+### The application for GCC 2024 is now open! Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdbjYtHFzo-A30FHnb1QgRb9feNr54nDKf08KAsdurAb1FIyQ/viewform)
 
 Successful applicants will be notified in July 2024.
 
