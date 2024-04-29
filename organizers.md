@@ -91,13 +91,6 @@ cover-img: "/assets/img/rainier1.jpeg"
       </div>
       <div>
         <div class="profile">
-          <h2 class="profile__name">Ashley Moore</h2>
-          <p>- Swag & Conference Booklet<br></p>
-          <img alt="Ashley Moore" src="/assets/img/headshots/AshleyMoore-co-chairpamphletswag.jpg" />
-        </div>
-      </div>
-      <div>
-        <div class="profile">
           <h2 class="profile__name">Caroline Ruto</h2>
           <p>- Website<br></p>
           <img alt="Caroline Ruto" src="/assets/img/headshots/CarolineRuto-Website.jpg" />
