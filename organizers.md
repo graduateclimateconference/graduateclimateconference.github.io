@@ -140,6 +140,20 @@ cover-img: "/assets/img/rainier1.jpeg"
       </div>
       <div>
         <div class="profile">
+          <h2 class="profile__name">Jay Pillai</h2>
+          <p>- Social</p>
+          <img alt="Jay Pillai" src="/assets/img/headshots/Jay_Pillai_social.jpg" />
+        </div>
+      </div>
+      <div>
+        <div class="profile">
+          <h2 class="profile__name">Joey Rotondo</h2>
+          <p>- Logistics</p>
+          <img alt="Joey Rotondo" src="/assets/img/headshots/JosephRotondo-Logistics.jpg" />
+        </div>
+      </div>
+      <div>
+        <div class="profile">
           <h2 class="profile__name">Manali Nayak</h2>
           <p>- Website<br></p>
           <img alt="Manali Nayak" src="/assets/img/headshots/Manali-Nayak-website.jpg" />
