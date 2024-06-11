@@ -68,4 +68,4 @@ In addition to your basic contact information, the application will require you 
 - your preference for an oral/poster presentation
 - if you require travel assistance funding to attend the conference
 
-__Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Saturday, June 14th, 2024.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
+__Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Friday, June 14th, 2024.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
