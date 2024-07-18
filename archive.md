@@ -22,4 +22,5 @@ cover-img: "assets/img/GCC2018.jpeg"
 - [GCC 14 (2020)](https://2020gcc.weebly.com){:target="_blank"} – UW & MIT/WHOI (virtual)
 - GCC 15 (2021) – UW & MIT/WHOI (virtual)
 - [GCC 16 (2022)](https://graduateclimateconference.github.io/gcc2022/){:target="_blank"} - University of Washington
+- [GCC 17 (2023)](https://graduateclimateconference.github.io/gcc2023/){:target="_blank"} - Massachusetts Institute of Technology/Woods Hole Oceanographic Institution
 
