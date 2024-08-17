@@ -13,12 +13,16 @@ For conference updates, please continue to check this website or connect with us
 The first GCC was organized by graduate students at the University of Washington in 2006. As the conference has grown in demand and scope, the responsibility of hosting the GCC has rotated between graduate institutions including the Massachusetts Institute of Technology and the Woods Hole Oceanographic Institution. Historically, the GCC has been organized by graduate students from MIT and the University of Washington, and this year’s conference is organized by students from 10 institutions worldwide.
 
 - University of Washington
-- Massachusetts Institute of Technology
+- Massachusetts Institute of Technology/ WHOI
 - University of Oklahoma
 - University of Hawaii
 - University of California, Los Angeles
-- University of California, Berkley
-- University of Wisconsin
+- University of California, Berkeley
+- University of Wisconsin, Madison
 - Kansas State University
 - University of Connecticut
 - University of British Columbia
+- Clark University
+- Purdue University
+- University of Pittsburgh
+- Boston College
