@@ -40,7 +40,7 @@ Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.
 
 ## 4. Other Onsite Safety Measures
 
-- __Masks__: Masks will be required for all oral and poster presentations, keynotes, and workshops. Masks will not be required in shared accomodations, at meals, or at social events.
+- __Masks__: We will have masks available on site during oral and poster presentations, keynotes and workshops. Masks will not be required in shared accomodations, at meals or at social events. 
 - Hand sanitation stations will be available onsite for attendees.
 - Self-assessment – If you are feeling unwell and/or experiencing symptoms of COVID-19, you should not attend.
 
