@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sponsors
-subtitle: Graduate Climate Conference Sponsors
+title: Community Partners
+subtitle: Graduate Climate Conference Community Partners
 ---
 
-## We thank our generous sponsors for their support of the GCC!
+## We thank our community partners for their participation and collaboration with the GCC!
 
 
 
@@ -51,10 +51,12 @@ subtitle: Graduate Climate Conference Sponsors
 
 <div class="row">
       <div class="column left">
-        <p>Ai2</p>
+        <p><b>Ai2</b> \n
+        <i>Building breakthrough AI to solve the world's biggest problems.</i></p>
         <a target="_blank" href="https://allenai.org/"><img src="/assets/img/sponsors/ai2logo.gif" alt="Ai2" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p>CarbonPlan</p>
+        <p><b>CarbonPlan</b> \n
+        <i>Improving the transparency and scientific integrity of climate solutions with open data and tools.</i></p>
         <a target="_blank" href="https://carbonplan.org/"><img src="/assets/img/sponsors/carbonplanlogo.png" alt="CarbonPlan" style="max-height=300px; max-width:300px;"></a>
       </div>
