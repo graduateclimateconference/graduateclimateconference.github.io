@@ -117,7 +117,7 @@ subtitle: Graduate Climate Conference Sponsors
         <p>WHOI Applied Ocean Physics & Engineering</p>
         <a target="_blank" href="https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/"><img src="/assets/img/sponsors/whoi.png" alt="WHOI Applied Ocean Physics & Engineering" style="max-height=300px; max-width:300px;"></a>
       </div>
-       <div class="column center">
+       <div class="column right">
         <p>Washington Sea Grant</p>
         <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;"></a>
       </div>
