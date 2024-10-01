@@ -58,4 +58,3 @@ subtitle: Graduate Climate Conference Sponsors
         <p>CarbonPlan</p>
         <a target="_blank" href="https://carbonplan.org/"><img src="/assets/img/sponsors/carbonplanlogo.png" alt="CarbonPlan" style="max-height=300px; max-width:300px;"></a>
       </div>
-</div>
