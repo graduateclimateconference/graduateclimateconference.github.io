@@ -121,4 +121,3 @@ subtitle: Graduate Climate Conference Sponsors
         <p>Washington Sea Grant</p>
         <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;"></a>
       </div>
-</div>
