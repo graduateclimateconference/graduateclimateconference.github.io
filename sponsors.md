@@ -121,3 +121,16 @@ subtitle: Graduate Climate Conference Sponsors
         <p>Washington Sea Grant</p>
         <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;"></a>
       </div>
+</div>
+  
+## We also thank our community partners for their support of the GCC!  
+
+<div class="row">
+      <div class="column left">
+        <p>Ai2</p>
+        <a target="_blank" href="https://allenai.org/"><img src="/assets/img/sponsors/ai2logo.gif" alt="Ai2" style="max-height=300px; max-width:300px;"></a>
+      </div>
+      <div class="column right">
+        <p>CarbonPlan</p>
+        <a target="_blank" href="https://carbonplan.org/"><img src="/assets/img/sponsors/carbonplanlogo.png" alt="CarbonPlan" style="max-height=300px; max-width:300px;"></a>
+      </div>
