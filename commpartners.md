@@ -51,12 +51,12 @@ subtitle: Graduate Climate Conference Community Partners
 
 <div class="row">
       <div class="column left">
-        <p><b>Ai2</b> \n
+        <p><b>Ai2</b> <br>
         <i>Building breakthrough AI to solve the world's biggest problems.</i></p>
         <a target="_blank" href="https://allenai.org/"><img src="/assets/img/sponsors/ai2logo.gif" alt="Ai2" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p><b>CarbonPlan</b> \n
+        <p><b>CarbonPlan</b> <br>
         <i>Improving the transparency and scientific integrity of climate solutions with open data and tools.</i></p>
         <a target="_blank" href="https://carbonplan.org/"><img src="/assets/img/sponsors/carbonplanlogo.png" alt="CarbonPlan" style="max-height=300px; max-width:300px;"></a>
       </div>
