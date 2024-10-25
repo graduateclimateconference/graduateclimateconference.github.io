@@ -6,7 +6,7 @@ cover-img: "/assets/img/path.jpg"
 
 # Schedule
 
-<embed src = "/pdf/GCC_schedule.pdf#toolbar=0" width = 300, height = 500 alt="Conference schedule">
+<embed src = "/pdf/GCC_schedule.pdf" width = 300, height = 500 alt="Conference schedule">
 
 # Oral Presentations
 
