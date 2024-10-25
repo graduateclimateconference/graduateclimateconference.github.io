@@ -6,7 +6,7 @@ cover-img: "/assets/img/path.jpg"
 
 # Schedule
 
-<embed src = "/pdf/GCC_schedule.pdf" width = 300, height = 500 alt="Conference schedule">
+<iframe src = "/pdf/GCC_schedule.pdf" scrolling = "no" 0 alt="Conference schedule">
 
 # Oral Presentations
 
