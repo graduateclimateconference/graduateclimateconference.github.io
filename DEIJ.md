@@ -26,4 +26,4 @@ Specific actions that the GCC will take in order to ensure an equitable and incl
 
 We will have two keynote speakers at the GCC: a speaker to discuss diversity, equity, inclusion, and justice (DEIJ), and an early career scientist with a unique perspective on career paths in research, academia, science communication, and beyond.
 
-Read about the speakers on the Schedule & Abstracts page (coming soon!).
+Read about the speakers on the [Schedule & Abstracts page](https://graduateclimateconference.github.io/schedule/).
