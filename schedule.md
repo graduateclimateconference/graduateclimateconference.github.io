@@ -4,7 +4,9 @@ title: Schedule & Abstracts
 cover-img: "/assets/img/path.jpg"
 ---
 
-The GCC 2024 Schedule will be update in due time.
+# Schedule
+
+<embed src="/pdf/GCC_schedule.png" alt="Conference schedule">
 
 # Coming soon!
 
