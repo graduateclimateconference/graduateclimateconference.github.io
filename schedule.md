@@ -6,7 +6,7 @@ cover-img: "/assets/img/path.jpg"
 
 # Schedule
 
-<embed src="/pdf/GCC_schedule.png" alt="Conference schedule">
+<embed src="/pdf/GCC_schedule.pdf" alt="Conference schedule">
 
 # Coming soon!
 
