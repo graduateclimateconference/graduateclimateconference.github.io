@@ -6,11 +6,11 @@ cover-img: "/assets/img/path.jpg"
 
 # Schedule
 
-<embed src="/pdf/GCC_schedule.pdf#toolbar=0" width = 300, height = 500 alt="Conference schedule">
+<embed src = "/pdf/GCC_schedule.pdf#toolbar=0" width = 300, height = 500 alt="Conference schedule">
 
 # Oral Presentations
 
-[Conference Program](https://graduateclimateconference.github.io/pdf/program.pdf)
+[Abstracts](https://graduateclimateconference.github.io/pdf/GCC2024_abstracts.pdf)
 
 As a reminder, your talk should be aimed at a general audience, as there will be graduate students from a range of disciplines and backgrounds attending.
 
@@ -21,4 +21,11 @@ Your poster should be a maximum of 60” x 40” (1.5 m x 1 m). We do not have p
 
 # Keynote Speakers
 
-Soon to be announced!
+__Dr. Hannah Zanowski__
+> Diversity, Equity, Inclusion, and Justice Keynote Speaker
+
+
+
+__Dr. Marysa Laguë__
+> Early Career Scientist Keynote Speaker
+
