@@ -6,11 +6,12 @@ cover-img: "/assets/img/path.jpg"
 
 # Schedule
 
-<embed src="/pdf/GCC_schedule.pdf" alt="Conference schedule">
+<embed src="/pdf/GCC_schedule.pdf#toolbar=0" width = 300, height = 500 alt="Conference schedule">
 
-# Coming soon!
+# Oral Presentations
 
-#### Oral Presentations
+[Conference Program](https://graduateclimateconference.github.io/pdf/program.pdf)
+
 As a reminder, your talk should be aimed at a general audience, as there will be graduate students from a range of disciplines and backgrounds attending.
 
 Please keep your oral presentation between 10-12 minutes long. We have a tight schedule, so at 12 minutes we will ask that you wrap up your talk. There will be a panel discussion after your session, during which participants will be able to ask questions. 
