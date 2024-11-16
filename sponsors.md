@@ -54,8 +54,8 @@ subtitle: Graduate Climate Conference Sponsors
         <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p>Woods Hole Oceanographic Institution</p>
-        <a target="_blank" href="https://www.whoi.edu"><img src="/assets/img/sponsors/whoi.png" alt="Woods Hole Oceanographic Institution" style="max-height=300px; max-width:300px;"></a>
+        <p>MIT Earth, Atmospheric and Climate Sciences</p>
+        <a target="_blank" href="https://www.eaps.mit.edu"><img src="/assets/img/sponsors/mit_eaps.png" alt="MIT Earth, Atmospheric and Climate Sciences" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
         <p>The National Science Foundation</p>
