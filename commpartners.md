@@ -58,5 +58,5 @@ subtitle: Graduate Climate Conference Community Partners
       <div class="column right">
         <p><b>CarbonPlan</b> <br>
         <i>Improving the transparency and scientific integrity of climate solutions with open data and tools.</i></p>
-        <a target="_blank" href="https://carbonplan.org/"><img src="/assets/img/sponsors/carbonplanlogo.png" alt="CarbonPlan" style="max-height=300px; max-width:300px;"></a>
+        <a target="_blank" href="https://carbonplan.org/"><img src="/assets/img/sponsors/carbonplan.png" alt="CarbonPlan" style="max-height=300px; max-width:300px;"></a>
       </div>
