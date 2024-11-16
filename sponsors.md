@@ -50,8 +50,8 @@ subtitle: Graduate Climate Conference Sponsors
 
 <div class="row">
       <div class="column left">
-        <p>UW Program on Climate Change</p>
-        <a target="_blank" href="https://pcc.uw.edu"><img src="/assets/img/sponsors/pcc.png" alt="UW Program on Climate Change" style="max-height=300px; max-width:300px;"></a>
+        <p>UW School of Oceanography</p>
+        <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
         <p>Woods Hole Oceanographic Institution</p>
@@ -62,59 +62,51 @@ subtitle: Graduate Climate Conference Sponsors
         <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p>MIT Civil Engineering</p>
-        <a target="_blank" href="https://cee.mit.edu"><img src="/assets/img/sponsors/MIT Civil Engineering.png" alt="MIT Civil Engineering" style="max-height=300px; max-width:300px;"></a>
+        <p>UW Department of Civil and Environmental Engineering</p>
+        <a target="_blank" href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Department of Civil and Environmental Engineering" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
-        <p>UW Atmospheric Sciences</p>
-        <a target="_blank" href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/atmos.jpeg" alt="UW Atmospheric Sciences" style="max-height=300px; max-width:300px;"></a>
+        <p>UW Department of Atmospheric and Climate Science</p>
+        <a target="_blank" href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/UW_atmos.jpeg" alt="UW Department of Atmospheric and Climate Science" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p>UBC Department of Earth, Ocean and Atmospheric Sciences</p>
-        <a target="_blank" href="https://www.eoas.ubc.ca"><img src="/assets/img/sponsors/ubc_eoas.jpg" alt="UBC Department of Earth, Ocean and Atmospheric Sciences" style="max-height=300px; max-width:300px;"></a>
+        <p>UW Graduate School</p>
+        <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
-        <p>Woods Hole Oceanographic Institution, President Peter B. de Menocal</p>
-        <a target="_blank" href="https://www.ess.washington.edu/"><img src="/assets/img/sponsors/WHOI President.jpg" alt="Woods Hole Oceanographic Institution, President Peter B. de Menocal" style="max-height=300px; max-width:300px;"></a>
+        <p>UW Cooperative Institute for Climate, Ocean, and Ecosystem Studies</p>
+        <a target="_blank" href="https://www.cicoes.uw.edu"><img src="/assets/img/sponsors/cicoes.png" alt="UW Cooperative Institute for Climate, Ocean, and Ecosystem Studies" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
         <p>MIT Lorenz Center</p>
         <a target="_blank" href="https://www.lorenz.mit.edu"><img src="/assets/img/sponsors/MIT Lorenz Center.jpg" alt="MIT Lorenz Center" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
-        <p>MIT Program in Atmospheres, Oceans and Climate</p>
-        <a target="_blank" href="http://paocweb.mit.edu"><img src="/assets/img/sponsors/MIT PAOC Large.png" alt="MIT Program in Atmospheres, Oceans and Climate" style="max-height=300px; max-width:300px;"></a>
+        <p>Lawrence Berkeley National Laboratory</p>
+        <a target="_blank" href="http://www.lbnl.gov"><img src="/assets/img/sponsors/lbnl.png" alt="Lawrence Berkeley National Laboratory" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p>MIT AeroAstro</p>
-        <a target="_blank" href="https://aeroastro.mit.edu"><img src="/assets/img/sponsors/MIT Aero:Astro.png" alt="MIT AeroAstro" style="max-height=300px; max-width:300px;"></a>
+        <p>Department of Atmospheric and Oceanic Sciences, University of Wisconsin-Madison</p>
+        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uw_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-Madison" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
-        <p>University of Hawaiʻi at Mānoa </p>
-        <a target="_blank" href="https://manoa.hawaii.edu"><img src="/assets/img/sponsors/UH Manoa.jpg" alt="University of Hawaiʻi at Mānoa" style="max-height=300px; max-width:300px;"></a>
+        <p>UW Department of Biology</p>
+        <a target="_blank" href="https://www.biology.washington.edu"><img src="/assets/img/sponsors/UW_biology.jpg" alt="UW Department of Biology" style="max-height=300px; max-width:300px;"></a>
+      </div>
+      <div class="column left">
+        <p>The CO2 Foundation</p>
+        <a target="_blank" href="https://www.co2foundation.org"><img src="/assets/img/sponsors/co2foundationlogo.png" alt="The CO2 Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p>Department of Energy</p>
-        <a target="_blank" href="https://www.energy.gov"><img src="/assets/img/sponsors/DOE.jpg" alt="Department of Energy" style="max-height=300px; max-width:300px;"></a>
+        <p>Department of Earth Sciences, University of Connecticut</p>
+        <a target="_blank" href="https://www.earthsciences.uconn.edu"><img src="/assets/img/sponsors/uconn_earthsci.png" alt="Department of Earth Sciences, University of Connecticut" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
-        <p>Marine Biological Laboratory</p>
-        <a target="_blank" href="https://www.mbl.edu"><img src="/assets/img/sponsors/MBL.jpeg" alt="Marine Biological Laboratory" style="max-height=300px; max-width:300px;"></a>
-      </div>
+        <p>Department of Geology and Environmental Science, University of Pittsburgh</p>
+        <a target="_blank" href="https://www.geology.pitt.edu"><img src="/assets/img/sponsors/pitt_earthsci.png" alt="Department of Geology and Environmental Science, University of Pittsburgh" style="max-height=300px; max-width:300px;"></a>
       <div class="column right">
-        <p>MIT Academic Programs Office</p>
-        <a target="_blank" href="https://www.whoi.edu/what-we-do/educate/apo/"><img src="/assets/img/sponsors/MIT-Logo.png" alt="MIT Academic Programs Office" style="max-height=300px; max-width:300px;"></a>
-      </div>
-      <div class="column left">
-        <p>Department of Earth, Atmospheric, and Planetary Sciences</p>
-        <a target="_blank" href="https://eapsweb.mit.edu"><img src="/assets/img/sponsors/EAPS.jpeg" alt="Department of Earth, Atmospheric, and Planetary Sciences" style="max-height=300px; max-width:300px;"></a>
-      <div class="column right">
-        <p>WHOI Marine Chemistry & Geochemistry</p>
-        <a target="_blank" href="https://www.whoi.edu/what-we-do/understand/departments-centers-labs/mcg/"><img src="/assets/img/sponsors/whoi.png" alt="WHOI Marine Chemistry & Geochemistry" style="max-height=300px; max-width:300px;"></a>
-      </div>
-      <div class="column left">
-        <p>WHOI Applied Ocean Physics & Engineering</p>
-        <a target="_blank" href="https://www.whoi.edu/what-we-do/understand/departments-centers-labs/aope/"><img src="/assets/img/sponsors/whoi.png" alt="WHOI Applied Ocean Physics & Engineering" style="max-height=300px; max-width:300px;"></a>
+        <p>Department of Earth and Environmental Sciences, Boston College</p>
+        <a target="_blank" href="https://www.bc.edu/bc-web/schools/morrissey/departments/eesc.htm"><img src="/assets/img/sponsors/boston_earthsci.jpeg" alt="Department of Earth and Environmental Sciences, Boston College" style="max-height=300px; max-width:300px;"></a>
       </div>
        <div class="column right">
         <p>Washington Sea Grant</p>
