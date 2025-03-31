@@ -1,0 +1,185 @@
+/* Globals */
+body {
+    font-family: "Inter", sans-serif;
+  }
+  
+  h1 {
+    font-weight: 900;
+    font-size: 2.7rem;
+    text-align: center;
+  }
+  
+  p {
+    max-width: 60ch;
+  }
+  
+  a {
+    color: currentcolor;
+  }
+  
+  /* Utilities */
+  .auto-grid {
+    display: grid;
+    grid-template-columns: repeat(
+      auto-fill,
+      minmax(var(--auto-grid-min-size, 10rem), 1fr)
+    );
+    /* grid-gap: var(--auto-grid-gap, 0); */
+    grid-gap: 10px;
+    padding: 0;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .flow > * + * {
+    margin-top: var(--flow-space, 1em);
+  }
+  
+  /* Composition */
+  .team {
+    --flow-space: 2em;
+  }
+  
+  /* Blocks */
+  .profile__name {
+    color: #000000;
+    position: absolute;
+    bottom: 60%;
+  }
+  
+  .profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    aspect-ratio: 1/1;
+    position: relative;
+    padding: 1.1rem;
+    color: #000000;
+    backface-visibility: hidden;
+    text-decoration: none;
+    overflow: hidden;
+  }
+  
+  .profile::before,
+  .profile::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    /*inset: 0;*/
+    top: 0;
+    left: 0;
+  }
+  
+  .profile::before {
+  background: linear-gradient(
+    to top,
+    hsl(100 100% 100% / 0.7) 0%,
+    hsl(100 100% 100% / 0.6) 7.8%,
+    hsl(100 100% 100% / 0.5) 14.4%,
+    hsl(100 100% 100% / 0.4) 20.2%,
+    hsl(100 100% 100% / 0.3) 25.3%,
+    hsl(100 100% 100% / 0.2) 29.9%,
+    hsl(100 100% 100% / 0.1) 34.3%,
+    hsl(100 100% 100% / 0) 38.7%,
+    hsl(100 100% 100% / 0) 43.3%,
+    hsl(100 100% 100% / 0) 48.4%,
+    hsl(100 100% 100% / 0) 54.1%,
+    hsl(0100 100% 100% / 0) 60.6%,
+    hsl(100 100% 100% / 0) 68.3%,
+    hsl(100 100% 100% / 0) 77.3%,
+    hsl(100 100% 100% / 0) 87.7%,
+    hsl(100 100% 100% / 0) 100%
+  );
+  transition: 200ms opacity linear;
+}
+
+.profile::after {
+  background: linear-gradient(
+    45deg,
+    hsl(0 0% 0% / 0) 0,
+    hsl(0 0% 0% / 0) 100%
+  );
+  opacity: 0;
+  transition: 300ms opacity linear;
+}
+  
+  .profile > * {
+    z-index: 1;
+  }
+  
+  .profile img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    z-index: -1;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: filter 200ms ease, transform 250ms linear;
+  }
+  
+  .profile h2 {
+    transform: translateY(6.5em);
+  }
+  
+  
+  .profile p {
+    transform: translateY(2em);
+  }
+  
+  .profile h2 {
+    font-size: 1rem;
+    line-height: 1.05;
+    font-weight: 600;
+    letter-spacing: 0.03ch;
+    transition: 200ms transform ease;
+  }
+  
+  .profile p {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+  
+  .profile p {
+    opacity: 0;
+    transition: 200ms opacity linear, 200ms transform ease-in-out;
+  }
+  
+  .profile:focus {
+    outline: 0.5rem solid white;
+    outline-offset: -0.5rem;
+  }
+  
+  .profile:hover :is(h2, p),
+  .profile:focus :is(h2, p) {
+    transform: none;
+  }
+  
+  .profile:hover::after,
+  .profile:focus::after,
+  .profile:hover::before,
+  .profile:focus::before {
+    opacity: 0.7;
+  }
+  
+  .profile:hover p,
+  .profile:focus p {
+    opacity: 1;
+    transition-delay: 100ms;
+  }
+  
+  .profile:hover img,
+  .profile:focus img {
+    /* filter: grayscale(0); */
+    opacity: 0.4;
+    /* transform: scale(1.05) rotate(1deg); */
+    -webkit-transform: scale(1.03, 1.03);
+	transform: scale(1.03, 1.03);
+  }
+  
+  .profile:hover profile__name {
+    transition: 200ms transform ease-in-out; 
+  }
