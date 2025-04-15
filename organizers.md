@@ -171,6 +171,13 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
           <img alt="Hiroki Nagao" src="/assets/img/headshots/Hiroki_Nagao_abstracts.JPG" />
         </div>
       </div>
+       <div>
+        <div class="profile">
+          <h2 class="profile__name">Helena McDonald</h2>
+          <p>- Abstracts</p>
+          <img alt="Helena McDonald" src="/assets/img/headshots/Helena_McDonald_abstracts.jpeg" />
+        </div>
+      </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Jo Hickman</h2>
