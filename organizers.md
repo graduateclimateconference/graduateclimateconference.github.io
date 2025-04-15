@@ -47,13 +47,13 @@ cover-img: "/assets/img/rainier1.jpeg"
           <img alt="Abby Beilman" src="/assets/img/headshots/Abby_Beilman_swag.jpg" />
         </div>
       </div>
-        <div>
+      <div>
         <div class="profile">
           <h2 class="profile__name">Abigail Bonnington</h2>
           <p>- Transportation</p>
           <img alt="Abigail Bonnington" src="/assets/img/headshots/Abigail_Bonnington_transport.jpg" />
         </div>
-       </div>
+      </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Akshay Rajeev</h2>
