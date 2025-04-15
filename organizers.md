@@ -2,7 +2,7 @@
 layout: page
 title: Meet the Organizers
 subtitle: GCC 2025 Executive Committee
-cover-img: "/assets/img/rainier1.jpeg"
+cover-img: "/assets/img/WoodsHole1.jpeg"
 ---
 
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
