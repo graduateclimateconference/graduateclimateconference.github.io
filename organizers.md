@@ -124,7 +124,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
           <img alt="Cassandra Bartels" src="/assets/img/headshots/Cassandra_Bartels_transportation.png" />
       </div>
       <div>
-      <div class="profile">
+        <div class="profile">
           <h2 class="profile__name">Catherine Zhang</h2>
           <p>- Social<br></p>
           <img alt="Catherine Zhang" src="/assets/img/headshots/Catherine_Zhang_social.jpg" />
