@@ -22,7 +22,7 @@ navbar-links:
   Application: "application"
   Logistics:
     - Conference Logistics: "logistics"
-    - Schedule & Abstracts: "schedule"
+    # - Schedule & Abstracts: "schedule"
     - COVID-19 Protocols: "covid"
   Broadening Participation: "Broadening participation"
   More Info:
