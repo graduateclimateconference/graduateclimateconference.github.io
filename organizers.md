@@ -51,7 +51,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Abigail Bonnington</h2>
           <p>- Transportation</p>
-          <img alt="Abigail Bonnington" src="/assets/img/headshots/Abigail_Bonnington_transport.jpg" />
+          <img alt="Abigail Bonnington" src="/assets/img/headshots/Abigail_Bonnington_transportation.jpg" />
         </div>
       </div>
       <div>
@@ -72,14 +72,14 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Ali Fallah</h2>
           <p>- Communication</p>
-          <img alt="Ali Fallah" src="/assets/img/headshots/Ali_Fallah_commns.png" />
+          <img alt="Ali Fallah" src="/assets/img/headshots/Ali_Fallah_comms.png" />
         </div>
       </div>
       <div>
         <div class="profile">
           <h2 class="profile__name">Allie Stift</h2>
           <p>- Advertising</p>
-          <img alt="Allie Stift" src="/assets/img/headshots/Allie_Stift_advertising.png" />
+          <img alt="Allie Stift" src="/assets/img/headshots/Allie_Stift_advertising.jpeg" />
         </div>
       </div>
       <div>
@@ -93,7 +93,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Anagha Payyambally</h2>
           <p>- Swag<br></p>
-          <img alt="Anagha Payyambally" src="/assets/img/headshots/Anagha_Payyambally_swag" />
+          <img alt="Anagha Payyambally" src="/assets/img/headshots/Anagha_Payyambally_swag.jpg" />
         </div>
       </div>
       <div>
@@ -107,7 +107,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Bradley Lamkin</h2>
           <p>- Social<br></p>
-          <img alt="Bradley Lamkin" src="/assets/img/headshotsBradley_Lamkin_social.jpeg" />
+          <img alt="Bradley Lamkin" src="/assets/img/headshots/Bradley_Lamkin_social.jpeg" />
         </div>
       </div>
       <div>
@@ -217,7 +217,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
         <div class="profile">
           <h2 class="profile__name">Silas Emovwodo</h2>
           <p>- Communications<br> </p>
-          <img alt="Silas Emovwodo" src="/assets/img/headshots/Silas _Emovwodo_comms.jpg" />
+          <img alt="Silas Emovwodo" src="/assets/img/headshots/Silas_Emovwodo_comms.jpg" />
         </div>
       </div>
       <div>
