@@ -6,7 +6,9 @@ cover-img: "/assets/img/path.jpg"
 
 # Schedule
 
-<img src="/assets/img/GCC_schedule.png" alt="Conference schedule">
+The GCC 2025 schedule, information about poster and oral presentations, and announcement of keynote speakers will be updated on this page. Stay tuned!
+
+<!-- <img src="/assets/img/GCC_schedule.png" alt="Conference schedule">
 
 # Oral Presentations
 
@@ -28,4 +30,4 @@ Dr. Hannah Zanowski is an Assistant Professor in the department of Atmospheric a
 
 __Dr. Marysa Laguë__
 > Early Career Scientist Keynote Speaker
-Dr. Marysa Lague is an Assistant Professor in the Geography department at the University of British Columbia. Her research focuses on understanding how terrestrial processes impact the atmosphere and surface climate from the scale of a single plant to the scale of a planet, by modulating fluxes of water and energy between the land and the atmosphere. Dr. Lague completed her PhD in Atmospheric Sciences at the University of Washington, where she also completed MSc degrees in both Atmospheric Sciences and Applied Mathematics. She was a James S. McDonnell Foundation Postdoctoral Fellow in Dynamic and Multiscale Systems at the University of California, Berkeley, and at the University of Saskatchewan’s Coldwater Lab. In her work, she uses models of varied complexity to test how individual land-surface properties modify energy and water fluxes to the atmosphere, and how those flux changes in turn impact atmospheric dynamics and climate, both locally and in regions far away from the initial land change. The overarching goal of her research program is to understand where the atmosphere is sensitive to changes in the land surface, what particular properties of the land surface modulate climate, and how continentality influences the coupled global climate system.
+Dr. Marysa Lague is an Assistant Professor in the Geography department at the University of British Columbia. Her research focuses on understanding how terrestrial processes impact the atmosphere and surface climate from the scale of a single plant to the scale of a planet, by modulating fluxes of water and energy between the land and the atmosphere. Dr. Lague completed her PhD in Atmospheric Sciences at the University of Washington, where she also completed MSc degrees in both Atmospheric Sciences and Applied Mathematics. She was a James S. McDonnell Foundation Postdoctoral Fellow in Dynamic and Multiscale Systems at the University of California, Berkeley, and at the University of Saskatchewan’s Coldwater Lab. In her work, she uses models of varied complexity to test how individual land-surface properties modify energy and water fluxes to the atmosphere, and how those flux changes in turn impact atmospheric dynamics and climate, both locally and in regions far away from the initial land change. The overarching goal of her research program is to understand where the atmosphere is sensitive to changes in the land surface, what particular properties of the land surface modulate climate, and how continentality influences the coupled global climate system. -->
