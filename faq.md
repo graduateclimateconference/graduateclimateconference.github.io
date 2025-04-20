@@ -26,11 +26,11 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
 
 ### When does the application open?
 
-The [application](https://graduateclimateconference.github.io/application/) opens on April 23, 2024.
+The [application](https://graduateclimateconference.github.io/application/) opens on May 14th, 2025.
 
 ### When does the application close?
 
-The application will close at 11:59 PM EDT on June 14, 2024.
+The application will close at 11:59 PM EDT on June 8th, 2025.
 
 ### When will I find out if my abstract was accepted?
 
@@ -38,7 +38,7 @@ Early July, 2024.
 
 ### Where will the conference take place?
 
-GCC 2024 will take place at the Pack Forest Conference Center, located about 1.5 hours south of Seattle, WA in the foothills of Mount Rainier.
+GCC 2025 will take place at the the Marine Biological Laboratory, located in Woods Hole, Massachusetts.
 
 ### How are travel grants issued?
 
@@ -46,15 +46,15 @@ Travel grants are issued as reimbursements. You must present a receipt of your e
 
 ### Are accommodations, transportation, and food included?
 
-We will provide transport between UW and Pack Forest, as well as accomodations and food during the conference. Conference attendees will stay in the historical cabins on site, with bedding and towels provided. Meals will also be served in the on-site dining hall. All meals will be vegetarian, and we will accommodate any additional dietary restrictions and allergies. More information can be found on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
+We will provide transport between Boston and Woods Hole, as well as accomodations and food during the conference. Conference attendees will stay in provided housing, with bedding and towels provided. Meals will also be served in the on-site dining hall. All meals will be vegetarian, and we will accommodate any additional dietary restrictions and allergies. More information can be found on the [Logistics](https://graduateclimateconference.github.io/logistics2023/) page.
 
 ### Will the conference have a hybrid online option?
 
-No, the conference will be conducted entirely in-person. Attendees will be expected to travel to Seattle, Washington, for the duration of the conference.
+No, the conference will be conducted entirely in-person. Attendees will be expected to travel to Woods Hole, Massachusetts, for the duration of the conference.
 
 ### What is the format?
 
-GCC 2024 will be a mixture of oral presentations, poster presentations, attendee-led workshops, and social events. An example of a past schedule can be found [here](http://gradclimateconf.mit.edu/wp-content/uploads/2019/11/GCC-2019-Schedule-10.pdf){:target="_blank"}.
+GCC 2025 will be a mixture of oral presentations, poster presentations, attendee-led workshops, and social events. An example of a past schedule can be found [here](http://gradclimateconf.mit.edu/wp-content/uploads/2019/11/GCC-2019-Schedule-10.pdf){:target="_blank"}.
 
 ### How many people will be there?
 
@@ -62,7 +62,7 @@ Approximately 120 attendees are expected.
 
 ### What are the Sunday activities?
 
-It is a GCC tradition to have optional recreation activities on Sunday afternoon. Refer to the [Logistics](https://graduateclimateconference.github.io/logistics/) page later for more information about specific activities offered at GCC 2024.
+It is a GCC tradition to have optional recreation activities on Sunday afternoon. Refer to the [Logistics](https://graduateclimateconference.github.io/logistics/) page later for more information about specific activities offered at GCC 2025.
 
 ### What precautions does the GCC have against COVID-19?
 
