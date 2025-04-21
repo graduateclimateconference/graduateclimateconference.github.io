@@ -34,7 +34,7 @@ The application will close at 11:59 PM EDT on June 8th, 2025.
 
 ### When will I find out if my abstract was accepted?
 
-Early July, 2024.
+Early July, 2025.
 
 ### Where will the conference take place?
 
