@@ -10,7 +10,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
 <article class="flow">
   <h1>Conference Co-Chairs</h1>
   <div class="team">
-    <ul class="auto-grid" role="list">
+    <ul class="auto-grid" role="list" style="list-style-type:none">
       <li>
         <div class="profile">
           <h2 class="profile__name">Fadime Stemmer</h2>
@@ -39,7 +39,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
 <article class="flow">
   <h1>Executive Committee</h1>
   <div class="team">
-    <ul class="auto-grid" role="list">
+    <ul class="auto-grid" role="list" style="list-style-type:none">
       <li><div class="profile"><h2 class="profile__name">Abby Beilman</h2><p>- Swag</p><img alt="Abby Beilman" src="/assets/img/headshots/Abby_Beilman_swag.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Abigail Bonnington</h2><p>- Transportation</p><img alt="Abigail Bonnington" src="/assets/img/headshots/Abigail_Bonnington_transportation.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Akshay Rajeev</h2><p>- Abstracts</p><img alt="Akshay Rajeev" src="/assets/img/headshots/Akshay_Rajeev_abstracts.jpeg" /></div></li>
