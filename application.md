@@ -48,7 +48,7 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 ### Eligibility
 The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2025.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals froma wide range of backgrounds in STEM.
 
-### Applications for GCC 2025 will begin by mid-April. Please check this site regularly for updates.
+### Applications for GCC 2025 will begin by mid-May. Please check this site regularly for updates.
 
 
 <!-- ### Application Instructions
