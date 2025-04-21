@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Inclusive Excellence 
-subtitle: Inclusive Excellence at the Graduate Climate Conference
+title: Broadening Participation
+subtitle: Broadening Participation at the Graduate Climate Conference
 ---
 
 # Graduate Climate Conference Commitment to a Supportive and Accessible Community
