@@ -300,6 +300,13 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
       </div>
       <div>
         <div class="profile">
+          <h2 class="profile__name">Rudra Thaker</h2>
+          <p>- Fundraising<br> </p>
+          <img alt="Rudra Thaker" src="/assets/img/headshots/Rudra_Thaker_fundraising.jpg" />
+        </div>
+      </div>
+      <div>
+        <div class="profile">
           <h2 class="profile__name">Sky Gale</h2>
           <p>- Relations<br> </p>
           <img alt="Sky Gale" src="/assets/img/headshots/Sky_Gale_relations.jpeg" />
