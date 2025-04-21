@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the GCC
-cover-img: "/assets/img/rainier1.jpeg"
+cover-img: "/assets/img/WoodsHole2.jpeg"
 ---
 The Graduate Climate Conference is a conference for graduate students, organized by graduate students. GCC 2025––the 19th annual GCC––will be hosted by the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI) at the Marine Biological Laboratory, located in-person in Woods Hole, Massachusetts on __November 7 - 9th, 2025__. The GCC will continue to provide a range of session topics that will help future leaders in climate science meet and share ideas.
 
