@@ -8,7 +8,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
 
 <article class="flow">
-  <h1>Conference Co-chairs</h1>
+  <h1>Conference Co-Chairs</h1>
   <div class="team">
     <ul class="auto-grid" role="list">
       <li>
