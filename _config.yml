@@ -29,7 +29,7 @@ navbar-links:
     - Organizers: "organizers"
     - Sponsors: "sponsors_soon"
     - Community Partners: "commpartners_soon"
-    - Archive: "archive"
+    # - Archive: "archive"
     - FAQ: "faq"
 
 # --- Logo --- #
