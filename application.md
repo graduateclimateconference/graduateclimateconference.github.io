@@ -29,13 +29,18 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
   box-shadow: 2px 2px 2px black;
   text-decoration: underline;
 }
-</style> 
-
+</style>
 
 <div class="text-center">
+  <a target="_blank" href="https://forms.gle/vCZsuyizsSuYM2Ms6">
+    <div class="button">Apply to the GCC!</div>
+  </a>
+</div>
+
+<!--<div class="text-center">
 <a target="_blank" href="https://forms.gle/vCZsuyizsSuYM2Ms6">
 <button class="button">Apply to the GCC!</button> </a>
-</div>
+</div>-->
 
 
 ## The application for GCC 2025 is live! 
