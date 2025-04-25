@@ -25,12 +25,13 @@ navbar-links:
     # - Schedule & Abstracts: "schedule"
     - COVID-19 Protocols: "covid"
   Broadening Participation: "broadeningparticipation"
+  Organizers: "organizers"
+  FAQ: "faq"
   More Info:
-    - Organizers: "organizers"
     - Sponsors: "sponsors_soon"
     - Community Partners: "commpartners_soon"
     # - Archive: "archive"
-    - FAQ: "faq"
+    - 
 
 # --- Logo --- #
 
