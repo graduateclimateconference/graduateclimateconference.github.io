@@ -4,7 +4,9 @@ title: Application
 subtitle: Applying to the Graduate Climate Conference
 cover-img: "/assets/img/WoodsHole2.jpeg"
 ---
-# Application Link 
+<p align="center"># Application Link</p>
+
+
 
 <style>
 .button {
