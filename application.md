@@ -10,7 +10,8 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 .button {
   border: none;
   color: #75A075;
-  padding: 1rem 2rem;
+  fontsize: 1.5rem;
+  padding: 1.5rem 3rem;
   text-align: center;
   text-decoration: none;
   display: inline-block;
