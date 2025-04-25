@@ -17,14 +17,14 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
   margin: 4px 2px;
   transition-duration: 0.3s;
   cursor: pointer;
-  background-color: light-gray; 
+  background-color:  #8FBC8F; 
   border: 4px solid #8FBC8F;
   border-radius: 20px;
   box-shadow: 2px 2px 2px black;
 }
 
 .button:hover {
-  background-color: #8FBC8F;
+  background-color: light-gray;
   color: #0085A1;
   box-shadow: 2px 2px 2px black;
   text-decoration: underline;
