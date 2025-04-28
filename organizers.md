@@ -65,6 +65,7 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
       <li><div class="profile"><h2 class="profile__name">Leia Otterstatter</h2><p>- Social</p><img alt="Leia Otterstatter" src="/assets/img/headshots/Leia_Otterstatter_social.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Manali Nayak</h2><p>- Website</p><img alt="Manali Nayak" src="/assets/img/headshots/Manali_Nayak_website.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Marc Foster</h2><p>- Communication</p><img alt="Marc Foster" src="/assets/img/headshots/Marc_Foster_transportation.jpg" /></div></li>
+      <li><div class="profile"><h2 class="profile__name">Rudra Thaker</h2><p>- Fundraising</p><img alt="Rudra Thaker" src="/assets/img/headshots/Rudra_Thaker_fundraising.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Silas Emovwodo</h2><p>- Communications</p><img alt="Silas Emovwodo" src="/assets/img/headshots/Silas_Emovwodo_comms.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Sky Gale</h2><p>- Relations</p><img alt="Sky Gale" src="/assets/img/headshots/Sky_Gale_relations.jpeg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Stella Heflin</h2><p>- Website</p><img alt="Stella Heflin" src="/assets/img/headshots/Stella_Heflin_website.jpg" /></div></li>
