@@ -4,7 +4,7 @@ title: Application
 subtitle: Applying to the Graduate Climate Conference
 cover-img: "/assets/img/WoodsHole2.jpeg"
 ---
-<p align="center"><font size="20"><strong>Application Link: </strong></font></p>
+<!--<p align="center"><font size="20"><strong>Application Link: </strong></font></p>
 
 <style>
 .button {
@@ -43,8 +43,8 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 </div>-->
 
 
-## The application for GCC 2025 is live and has been extended! 
-The application deadline is __11:59 PM Eastern Daylight Time on Sunday, June 15, 2025__. Successful applicants will be notified in July 2025.
+## The application for GCC 2025 is now closed. 
+Successful applicants will be notified in July 2025.
 
 <!-- ### Application for GCC 2024 are closed! -->
 
@@ -71,4 +71,4 @@ In addition to your basic contact information, the application will require you 
 - your preference for an oral/poster presentation
 - if you require travel assistance funding to attend the conference
 
-__Completed applications must be submitted by 11:59 PM Eastern Daylight Time on Sunday, June 15th, 2025.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
+__Applications for GCC 2025 are now closed.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by early July. Applicants also may be contacted for additional information at a later date.
