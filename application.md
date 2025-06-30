@@ -44,7 +44,8 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 
 
 ## The application for GCC 2025 is now closed. 
-Successful applicants will be notified in mid-August 2025. If you applied, you should have recieved an email confirming receipt of your application. If you did not, feel free to reach out at [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com). 
+Successful applicants will be notified in mid-August 2025. If you applied, you should have recieved an email confirming receipt of your application. If you did not, feel free to reach out at [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com). Approximately 120 participants will be selected to attend the conference. Applicants also may be contacted for additional information at a later date.
+
 
 <!-- ### Application for GCC 2024 are closed! -->
 
@@ -71,4 +72,4 @@ In addition to your basic contact information, the application will require you 
 - your preference for an oral/poster presentation
 - if you require travel assistance funding to attend the conference-->
 
-__Applications for GCC 2025 are now closed.__ Approximately 120 participants will be selected to attend the conference. Selection decisions will be emailed back by mid-August. Applicants also may be contacted for additional information at a later date.
+<!--### __Applications for GCC 2025 are now closed.__ --> 
