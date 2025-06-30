@@ -14,12 +14,14 @@ GCC 2025 will be on November 7 - 9, 2025 at the [Marine Biological Laboratory](h
 # Transportation
 
 We will provide transportation between the Boston Logan Airport and the Marine Biological Laboratory in Woods Hole, but we can only ensure transport for you if you are attending the entire conference. The bus schedule will be as follows: 
-November 7th: 
-8:30 am: Bus from MIT to Boston Logan Airport to Woods Hole
-10:00 am: Bus from Boston Logan Airport to Woods Hole
-November 9th:
-12:30 pm: Bus from Woods Hole to Boston Logan Airport to MIT
-12:30 pm: Bus from Woods Hole to Boston Logan Airport
+
+##### November 7th: 
+- 8:30 am: Bus from MIT to Boston Logan Airport to Woods Hole
+- 10:00 am: Bus from Boston Logan Airport to Woods Hole
+
+##### November 9th:
+- 12:30 pm: Bus from Woods Hole to Boston Logan Airport to MIT
+- 12:30 pm: Bus from Woods Hole to Boston Logan Airport
 
 Please note: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus.  
 
