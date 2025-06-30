@@ -5,7 +5,7 @@ subtitle: What you need to know about the GCC
 cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
 
-# This webpage is being updated. Please check back regularly.
+### This webpage is being updated. Please check back regularly.
 
 # Location
 
@@ -13,9 +13,18 @@ GCC 2025 will be on November 7 - 9, 2025 at the [Marine Biological Laboratory](h
 
 # Transportation
 
-We will provide transportation between Boston and Woods Hole, but we can only ensure transport for you if you are attending the entire conference. Unless you choose to drive yourself, you will be taking a bus from MIT’s campus to MBL, which should take about 1h 45min.
+We will provide transportation between the Boston Logan Airport and the Marine Biological Laboratory in Woods Hole, but we can only ensure transport for you if you are attending the entire conference. The bus schedule will be as follows: 
+November 7th: 
+8:30 am: Bus from MIT to Boston Logan Airport to Woods Hole
+10:00 am: Bus from Boston Logan Airport to Woods Hole
+November 9th:
+12:30 pm: Bus from Woods Hole to Boston Logan Airport to MIT
+12:30 pm: Bus from Woods Hole to Boston Logan Airport
 
-# How to get to MIT’s campus for the bus
+Please note: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus.  
+
+
+<!--# How to get to MIT’s campus for the bus
 You can take a cab from Boston Logan Airport or the South Station train/bus terminal, which will cost about $40 and take 20-30 minutes in all cases. Uber and Lyft can be slightly cheaper, depending on demand. If you are planning to take a cab or Uber/Lyft from Boston Logan Airport to MIT and would like to coordinate shared rides with other attendees, please enter your information on the spreadsheet link provided in the final logistics email and use the sheet to contact other attendees.
 
 Alternatively, you can take the MBTA (referred to as the “T”) which includes the subway, bus and commuter rail system in Boston. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston. The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system.
@@ -24,7 +33,7 @@ Alternatively, you can take the MBTA (referred to as the “T”) which includes
 The best way to get to MIT from the airport is to catch the free Silver Line bus from outside the lower level (baggage claim) of each terminal. This bus provides a free transfer into the subway system at South Station, from which point you can catch the Red Line to Kendall/MIT (look for the Inbound train in the direction of Alewife, exit four stops later). Plan at least an hour to get from Boston Logan Airport to MIT’s campus on the silver and red lines.
 
 <h4> How to get from the South Station bus/train terminals to MIT using the T: </h4>
-Those arriving via train or bus will have to purchase a farecard (<3$) to board the Red Line subway at South Station (look for the Inbound train in the direction of Alewife). Get off four stops later at the Kendall/MIT station. Budget half an hour to get from South Station to MIT’s campus.
+Those arriving via train or bus will have to purchase a farecard (<3$) to board the Red Line subway at South Station (look for the Inbound train in the direction of Alewife). Get off four stops later at the Kendall/MIT station. Budget half an hour to get from South Station to MIT’s campus.--> 
 
 
 <!-- <style>
