@@ -57,12 +57,12 @@ subtitle: Graduate Climate Conference Sponsors
         <p>MIT Earth, Atmospheric and Climate Sciences</p>
         <a target="_blank" href="https://www.eaps.mit.edu"><img src="/assets/img/sponsors/mit_eaps.png" alt="MIT Earth, Atmospheric and Climate Sciences" style="max-height=300px; max-width:300px;"></a>
       </div>
-
+      </div>
       <div class="column left">
         <p>The National Science Foundation</p>
         <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
-     
+      </div>
       <div class="column right">
         <p>UW Department of Civil and Environmental Engineering</p>
         <a target="_blank" href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Department of Civil and Environmental Engineering" style="max-height=300px; max-width:300px;"></a>
