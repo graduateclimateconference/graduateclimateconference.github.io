@@ -5,7 +5,7 @@ subtitle: Graduate Climate Conference Sponsors
 ---
 
 ## We thank our generous sponsors for their support of the GCC!
-
+Please note: We are still editing this page as we continue to recieve new sponsorships for this year's GCC. Please check back for updates! 
 
 <style>
 * {
@@ -49,20 +49,20 @@ subtitle: Graduate Climate Conference Sponsors
 </style>
 
 <div class="row">
-      <div class="column left">
+      <!-- <div class="column left">
         <p>UW School of Oceanography</p>
         <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
         <p>MIT Earth, Atmospheric and Climate Sciences</p>
         <a target="_blank" href="https://www.eaps.mit.edu"><img src="/assets/img/sponsors/mit_eaps.png" alt="MIT Earth, Atmospheric and Climate Sciences" style="max-height=300px; max-width:300px;"></a>
-      </div>
-      </div>
+      </div>--> 
+      </div> 
       <div class="column left">
         <p>The National Science Foundation</p>
         <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
-      </div>
+      <!--</div>
       <div class="column right">
         <p>UW Department of Civil and Environmental Engineering</p>
         <a target="_blank" href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Department of Civil and Environmental Engineering" style="max-height=300px; max-width:300px;"></a>
@@ -113,4 +113,4 @@ subtitle: Graduate Climate Conference Sponsors
        <div class="column right">
         <p>Washington Sea Grant</p>
         <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;"></a>
-      </div>
+      </div>--> 
