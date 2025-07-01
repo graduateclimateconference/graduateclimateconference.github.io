@@ -49,6 +49,10 @@ We are still editing this page as we continue to recieve new sponsorships for th
 </style>
 
 <div class="row">
+      <div class="column left">
+        <p>The National Science Foundation</p>
+        <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
+      </div>
       <!-- <div class="column left">
         <p>UW School of Oceanography</p>
         <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
@@ -57,11 +61,6 @@ We are still editing this page as we continue to recieve new sponsorships for th
         <p>MIT Earth, Atmospheric and Climate Sciences</p>
         <a target="_blank" href="https://www.eaps.mit.edu"><img src="/assets/img/sponsors/mit_eaps.png" alt="MIT Earth, Atmospheric and Climate Sciences" style="max-height=300px; max-width:300px;"></a>
       </div>--> 
-      </div> 
-      <div class="column left">
-        <p>The National Science Foundation</p>
-        <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
-      </div>
       <!--</div>
       <div class="column right">
         <p>UW Department of Civil and Environmental Engineering</p>
