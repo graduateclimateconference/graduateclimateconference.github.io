@@ -114,5 +114,5 @@ subtitle: Graduate Climate Conference Sponsors
         <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;"></a>
       </div>--> 
 
-The logos on this page interactive; please feel free to click on them to learn more about each funding agency._ We are still editing this page as we continue to recieve new sponsorships for this year's GCC. Please check back for updates! 
-_
+The logos on this page interactive; please feel free to click on them to learn more about each funding agency. We are still editing this page as we continue to recieve new sponsorships for this year's GCC. Please check back for updates! 
+
