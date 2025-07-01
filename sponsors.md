@@ -5,9 +5,8 @@ subtitle: Graduate Climate Conference Sponsors
 ---
 
 ## We thank our generous sponsors for their support of the GCC!
-- [The National Science Foundation](https://www.nsf.gov)
 
-We are still editing this page as we continue to recieve new sponsorships for this year's GCC. Please check back for updates! 
+
 
 <style>
 * {
@@ -115,3 +114,5 @@ We are still editing this page as we continue to recieve new sponsorships for th
         <p>Washington Sea Grant</p>
         <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;"></a>
       </div>--> 
+
+  We are still editing this page as we continue to recieve new sponsorships for this year's GCC. Please check back for updates! 
