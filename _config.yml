@@ -54,7 +54,7 @@ title-img: "/assets/img/GCC_2025_logo.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  twitter: gradclimateconf
+#  twitter: gradclimateconf
   email: "gradclimateconference@gmail.com"
   instagram: gradclimateconf
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
