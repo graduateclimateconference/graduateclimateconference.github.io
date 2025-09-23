@@ -21,8 +21,7 @@ navbar-links:
   About: "about"
   Application: "application"
   Logistics: "logistics"
- Logistics:
-     
+  Logistics:
     - Schedule & Abstracts: "schedule"
   
   Broadening Participation: "broadeningparticipation"
