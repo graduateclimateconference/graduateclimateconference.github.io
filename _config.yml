@@ -20,7 +20,7 @@ navbar-links:
   #Author's home: "https://deanattali.com"
   About: "about"
   Application: "application"
-  Logistics: "logistics"
+  # Logistics: "logistics"
   Logistics:
     - Schedule & Abstracts: "schedule"
   
