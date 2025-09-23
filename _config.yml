@@ -24,6 +24,7 @@ navbar-links:
   Logistics:
     - Conference Logistics: "logistics"
     - Schedule & Abstracts: "schedule"
+    - COVID-19 Protocols: "covid"
   
   Broadening Participation: "broadeningparticipation"
   FAQ: "faq"
@@ -31,7 +32,7 @@ navbar-links:
   More Info:
     - Sponsors: "sponsors"
     - Community Partners: "commpartners_soon"
-    - COVID-19 Protocols: "covid"
+
     # - Archive: "archive"
     - 
 
