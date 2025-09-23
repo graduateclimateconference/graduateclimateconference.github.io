@@ -22,6 +22,7 @@ navbar-links:
   Application: "application"
   # Logistics: "logistics"
   Logistics:
+    - Conference Logistics: "logistics"
     - Schedule & Abstracts: "schedule"
   
   Broadening Participation: "broadeningparticipation"
