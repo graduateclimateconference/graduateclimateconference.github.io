@@ -53,6 +53,10 @@ subtitle: Graduate Climate Conference Sponsors
         <p>The National Science Foundation</p>
         <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
+      <div class="column left">
+        <p>The CO2 Foundation</p>
+        <a target="_blank" href="https://www.co2foundation.org"><img src="/assets/img/sponsors/co2foundationlogo.png" alt="The CO2 Foundation" style="max-height=300px; max-width:300px;"></a>
+      </div>
       <!-- <div class="column left">
         <p>UW School of Oceanography</p>
         <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
