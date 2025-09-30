@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule & Speakers
+title: Schedule 
 cover-img: "/assets/img/path.jpg"
 ---
 
