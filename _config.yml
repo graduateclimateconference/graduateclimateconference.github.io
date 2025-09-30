@@ -23,7 +23,8 @@ navbar-links:
   # Logistics: "logistics"
   Logistics:
     - Conference Logistics: "logistics"
-    - Schedule & Abstracts: "schedule"
+    - Speakers: "speakers"
+    - Schedule: "schedule"
     - COVID-19 Protocols: "covid"
   
   Broadening Participation: "broadeningparticipation"
