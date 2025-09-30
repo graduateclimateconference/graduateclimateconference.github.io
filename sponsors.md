@@ -61,13 +61,11 @@ subtitle: Graduate Climate Conference Sponsors
         <p>UW Graduate School</p>
         <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a>
       </div>
-      </div>
       <div class="column right">
         <p>MIT Lorenz Center</p>
         <a target="_blank" href="https://www.lorenz.mit.edu"><img src="/assets/img/sponsors/MIT Lorenz Center.jpg" alt="MIT Lorenz Center" style="max-height=300px; max-width:300px;">        </a>
       </div>
-       </div>
-      <div class="column right">
+      <div class="column left">
         <p>Department of Atmospheric and Oceanic Sciences, University of Wisconsin-Madison</p>
         <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uw_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-            Madison" style="max-height=300px; max-width:300px;"></a>
       </div>
@@ -78,8 +76,6 @@ subtitle: Graduate Climate Conference Sponsors
       <div class="column right">
         <p>MIT Earth, Atmospheric and Climate Sciences</p>
         <a target="_blank" href="https://www.eaps.mit.edu"><img src="/assets/img/sponsors/mit_eaps.png" alt="MIT Earth, Atmospheric and Climate Sciences" style="max-height=300px; max-width:300px;"></a>
-      </div>--> 
-      <!--</div>
       <div class="column right">
         <p>UW Department of Civil and Environmental Engineering</p>
         <a target="_blank" href="https://www.ce.washington.edu"><img src="/assets/img/sponsors/cee.jpeg" alt="UW Department of Civil and Environmental Engineering" style="max-height=300px; max-width:300px;"></a>
@@ -129,7 +125,7 @@ subtitle: Graduate Climate Conference Sponsors
       </div>
        <div class="column right">
         <p>Washington Sea Grant</p>
-        <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;"></a>
+        <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;">          </a>
       </div>--> 
 
 The logos are interactive; please feel free to click on them to learn more about each funding agency. We are still editing this page as we continue to recieve new sponsorships for this year's GCC. Please check back for updates! 
