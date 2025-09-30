@@ -53,9 +53,23 @@ subtitle: Graduate Climate Conference Sponsors
         <p>The National Science Foundation</p>
         <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
-      <div class="column left">
+      <div class="column right">
         <p>The CO2 Foundation</p>
         <a target="_blank" href="https://www.co2foundation.org"><img src="/assets/img/sponsors/co2foundationlogo.png" alt="The CO2 Foundation" style="max-height=300px; max-width:300px;"></a>
+      </div>
+      <div class="column left">
+        <p>UW Graduate School</p>
+        <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a>
+      </div>
+      </div>
+      <div class="column right">
+        <p>MIT Lorenz Center</p>
+        <a target="_blank" href="https://www.lorenz.mit.edu"><img src="/assets/img/sponsors/MIT Lorenz Center.jpg" alt="MIT Lorenz Center" style="max-height=300px; max-width:300px;">        </a>
+      </div>
+       </div>
+      <div class="column right">
+        <p>Department of Atmospheric and Oceanic Sciences, University of Wisconsin-Madison</p>
+        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uw_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-            Madison" style="max-height=300px; max-width:300px;"></a>
       </div>
       <!-- <div class="column left">
         <p>UW School of Oceanography</p>
