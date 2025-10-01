@@ -58,7 +58,7 @@ subtitle: Graduate Climate Conference Sponsors
         <a target="_blank" href="https://www.co2foundation.org"><img src="/assets/img/sponsors/co2foundationlogo.png" alt="The CO2 Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
-        <p>UW Graduate School</p>
+        <p>University of Washington Graduate School</p>
         <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
@@ -69,6 +69,10 @@ subtitle: Graduate Climate Conference Sponsors
         <p>Department of Atmospheric and Oceanic Sciences, University of Wisconsin-Madison</p>
         <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uw_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-            Madison" style="max-height=300px; max-width:300px;"></a>
       </div>
+      <div class="column right">
+        <p>Woods Hole Oceanographic Institution</p>
+        <a target="_blank" href="https://www.whoi.edu/"><img src="/assets/img/sponsors/whoi_logo.png" alt="Woods Hole Oceanographic Institution" style="max-height=300px; max-width:300px;"></a>
+       </div>
       <!-- <div class="column left">
         <p>UW School of Oceanography</p>
         <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
