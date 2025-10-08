@@ -50,11 +50,11 @@ subtitle: Graduate Climate Conference Sponsors
 
 <div class="row">
       <div class="column left">
-        <p>The National Science Foundation</p>
+        <p><b>The National Science Foundation</b></p>
         <a target="_blank" href="https://www.nsf.gov"><img src="/assets/img/sponsors/nsf.png" alt="National Science Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
-        <p>The CO2 Foundation</p>
+        <p><b>The CO2 Foundation</b></p>
         <a target="_blank" href="https://www.co2foundation.org"><img src="/assets/img/sponsors/co2foundationlogo.png" alt="The CO2 Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
@@ -66,15 +66,15 @@ subtitle: Graduate Climate Conference Sponsors
         <a target="_blank" href="https://www.lorenz.mit.edu"><img src="/assets/img/sponsors/MIT Lorenz Center.jpg" alt="MIT Lorenz Center" style="max-height=300px; max-width:300px;">        </a>
       </div>
       <div class="column left">
-        <p>Department of Atmospheric and Oceanic Sciences, University of Wisconsin-Madison</p>
-        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uw_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-            Madison" style="max-height=300px; max-width:300px;"></a>
+        <p>Department of Atmospheric and Oceanic Sciences, <br> University of Wisconsin-Madison</p>
+        <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uwmad_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-            Madison" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
         <p>Woods Hole Oceanographic Institution</p>
         <a target="_blank" href="https://www.whoi.edu/"><img src="/assets/img/sponsors/whoi_logo.png" alt="Woods Hole Oceanographic Institution" style="max-height=300px; max-width:300px;"></a>
        </div>
        <div class="column left">
-        <p>Department of Earth and Environmental Sciences, Boston College</p>
+        <p>Department of Earth and Environmental Sciences, <br> Boston College</p>
         <a target="_blank" href="https://www.bc.edu/bc-web/schools/morrissey/departments/eesc.htm"><img src="/assets/img/sponsors/boston_earthsci.jpeg" alt="Department of Earth and Environmental Sciences, Boston College" style="max-height=300px; max-width:300px;"></a>
        </div>
       <!-- <div class="column left">
