@@ -75,7 +75,7 @@ subtitle: Graduate Climate Conference Sponsors
        </div>
        <div class="column left">
         <p>Department of Earth and Environmental Sciences, <br> Boston College</p>
-        <a target="_blank" href="https://www.bc.edu/bc-web/schools/morrissey/departments/eesc.htm"><img src="/assets/img/sponsors/boston_earthsci.jpeg" alt="Department of Earth and Environmental Sciences, Boston College" style="max-height=300px; max-width:300px;"></a>
+        <a target="_blank" href="https://www.bc.edu/bc-web/schools/morrissey/departments/eesc.html"><img src="/assets/img/sponsors/boston_earthsci.jpeg" alt="Department of Earth and Environmental Sciences, Boston College" style="max-height=300px; max-width:300px;"></a>
        </div>
       <!-- <div class="column left">
         <p>UW School of Oceanography</p>
