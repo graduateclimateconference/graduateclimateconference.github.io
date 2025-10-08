@@ -58,7 +58,7 @@ subtitle: Graduate Climate Conference Sponsors
         <a target="_blank" href="https://www.co2foundation.org"><img src="/assets/img/sponsors/co2foundationlogo.png" alt="The CO2 Foundation" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column left">
-        <p>University of Washington Graduate School</p>
+        <p>The Graduate School, <br> University of Washington </p>
         <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a>
       </div>
       <div class="column right">
