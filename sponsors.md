@@ -73,6 +73,10 @@ subtitle: Graduate Climate Conference Sponsors
         <p>Woods Hole Oceanographic Institution</p>
         <a target="_blank" href="https://www.whoi.edu/"><img src="/assets/img/sponsors/whoi_logo.png" alt="Woods Hole Oceanographic Institution" style="max-height=300px; max-width:300px;"></a>
        </div>
+       <div class="column left">
+        <p>Department of Earth and Environmental Sciences, Boston College</p>
+        <a target="_blank" href="https://www.bc.edu/bc-web/schools/morrissey/departments/eesc.htm"><img src="/assets/img/sponsors/boston_earthsci.jpeg" alt="Department of Earth and Environmental Sciences, Boston College" style="max-height=300px; max-width:300px;"></a>
+       </div>
       <!-- <div class="column left">
         <p>UW School of Oceanography</p>
         <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
