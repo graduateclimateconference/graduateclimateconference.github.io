@@ -19,20 +19,20 @@ navbar-links:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   About: "about"
-  Application: "application"
   # Logistics: "logistics"
   Logistics:
     - Conference Logistics: "logistics"
     - Speakers: "speakers"
-    - Schedule: "schedule"
     - COVID-19 Protocols: "covid"
-  
-  Broadening Participation: "broadeningparticipation"
   FAQ: "faq"
+  Schedule: "schedule"
   Organizers: "organizers"
+  Community Partners: "commpartners"
   More Info:
     - Sponsors: "sponsors"
-    - Community Partners: "commpartners_soon"
+    - Broadening Participation: "broadeningparticipation"
+    - Application: "application"
+
 
     # - Archive: "archive"
     - 
