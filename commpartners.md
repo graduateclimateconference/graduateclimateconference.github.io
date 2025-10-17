@@ -1,62 +1,27 @@
 ---
 layout: page
 title: Community Partners
-subtitle: Graduate Climate Conference Community Partners
+subtitle: Graduate Climate Conference Community Partner Workshops
 ---
 
-## We thank our community partners for their participation and collaboration with the GCC!
+## Workshop #1: Understanding the Scientific Paper Editorial Process
+The first community partner workshop will be a Lunch & Learn on __Saturday, November 8, 2025, from 12:30–1:30 PM in the Meigs Room__. Participants are encouraged to bring their lunch from the Swope Dining Hall to the Meigs Room, where they will hear from __Alfredo Aretxabaleta, Brita Jessen, Chris Sherwood, and Neil Kamal Ganju__—scientists at the U.S. Geological Survey’s Woods Hole Coastal and Marine Science Center.
 
+These USGS scientists serve as editors for several well-known scientific journals and will share insights into how editors evaluate submissions—what leads to acceptance (with or without revisions) and what results in rejection. They will also offer practical tips on how to strengthen your manuscript and highlight common mistakes to avoid when submitting for publication.
 
+This will be the only workshop offered during this time slot. Alternatively, attendees may choose to enjoy lunch and informal conversation in the dining hall. We understand that the GCC schedule is busy, so please don’t feel obligated to attend if you need a break! However, we kindly ask that you indicate ‘yes’ or ‘no’ in advance so we can provide organizers with an approximate headcount.
 
-<style>
-* {
-  box-sizing: border-box;
-}
+## Workshop #2: Panel on Pathways to Professional Science
+The second community partner workshop will take place concurrently with the third, so attendees must choose one to attend. This session will be held on __Saturday, November 8, 2025, from 1:30–2:45 PM__. Participants will hear from a diverse group of professionals representing a range of career paths in the environmental sciences:
+- Dr. Ben Gutierrez, Geologist with the Coastal Change Project, USGS Woods Hole Coastal and Marine Science Center
+- Dr. Jackie Hung, Soil Biogeochemist and Arctic Ecologist, Woodwell Climate Research Center
+- Dr. Luanne Johnson and/or Rich Course, M.S., Conservation Biologists, BiodiversityWorks
+- Onjalé Scott Price, M.B.A., Director of External Relations, Sea Education Association
+- Tripti Thomas-Travers, M.P.P., Program Director, Village & Wilderness
 
-.column {
-  float: left;
-  padding: 10px;
-  background-color: site.page-col;
-  border: 5px black;
-  margin-right: auto;
-  margin-left: auto;
-  justify-items: center;
-  align-items: center;
-  text-align: center;
-  align-self: center;
-}
+Come prepared with questions about their career trajectories, day-to-day work, and advice for pursuing careers in science and conservation.
 
-/* .a .img {
-  height: 200px;
-  width: auto;
-} */
+## Workshop #3: Introduction to Python for Environmental Sciences
+The third and final community partner workshop will also take place on __Saturday, November 8, 2025, from 1:30–2:45 PM__. This hands-on session will introduce attendees to the fundamentals of Python, a powerful and widely used programming language for environmental and climate science research. Whether you’re new to coding or already experienced, workshop leaders __Dr. Chris Sherwood (USGS, Coastal Oceanographer) and Dr. Rich Signell (Founder, Open Science LLC)__ will guide participants through practical exercises and tools to enhance their programming skills.
 
-.left {
-  width: 50%;
-}
-
-.right {
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.top-buffer { margin-top:20px; }
-</style>
-
-<div class="row">
-      <div class="column left">
-        <p><b>Ai2</b> <br>
-        <i>Building breakthrough AI to solve the world's biggest problems.</i></p>
-        <a target="_blank" href="https://allenai.org/"><img src="/assets/img/sponsors/ai2logo.gif" alt="Ai2" style="max-height=300px; max-width:300px;"></a>
-      </div>
-      <div class="column right">
-        <p><b>CarbonPlan</b> <br>
-        <i>Improving the transparency and scientific integrity of climate solutions with open data and tools.</i></p>
-        <a target="_blank" href="https://carbonplan.org/"><img src="/assets/img/sponsors/carbonplan.png" alt="CarbonPlan" style="max-height=300px; max-width:300px;"></a>
-      </div>
+Understanding Python is a valuable asset for research and can strengthen your résumé as you pursue careers across the climate and environmental sciences.
