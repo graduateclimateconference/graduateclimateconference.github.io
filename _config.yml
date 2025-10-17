@@ -22,12 +22,12 @@ navbar-links:
   # Logistics: "logistics"
   Logistics:
     - Conference Logistics: "logistics"
-    - Speakers: "speakers"
+    - Schedule: "schedule"
     - COVID-19 Protocols: "covid"
-  FAQ: "faq"
-  Schedule: "schedule"
-  Organizers: "organizers"
+  Speakers: "speakers"
   Community Workshops: "commpartners"
+  FAQ: "faq"
+  Organizers: "organizers"
   More Info:
     - Sponsors: "sponsors"
     - Broadening Participation: "broadeningparticipation"
