@@ -23,6 +23,7 @@ navbar-links:
   Logistics:
     - Conference Logistics: "logistics"
     - Schedule: "schedule"
+    - Public Session: "publicsession"
     - COVID-19 Protocols: "covid"
   Speakers: "speakers"
   Community Workshops: "commpartners"
