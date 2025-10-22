@@ -6,7 +6,7 @@ cover-img: "/assets/img/path.jpg"
 
 # Public Session
 
-Click below to register for the public session, and check out more information on the flyer! 
+Are you a member of the public and located near Cape Cod, Masschussetts? Join us at this year's Graduate Climate Conference! __Click below__ to register for the public session, and check out more information on the flyer. Feel free to reach out to [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) with any further questions. 
 
 <style>
 .button {
@@ -39,4 +39,7 @@ Click below to register for the public session, and check out more information o
   </a>
 </div>
 
+<div align="center">
 <img src="/assets/img/GCC_Public_Poster.jpg" alt="Public session flyer">
+</div>
+
