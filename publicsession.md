@@ -38,14 +38,8 @@ Are you a member of the public and located near Cape Cod, Masschussetts? Join us
   </a>
 </div>
 
-
 <br> 
 <br> 
-<br> 
-
-
-
-
 
 <div align="center">
 <img src="/assets/img/GCC_Public_Poster.jpg" alt="Public session flyer">
