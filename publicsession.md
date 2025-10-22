@@ -32,12 +32,20 @@ Are you a member of the public and located near Cape Cod, Masschussetts? Join us
   text-decoration: underline;
 }
 </style>
-
 <div class="text-center">
   <a target="_blank" href="[https://forms.gle/vCZsuyizsSuYM2Ms6](https://docs.google.com/forms/d/e/1FAIpQLSdvyIUYwE3fk5hPQVVDuebDebmVAjGMI1fc8hbaW93qJe4yZw/viewform)">
     <div class="button">Register for the Public Session!</div>
   </a>
 </div>
+
+
+<br> 
+<br> 
+<br> 
+
+
+
+
 
 <div align="center">
 <img src="/assets/img/GCC_Public_Poster.jpg" alt="Public session flyer">
