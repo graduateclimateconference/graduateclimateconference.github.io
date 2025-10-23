@@ -7,7 +7,7 @@ cover-img: "/assets/img/WoodsHole3.jpeg"
 
 # Location
 
-GCC 2025 will be on November 7 - 9, 2025 at the [Marine Biological Laboratory](https://www.mbl.edu/), Woods Hole, Massachusetts. The drive between Woods Hole and Boston is approximately 1.5 hours. Transportation between Boston and Woods Hole will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
+GCC 2025 will be held from __November 7 - 9, 2025 at the [Marine Biological Laboratory](https://www.mbl.edu/), Woods Hole, Massachusetts__. The drive between Woods Hole and Boston is approximately 1.5 hours. Transportation between Boston and Woods Hole will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
 
 # Transportation
 
@@ -24,7 +24,7 @@ We will provide transportation between the Boston Logan Airport and the Marine B
 
 In the event that you need to take a bus to augment these conference-provided transport options, we have found that tickets are available and cheapest via the [Peter Pan](https://peterpanbus.com/) bus line or the [Plymouth & Brockton](https://www.p-b.com/schedules/) bus line. 
 
-Please note: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston. The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system.
+__Please note__: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston. The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system.
 
 
 
