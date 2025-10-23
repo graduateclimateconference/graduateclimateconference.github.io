@@ -5,8 +5,6 @@ subtitle: What you need to know about the GCC
 cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
 
-### This webpage is being updated. Please check back regularly.
-
 # Location
 
 GCC 2025 will be on November 7 - 9, 2025 at the [Marine Biological Laboratory](https://www.mbl.edu/), Woods Hole, Massachusetts. The drive between Woods Hole and Boston is approximately 1.5 hours. Transportation between Boston and Woods Hole will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
