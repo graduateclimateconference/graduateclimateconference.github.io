@@ -11,7 +11,7 @@ GCC 2025 will be held from __November 7 - 9, 2025 at the [Marine Biological Labo
 
 # Transportation
 
-We will provide transportation between the Boston Logan Airport and the Marine Biological Laboratory in Woods Hole, but we can only ensure transport for you if you are attending the entire conference. __You should recieve an email assigning you to a bus. Please get on your assigned bus.__ The bus schedule will be as follows: 
+We will provide transportation between the Boston Logan Airport and the Marine Biological Laboratory in Woods Hole, but we can only ensure transport for you if you are attending the entire conference. __You should receive an email assigning you to a bus. Please get on your assigned bus.__ The bus schedule will be as follows: 
 
 ### November 7th: 
 - __8:30 am__: Bus from MIT to Boston Logan Airport to Woods Hole
