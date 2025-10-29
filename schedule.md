@@ -6,7 +6,7 @@ cover-img: "/assets/img/path.jpg"
 
 # Schedule
 
-<img src="/assets/img/GCC_schedule.png" alt="Conference schedule">
+<img src="/assets/img/conference_schedule_updated.jpg" alt="Conference schedule">
 
 <!--[Abstracts](https://graduateclimateconference.github.io/pdf/GCC2024_abstracts.pdf)-->
 
