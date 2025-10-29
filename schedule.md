@@ -5,8 +5,9 @@ cover-img: "/assets/img/path.jpg"
 ---
 
 # Schedule
-
+<div align="center">
 <img src="/assets/img/GCC_schedule_updated.png" alt="Conference schedule">
+</div>
 
 <!--[Abstracts](https://graduateclimateconference.github.io/pdf/GCC2024_abstracts.pdf)-->
 
