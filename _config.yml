@@ -22,7 +22,7 @@ navbar-links:
   # Logistics: "logistics"
   Logistics:
     - Schedule: "schedule"
-    - Abstracts: "abstracts"
+    - Booklet: "booklet"
     - Conference Logistics: "logistics"
     - Public Session: "publicsession"
     - COVID-19 Protocols: "covid"
