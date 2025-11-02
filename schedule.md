@@ -5,6 +5,7 @@ cover-img: "/assets/img/path.jpg"
 ---
 
 # Schedule
+**Please Note:** The below schedule is the most up-to-date version. Please refer to this schedule for oral and poster session titles and labelling. 
 <div align="center">
 <img src="/assets/img/GCC_schedule_updated.png" alt="Conference schedule">
 </div>
