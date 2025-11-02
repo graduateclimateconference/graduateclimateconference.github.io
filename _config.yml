@@ -24,7 +24,7 @@ navbar-links:
   Logistics:
     - Booklet: "booklet"
     - Presentations: "presentations"
-    - Conference Logistics: "logistics"
+    - Basic Info: "logistics"
     - Public Session: "publicsession"
   Speakers: "speakers"
   Workshops: "commpartners"
