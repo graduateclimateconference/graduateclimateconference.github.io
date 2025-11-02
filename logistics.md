@@ -26,6 +26,8 @@ In the event that you need to take a bus to augment these conference-provided tr
 
 __Please note__: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston. The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system.
 
+# Post-Conference 
+To wrap up the weekend, the organizing committee has compiled a [list of activities](https://docs.google.com/spreadsheets/d/1Vsks3KDjsjwmXlmeFhQywaO6x1hjIrLzXMH9TUAqQns/edit) for a **self-guided** and **attendee-organized** social afternoon in Boston. Explore the city with new friends, enjoy some great food, and celebrate the close of another incredible GCC! Feel free to use the WhatsApp group to coordinate with other attendees.
 
 
 <!--# How to get to MIT’s campus for the bus
