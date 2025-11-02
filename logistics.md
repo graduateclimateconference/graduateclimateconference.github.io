@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Logistics
+title: Basic Info and Conference Logistics
 subtitle: What you need to know about the GCC
 cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
