@@ -20,21 +20,23 @@ navbar-links:
   #Author's home: "https://deanattali.com"
   About: "about"
   # Logistics: "logistics"
+  Schedule: "schedule"
   Logistics:
-    - Schedule: "schedule"
     - Booklet: "booklet"
     - Presentations: "presentations"
     - Conference Logistics: "logistics"
     - Public Session: "publicsession"
-    - COVID-19 Protocols: "covid"
   Speakers: "speakers"
   Workshops: "commpartners"
   FAQ: "faq"
-  Organizers: "organizers"
   More Info:
+    - Code of Conduct: "conduct"
     - Sponsors: "sponsors"
     - Broadening Participation: "broadeningparticipation"
-    - Application: "application"
+    - Organizers: "organizers"
+    - COVID-19 Protocols: "covid"
+
+    #- Application: "application"
 
 
     # - Archive: "archive"
