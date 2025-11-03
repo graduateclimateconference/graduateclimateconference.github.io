@@ -21,6 +21,13 @@ We will provide transportation between the Boston Logan Airport and the Marine B
    - Note: This bus will arrive at Boston Logan Airport around __9:00 am__ 
 - __10:00 am__: Bus from Boston Logan Airport to Woods Hole
 
+The bus will pick up from and drop off at **Terminal B** of Boston Logan Airport and by the Massachusetts Avenue and Amherst Street intersection on the MIT campus. Please refer to the below maps for the exact pick-up points. 
+<img src="/assets/img/IMG_5023.png" alt="MIT Campus Pick-up Location">
+<img src="/assets/img/IMG_5024.png" alt="Boston Logan Pick-up Location">
+
+
+**Conference accomdations** will be at MBL’s SWOPE building. Check in is at 2 pm as shown on the [Schedule](https://graduateclimateconference.github.io/schedule/). Before then, we will need to store belongings in the auditorium. Please refer to the maps linked above for these building locations. 
+
 ### November 9th:
 - __12:30 pm__: Bus from Woods Hole to Boston Logan Airport to MIT
 - __12:30 pm__: Bus from Woods Hole to Boston Logan Airport
