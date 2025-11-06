@@ -5,10 +5,12 @@ cover-img: "/assets/img/path.jpg"
 ---
 
 # Schedule
-**Please Note:** The below schedule is the most up-to-date version and was last updated _11:07 am on Thursday, November 6th_. Please refer to this schedule for oral and poster session titles and labelling. Locations for each event have now been posted. 
+**Please Note:** The below schedule is the most up-to-date version. Please refer to this schedule for oral and poster session titles and labelling. Locations for each event have now been posted. 
 <div align="center">
 <img src="/assets/img/GCC_2025_SCHEDULE.png" alt="Conference schedule">
 </div>
+
+_Last updated 11:07 am on Thursday, November 6th_
 
 <!--[Abstracts](https://graduateclimateconference.github.io/pdf/GCC2024_abstracts.pdf)-->
 
