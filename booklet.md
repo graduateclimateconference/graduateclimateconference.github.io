@@ -4,4 +4,20 @@ title: Conference Booklet
 cover-img: "/assets/img/WoodsHole1.jpeg"
 ---
 # Conference Booklet
+.pdf-container {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 aspect ratio, adjust as needed */
+      height: 0;
+      overflow: hidden;
+    }
+
+.pdf-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    
 <iframe width="100%" height="800" src="/assets/img/2025 Booklet_final.pdf">/iframe>
