@@ -10,7 +10,7 @@ cover-img: "/assets/img/path.jpg"
 <img src="/assets/img/schedule_updated.png" alt="Conference schedule">
 </div>
 
-_Last updated 11:07 am on Thursday, November 6th_
+_Last updated 8:39 am on Saturday, November 8th_
 
 <!--[Abstracts](https://graduateclimateconference.github.io/pdf/GCC2024_abstracts.pdf)-->
 
