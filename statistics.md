@@ -2,7 +2,7 @@
 layout: page
 title: Conference Statistics
 subtitle: The Impact of GCC Through the Years 
-cover-img: "/assets/img/2025_all.JPG"
+cover-img: "/assets/img/woodshole.jpg"
 ---
 
 Conference statistics coming soon! 
