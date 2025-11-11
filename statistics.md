@@ -11,49 +11,8 @@ The **19th Annual Graduate Climate Conference**, which took place from November 
 
 ### Let's get into the statistics! 
 <img src="/assets/img/applications_subject_2025.jpg" alt="Fields of Study" style="max-height=400px; max-width:700px;">
+
  _More conference statistics coming soon._ 
-
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  padding: 10px;
-  background-color: site.page-col;
-  border: 5px black;
-  margin-right: auto;
-  margin-left: auto;
-  justify-items: center;
-  align-items: center;
-  text-align: center;
-  align-self: center;
-}
-
-/* .a .img {
-  height: 200px;
-  width: auto;
-} */
-
-.left {
-  width: 50%;
-}
-
-.right {
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.top-buffer { margin-top:20px; }
-</style>
-
 
 
 
