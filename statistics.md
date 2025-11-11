@@ -10,7 +10,8 @@ The **19th Annual Graduate Climate Conference**, which took place from November 
 <img src="/assets/img/2025_all.JPG" alt="2025 GCC Attendees">
 
 ### Let's get into the statistics! 
-
+<img src="/assets/img/applications_subject_2025.jpg" alt="Fields of Study" style="max-height=400px; max-width:700px;">
+ _More conference statistics coming soon._ 
 
 <style>
 * {
@@ -53,14 +54,13 @@ The **19th Annual Graduate Climate Conference**, which took place from November 
 .top-buffer { margin-top:20px; }
 </style>
 
-<div class="row">
+
+
+
+
+<!--The Graduate Climate Conference has historically alternated between being hosted by the University of Washington and MIT, and graduate students at these two institutions were the sole organizers of the conference until 2021. This is why these two institutions are disproportionately represented in conference attendee data, but it is also worth noting that in recent years, <div class="row">
       <div class="column left">
-        <img src="/assets/img/applications_subject_2025.jpg" alt="Fields of Study" style="max-height=300px; max-width:300px;">
+      
       </div>
-
-
- _More conference statistics coming soon._ 
-
-
-<!--The Graduate Climate Conference has historically alternated between being hosted by the University of Washington and MIT, and graduate students at these two institutions were the sole organizers of the conference until 2021. This is why these two institutions are disproportionately represented in conference attendee data, but it is also worth noting that in recent years, -->
+-->
 
