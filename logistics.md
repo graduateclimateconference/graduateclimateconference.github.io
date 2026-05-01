@@ -43,7 +43,7 @@ We’ve shared a list of attendees with dietary needs (e.g., allergies, vegan, g
 As a reminder, all meals served at the conference will be **vegetarian.** The dining team is familiar with our group and will do their best to accommodate any additional requests as needed. If you feel you will need more protein than provided, please bring your own. Personal snacks are welcome and encouraged!
 
 # Post-Conference 
-To wrap up the weekend, the organizing committee has compiled a [list of activities](https://docs.google.com/spreadsheets/d/1Vsks3KDjsjwmXlmeFhQywaO6x1hjIrLzXMH9TUAqQns/edit) for a **self-guided** and **attendee-organized** social afternoon in Boston. Explore the city with new friends, enjoy some great food, and celebrate the close of another incredible GCC! Feel free to use the WhatsApp group to coordinate with other attendees.
+To wrap up the weekend, the organizing committee has compiled a [list of activities](https://docs.google.com/spreadsheets/d/1Vsks3KDjsjwmXlmeFhQywaO6x1hjIrLzXMH9TUAqQns/edit) for a **self-guided** and **attendee-organized** social afternoon in Boston. Explore the city with new friends, enjoy some great food, and celebrate the close of another incredible GCC! Feel free to use the WhatsApp group to coordinate with other attendees.-->
 
 
 <!--# How to get to MIT’s campus for the bus
