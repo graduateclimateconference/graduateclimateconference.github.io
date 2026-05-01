@@ -37,10 +37,10 @@ cover-img: "/assets/img/pack1.jpeg"
   </a>
 </div>
 
-<div class="text-center">
+<!-- <div class="text-center">
 <a target="_blank" href="https://forms.gle/VUYruL5FER86TnN66">
 <button class="button">Apply to the GCC!</button> </a>
-</div>
+</div> -->
 
 
 <!-- ## The application for GCC 2025 is now closed. 
