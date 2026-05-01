@@ -224,8 +224,10 @@ img {
     padding-bottom: 0;
   }
 
+  # height: 8.0rem;
   .navbar-custom .navbar-brand-logo img {
-    height: 8.0rem;
+    max-height: 50px;
+    width: auto;
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
