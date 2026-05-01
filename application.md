@@ -57,7 +57,7 @@ __Applications for GCC 2026 are open now and are due Sunday, June 14th, at 11:59
 
 ### Application Instructions
 
-All attendees share either an oral or a poster presentation about their research. There are a limited number of oral presentation slots available. Additional information regarding the presentation formats is available on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
+All attendees share either an oral or a poster presentation about their research. There are a limited number of oral presentation slots available. Additional information regarding the presentation formats is available on the [Presentations](https://graduateclimateconference.github.io/presentations/) page.
 
 In addition to your basic contact information, the application will require you to submit:
 - an abstract (max 250 words) describing your research, reviewed for:
