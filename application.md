@@ -17,8 +17,8 @@ cover-img: "/assets/img/pack1.jpeg"
   margin: 4px 2px;
   transition-duration: 0.3s;
   cursor: pointer;
-  background-color: #8FBC8F; 
-  border: 4px solid #8FBC8F;
+  background-color: #7F76D3; 
+  border: 4px solid #7F76D3;
   border-radius: 20px;
   box-shadow: 2px 2px 2px black;
 }
