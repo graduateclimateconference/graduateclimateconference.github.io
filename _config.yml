@@ -19,25 +19,24 @@ navbar-links:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   About: "about"
+  Application: "application"
   # Logistics: "logistics"
-  Schedule: "schedule"
-  Logistics:
-    - Basic Info: "logistics"
-    - Booklet: "booklet"
-    - Presentations: "presentations"
-    - Public Session: "publicsession"
-  Speakers: "speakers"
-  Workshops: "commpartners"
-  FAQ: "faq"
+  # Schedule: "schedule"
+  # Logistics:
+    # - Basic Info: "logistics"
+    # - Booklet: "booklet"
+    # - Presentations: "presentations"
+    # - Public Session: "publicsession"
+  # Speakers: "speakers"
+  # Workshops: "commpartners"
+  # FAQ: "faq"
   # Statistics: "statistics"
   More Info:
     - Code of Conduct: "conduct"
-    - Sponsors: "sponsors"
+    # - Sponsors: "sponsors"
     - Broadening Participation: "broadeningparticipation"
-    - Organizers: "organizers"
+    # - Organizers: "organizers"
     - COVID-19/Flu Protocols: "covid"
-
-    #- Application: "application"
 
 
     # - Archive: "archive"
