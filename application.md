@@ -4,7 +4,7 @@ title: Application
 subtitle: Applying to the Graduate Climate Conference
 cover-img: "/assets/img/pack1.jpeg"
 ---
-<!--<p align="center"><font size="20"><strong>Application Link: </strong></font></p>
+<p align="center"><font size="20"><strong>Application Link: </strong></font></p>
 
 <style>
 .button {
@@ -32,15 +32,15 @@ cover-img: "/assets/img/pack1.jpeg"
 </style>
 
 <div class="text-center">
-  <a target="_blank" href="https://forms.gle/vCZsuyizsSuYM2Ms6">
+  <a target="_blank" href="https://forms.gle/VUYruL5FER86TnN66">
     <div class="button">Apply to the GCC!</div>
   </a>
 </div>
 
-<!--<div class="text-center">
-<a target="_blank" href="https://forms.gle/vCZsuyizsSuYM2Ms6">
+<div class="text-center">
+<a target="_blank" href="https://forms.gle/VUYruL5FER86TnN66">
 <button class="button">Apply to the GCC!</button> </a>
-</div>-->
+</div>
 
 
 <!-- ## The application for GCC 2025 is now closed. 
