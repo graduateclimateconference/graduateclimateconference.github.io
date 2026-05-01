@@ -22,10 +22,10 @@ navbar-links:
   Application: "application"
   # Logistics: "logistics"
   # Schedule: "schedule"
-  # Logistics:
+  Logistics:
     # - Basic Info: "logistics"
     # - Booklet: "booklet"
-    # - Presentations: "presentations"
+    - Presentations: "presentations"
     # - Public Session: "publicsession"
   # Speakers: "speakers"
   # Workshops: "commpartners"
