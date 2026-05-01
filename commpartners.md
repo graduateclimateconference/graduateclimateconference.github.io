@@ -3,8 +3,9 @@ layout: page
 title: Community Partners
 subtitle: Graduate Climate Conference Community Partner Workshops
 ---
+__Community Partners will be announced soon__
 
-## Workshop #1: Understanding the Scientific Paper Editorial Process
+<!-- ## Workshop #1: Understanding the Scientific Paper Editorial Process
 The first community partner workshop will be a Lunch & Learn on __Saturday, November 8, 2025, from 12:30–1:30 PM in the Meigs Room__. Participants are encouraged to bring their lunch from the Swope Dining Hall to the Meigs Room, where they will hear from __Alfredo Aretxabaleta, Brita Jessen, Chris Sherwood, and Neil Kamal Ganju__—scientists at the U.S. Geological Survey’s Woods Hole Coastal and Marine Science Center.
 
 These USGS scientists serve as editors for several well-known scientific journals and will share insights into how editors evaluate submissions—what leads to acceptance (with or without revisions) and what results in rejection. They will also offer practical tips on how to strengthen your manuscript and highlight common mistakes to avoid when submitting for publication.
@@ -24,4 +25,4 @@ Come prepared with questions about their career trajectories, day-to-day work, a
 ## Workshop #3: Introduction to Python for Environmental Sciences
 The third and final community partner workshop will also take place on __Saturday, November 8, 2025, from 1:30–2:45 PM__. This hands-on session will introduce attendees to the fundamentals of Python, a powerful and widely used programming language for environmental and climate science research. Whether you’re new to coding or already experienced, workshop leaders __Dr. Chris Sherwood (USGS, Coastal Oceanographer) and Dr. Rich Signell (Founder, Open Science LLC)__ will guide participants through practical exercises and tools to enhance their programming skills.
 
-Understanding Python is a valuable asset for research and can strengthen your résumé as you pursue careers across the climate and environmental sciences.
+Understanding Python is a valuable asset for research and can strengthen your résumé as you pursue careers across the climate and environmental sciences. -->
