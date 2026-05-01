@@ -26,4 +26,4 @@ By taking these steps, the GCC aims to create an engaging and productive space w
 
 The GCC will feature two keynote speakers: one who will explore ways to broaden participation and engagement in climate science, and another early-career scientist who will share insights on diverse career paths in research, academia, science communication, and beyond.
 
-Read about the speakers on the [Schedule & Abstracts page](https://graduateclimateconference.github.io/schedule/).
+<!-- Read about the speakers on the [Schedule & Abstracts page](https://graduateclimateconference.github.io/schedule/). -->
