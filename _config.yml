@@ -35,7 +35,7 @@ navbar-links:
     - Code of Conduct: "conduct"
     # - Sponsors: "sponsors"
     - Broadening Participation: "broadeningparticipation"
-    # - Organizers: "organizers"
+    - Organizers: "organizers"
     - COVID-19/Flu Protocols: "covid"
 
 
