@@ -29,7 +29,7 @@ navbar-links:
     # - Public Session: "publicsession"
   # Speakers: "speakers"
   # Workshops: "commpartners"
-  # FAQ: "faq"
+  FAQ: "faq"
   # Statistics: "statistics"
   More Info:
     - Code of Conduct: "conduct"
