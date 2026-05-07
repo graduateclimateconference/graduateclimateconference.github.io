@@ -45,6 +45,7 @@ cover-img: "/assets/img/packforest.jpeg"
       <li><div class="profile"><h2 class="profile__name">Bradley Lamkin</h2><p>- Website</p><img alt="Bradley Lamkin" src="/assets/img/headshots/2026/Bradley_Lamkin_Website.jpeg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Cassandra Bartels</h2><p>- Conference Logistics</p><img alt="Cassandra Bartels" src="/assets/img/headshots/2026/Cassandra_Bartels_Logistics.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Dominik Stiller</h2><p>- Audio & Visual</p><img alt="Dominik Stiller" src="/assets/img/headshots/2026/Dominik_Stiller_Audio_Visual.jpg" /></div></li>
+      <li><div class="profile"><h2 class="profile__name">Fadime Stemmer</h2><p>- Fundraising</p><img alt="Fadime Stemmer" src="/assets/img/headshots/2026/Fadime_Stemmer_Fundrasing.jpeg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Hannah McKinley</h2><p>- Soical & Communications</p><img alt="Hannah McKinley" src="/assets/img/headshots/2026/Hannah_McKinley_Social_Coms_Adv.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Hanne Borstlap</h2><p>- Conference Logistics</p><img alt="Hanne Borstlap" src="/assets/img/headshots/2026/Hanne_Borstlap_Logistics.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Joey Rotondo</h2><p>- Recording & Evaluations</p><img alt="Joey Rotondo" src="/assets/img/headshots/2026/Joey_Rotondo_Rec_Eval.jpeg" /></div></li>
