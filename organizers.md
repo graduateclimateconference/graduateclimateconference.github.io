@@ -19,16 +19,16 @@ cover-img: "/assets/img/packforest.jpeg"
       </li>
       <li>
         <div class="profile">
-          <h2 class="profile__name">Liiac Hong</h2>
+          <h2 class="profile__name">Katie Webb</h2>
           <p>- Co-chair<br>- Abstracts<br></p>
-          <img alt="Lilac Hong" src="/assets/img/headshots/2026/Lilac_Hong_Co_Chair.jpg" />
+          <img alt="Katie Webb" src="/assets/img/headshots/2026/Katie_Webb_Co_Chair.jpeg" />
         </div>
       </li>
       <li>
         <div class="profile">
-          <h2 class="profile__name">Katie Webb</h2>
+          <h2 class="profile__name">Liiac Hong</h2>
           <p>- Co-chair<br>- Abstracts<br></p>
-          <img alt="Katie Webb" src="/assets/img/headshots/2026/Katie_Webb_Co_Chair.jpeg" />
+          <img alt="Lilac Hong" src="/assets/img/headshots/2026/Lilac_Hong_Co_Chair.jpg" />
         </div>
       </li>
     </ul>
