@@ -30,12 +30,12 @@ navbar-links:
   # Speakers: "speakers"
   # Workshops: "commpartners"
   FAQ: "faq"
-  # Statistics: "statistics"
   More Info:
     - Code of Conduct: "conduct"
     # - Sponsors: "sponsors"
     - Broadening Participation: "broadeningparticipation"
     - Organizers: "organizers"
+    - Statistics: "statistics"
     - Past GCCs: "pastGCC"
     - COVID-19/Flu Protocols: "covid"
 
