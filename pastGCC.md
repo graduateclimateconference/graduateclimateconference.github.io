@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Code of Conduct
+title: Past Graduate Climate Conferences
 ---
 
-# Past Graduate Climate Conferences
 Want to learn more about previous GCCs? View our past GCC websites!
 
 - [GCC 2022](https://graduateclimateconference.github.io/gcc2022/)
