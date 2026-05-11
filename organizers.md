@@ -46,13 +46,13 @@ cover-img: "/assets/img/packforest.jpeg"
       <li><div class="profile"><h2 class="profile__name">Cassandra Bartels</h2><p>- Conference Logistics</p><img alt="Cassandra Bartels" src="/assets/img/headshots/2026/Cassandra_Bartels_Logistics.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Dominik Stiller</h2><p>- Audio & Visual</p><img alt="Dominik Stiller" src="/assets/img/headshots/2026/Dominik_Stiller_Audio_Visual.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Fadime Stemmer</h2><p>- Fundraising</p><img alt="Fadime Stemmer" src="/assets/img/headshots/2026/Fadime_Stemmer_Fundraising.jpeg" /></div></li>
-      <li><div class="profile"><h2 class="profile__name">Hannah McKinley</h2><p>- Soical & Communications</p><img alt="Hannah McKinley" src="/assets/img/headshots/2026/Hannah_McKinley_Social_Coms_Adv.jpg" /></div></li>
+      <li><div class="profile"><h2 class="profile__name">Hannah McKinley</h2><p>- Social & Communications</p><img alt="Hannah McKinley" src="/assets/img/headshots/2026/Hannah_McKinley_Social_Coms_Adv.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Hanne Borstlap</h2><p>- Conference Logistics</p><img alt="Hanne Borstlap" src="/assets/img/headshots/2026/Hanne_Borstlap_Logistics.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Joey Rotondo</h2><p>- Recording & Evaluations</p><img alt="Joey Rotondo" src="/assets/img/headshots/2026/Joey_Rotondo_Rec_Eval.jpeg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Katelin Teigen</h2><p>- Relations</p><img alt="Katelin Teigen" src="/assets/img/headshots/2026/Katelin_Teigen_Relations.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Leo Balcer</h2><p>- Swag</p><img alt="Leo Balcer" src="/assets/img/headshots/2026/Leo_Balcer_Swag.jpeg" /></div></li>
-      <li><div class="profile"><h2 class="profile__name">Mahmoud Samy</h2><p>- Soical & Communications</p><img alt="Mahmoud Samy" src="/assets/img/headshots/2026/Mahmoud_Samy_Social_Coms_Adv.jpeg" /></div></li>
-      <li><div class="profile"><h2 class="profile__name">Marissa Tripus</h2><p>- Soical & Communications</p><img alt="Marissa Tripus" src="/assets/img/headshots/2026/Marissa_Tripus_Social_Coms_Adv.jpg" /></div></li>
+      <li><div class="profile"><h2 class="profile__name">Mahmoud Samy</h2><p>- Social & Communications</p><img alt="Mahmoud Samy" src="/assets/img/headshots/2026/Mahmoud_Samy_Social_Coms_Adv.jpeg" /></div></li>
+      <li><div class="profile"><h2 class="profile__name">Marissa Tripus</h2><p>- Social & Communications</p><img alt="Marissa Tripus" src="/assets/img/headshots/2026/Marissa_Tripus_Social_Coms_Adv.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Miles Epstein</h2><p>- Travel Logistics</p><img alt="Miles Epstein" src="/assets/img/headshots/2026/Miles_Epstein_Travel.jpg" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Olivia Doty</h2><p>- Recording & Evaluations</p><img alt="Olivia Doty" src="/assets/img/headshots/2026/Olivia_Doty_Rec_Eval.JPG" /></div></li>
       <li><div class="profile"><h2 class="profile__name">Prem Rao</h2><p>- Relations</p><img alt="Prem Rao" src="/assets/img/headshots/2026/Prem_Rao_Relations.png" /></div></li>
