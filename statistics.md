@@ -19,6 +19,6 @@ The **19th Annual Graduate Climate Conference**, which took place from November 
 <!--The Graduate Climate Conference has historically alternated between being hosted by the University of Washington and MIT, and graduate students at these two institutions were the sole organizers of the conference until 2021. This is why these two institutions are disproportionately represented in conference attendee data, but it is also worth noting that in recent years, <div class="row">
       <div class="column left">
       
-      </div>
+      </div> -->
 
 
