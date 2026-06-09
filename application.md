@@ -65,7 +65,7 @@ In addition to your basic contact information, the application will require you 
     - Scientific merit (contribution of original research with clear broader implications)
     - Clarity of message and ideas
     - Accessibility to all GCC participants (across many fields)
-- a personal statement (max 250 words) ​describing how you see yourself contributing to the GCC and the larger research community that highlights any of the following:
+- a personal statement (max 100 words) ​describing how you see yourself contributing to the GCC and the larger research community that highlights any of the following:
     - Special interests, perspectives, skills, or future goals
     - Aspects of your personal history, background, or identity that have shaped and impacted your experience in science
     - Demonstrated experience or interest in contributing to service, teaching, mentoring, and/or efforts to support diversity and inclusion
