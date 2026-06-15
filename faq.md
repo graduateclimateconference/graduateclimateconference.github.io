@@ -31,7 +31,7 @@ The [application](https://graduateclimateconference.github.io/application/) is o
 
 ### When does the application close?
 
-The application will close at 11:59 PM EDT on June 14th, 2026.
+The application dedline has been extended and will close at 11:59 PM EDT on June 21st, 2026.
 
 ### When will I find out if my abstract was accepted?
 
