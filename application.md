@@ -4,7 +4,7 @@ title: Application
 subtitle: Applying to the Graduate Climate Conference
 cover-img: "/assets/img/pack1.jpeg"
 ---
-<p align="center"><font size="20"><strong>Application Link: </strong></font></p>
+<!-- <p align="center"><font size="20"><strong>Application Link: </strong></font></p> -->
 
 <style>
 .button {
