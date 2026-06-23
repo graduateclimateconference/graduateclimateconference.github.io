@@ -8,8 +8,9 @@ cover-img: "/assets/img/packforest.jpeg"
 # Frequently Asked Questions
 
  - __Application__
-    - [When does the application open?](#when-does-the-application-open)
-    - [When does the application close?](#when-does-the-application-close)
+    <!-- - [When does the application open?](#when-does-the-application-open) -->
+    <!-- - [When does the application close?](#when-does-the-application-close) -->
+    - [When is the application period?](#when-is-the-application-period)
     - [When will I find out if my abstract was accepted?](#when-will-i-find-out-if-my-abstract-was-accepted)
 - __Location and Travel__
     - [Where will the conference take place?](#where-will-the-conference-take-place)
