@@ -31,7 +31,7 @@ cover-img: "/assets/img/pack1.jpeg"
 }
 </style>
 
-<-- <div class="text-center">
+<!-- <div class="text-center">
   <a target="_blank" href="https://forms.gle/VUYruL5FER86TnN66">
     <div class="button">Apply to the GCC!</div>
   </a>
