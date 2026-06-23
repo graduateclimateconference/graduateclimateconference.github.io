@@ -25,13 +25,17 @@ cover-img: "/assets/img/packforest.jpeg"
     - [What if my question is not answered here?](#what-if-my-question-is-not-answered-here)
 
 
-### When does the application open?
+<!-- ### When does the application open?
 
-The [application](https://graduateclimateconference.github.io/application/) is open now!
+The [application](https://graduateclimateconference.github.io/application/) is open now! -->
 
-### When does the application close?
+<!-- ### When does the application close?
 
-The application dedline has been extended and will close at 11:59 PM EDT on June 21st, 2026.
+The application dedline has been extended and will close at 11:59 PM EDT on June 21st, 2026. -->
+
+### When is the application period?
+
+Applications for GCC 2026 are now closed. We encourage you to apply next year in May 2027!
 
 ### When will I find out if my abstract was accepted?
 
