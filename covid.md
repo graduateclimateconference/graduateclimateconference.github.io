@@ -21,6 +21,6 @@ Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.
 - Self-assessment – If you are feeling unwell and/or experiencing symptoms of COVID-19 or Flu, **you should not attend**.
 
 ## Additional Resources
-- [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html){:target="_blank"}
-- [State of Massachusetts COVID-19 Guidelines](https://www.mass.gov/covid-19-updates-and-information){:target="_blank"}
-- [MIT COVID-19 Information](https://now.mit.edu/){:target="_blank"}
+- [CDC](https://www.cdc.gov/respiratory-viruses/index.html){:target="_blank"}
+- [State of Washington Respiratory Illness Guidelines](ehs.washington.edu/communicable-diseases/respiratory-illness-resources?_gl=…){:target="_blank"}
+- [UW Respiratory Illness Information](doh.wa.gov/emergencies/covid-19/prevent-spreading-respiratory-viruses){:target="_blank"}
