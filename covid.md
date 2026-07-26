@@ -12,7 +12,7 @@ The Graduate Climate Conference (GCC) is organized by graduate students, for gra
 
 ## Isolation Protocols
 
-Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html){:target="_blank"} before or during the meeting should immediately contact the GCC 2026 co-chairs Grace Brown (gabrown@mit.edu), Lilac Hong (zhhong@uw.edu), Katie Webb (krwebb@uw.edu). We hope to provide an isolation apartment to allow said attendee to quarantine for the remainder of the conference.
+Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html){:target="_blank"} before or during the meeting should immediately [contact us] (gradclimateconference@gmail.com){:target="_blank"}. We hope to provide an isolation apartment to allow said attendee to quarantine for the remainder of the conference.
 
 ## Other Onsite Safety Measures
 
