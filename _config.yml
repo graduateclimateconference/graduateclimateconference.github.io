@@ -32,7 +32,7 @@ navbar-links:
   FAQ: "faq"
   More Info:
     - Code of Conduct: "conduct"
-    # - Sponsors: "sponsors"
+    - Sponsors: "sponsors"
     - Broadening Participation: "broadeningparticipation"
     - Organizers: "organizers"
     - Statistics: "statistics"
