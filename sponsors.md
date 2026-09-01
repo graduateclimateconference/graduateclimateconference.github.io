@@ -125,7 +125,7 @@ subtitle: Graduate Climate Conference Sponsors
        <!-- <div class="column right">
         <p>Washington Sea Grant</p>
         <a target="_blank" href="https://wsg.washington.edu/"><img src="/assets/img/sponsors/SeaGrantLogo.png" alt="Washington Sea Grant" style="max-height=300px; max-width:300px;">          </a>
-      </div>--> -->
+      </div>--> 
       <!-- <div class="column left">
         <p>Department of Atmospheric and Oceanic Sciences, <br> University of Wisconsin-Madison</p>
         <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uwmad_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-            Madison" style="max-height=300px; max-width:300px;"></a> -->
