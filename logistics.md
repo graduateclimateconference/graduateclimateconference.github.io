@@ -6,7 +6,7 @@ cover-img: "/assets/img/pack1.jpeg"
 ---
 # Location
 
-GCC 2025 will be held from __November 6 - 8, 2026 at the [Pack Forest Conference Center](https://sites.uw.edu/packweb/conference-center/), Eatonville, Washington__. The drive between Seattle and Pack Forest is approximately 2 hours. Transportation between Seattle and Pack Forest will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquiries. Thank you!
+GCC 2026 will be held from __November 6 - 8, 2026 at the [Pack Forest Conference Center](https://sites.uw.edu/packweb/conference-center/), Eatonville, Washington__. The drive between Seattle and Pack Forest is approximately 2 hours. Transportation between Seattle and Pack Forest will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquiries. Thank you!
 
 # Getting to the UW Oceans Science Building
 The pubic session will be held on __Friday, November 6 from 12:00 pm to 2:30 pm__ in the __[UW Ocean Sciences Building](https://www.google.com/maps/place/Ocean+Sciences+Building,+1492+NE+Boat+St,+Seattle,+WA+98105/@47.6513197,-122.3114173,406m/data=!3m1!1e3!4m6!3m5!1s0x549014ee76772623:0xfbe91106360c56d7!8m2!3d47.6512363!4d-122.3126707!16s%2Fg%2F1tdg2y0m!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgzMC4wIKXMDSoASAFQAw%3D%3D)__. 
