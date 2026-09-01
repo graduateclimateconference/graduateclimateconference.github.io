@@ -4,45 +4,46 @@ title: Basic Info and Conference Logistics
 subtitle: What you need to know about the GCC
 cover-img: "/assets/img/pack1.jpeg"
 ---
-**Conference Logistics will be annouced soon**
-<!--
 # Location
 
-GCC 2025 will be held from __November 7 - 9, 2025 at the [Marine Biological Laboratory](https://www.mbl.edu/), Woods Hole, Massachusetts__. The drive between Woods Hole and Boston is approximately 1.5 hours. Transportation between Boston and Woods Hole will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
+GCC 2025 will be held from __November 6 - 8, 2026 at the [Pack Forest Conference Center](https://sites.uw.edu/packweb/conference-center/), Eatonville, Washington__. The drive between Seattle and Pack Forest is approximately 2 hours. Transportation between Seattle and Pack Forest will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquiries. Thank you!
 
-- Map of [Woods Hole Oceanographic Institution](https://www.whoi.edu/who-we-are/visit-whoi/directions/)
-- Map of [Marine Biological Laboratory](https://www.mbl.edu/about/campus-facilities-resources/campus-maps)
+# Getting to the UW Oceans Science Building
+The pubic session will be held on __Friday, November 6 from 12:00 pm to 2:30 pm__ in the __[UW Ocean Sciences Building](https://www.google.com/maps/place/Ocean+Sciences+Building,+1492+NE+Boat+St,+Seattle,+WA+98105/@47.6513197,-122.3114173,406m/data=!3m1!1e3!4m6!3m5!1s0x549014ee76772623:0xfbe91106360c56d7!8m2!3d47.6512363!4d-122.3126707!16s%2Fg%2F1tdg2y0m!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgzMC4wIKXMDSoASAFQAw%3D%3D)__. 
 
-# Transportation
+For those who arriving by plane, follow signs for the __Link Light Rail__. Please take the __Link 1-Line from SeaTak/Airport to Univ of Washington Station__. The cost is $3.00. From the Univ of Washington Station, it is around a 13 min walk. See the maps below:
 
-We will provide transportation between the Boston Logan Airport and the Marine Biological Laboratory in Woods Hole, but we can only ensure transport for you if you are attending the entire conference. __You should receive an email assigning you to a bus. Please get on your assigned bus.__ The bus schedule will be as follows: 
+__Please note: Ubers, Lyfts, Taxis, Car Rentals, etc will NOT BE REIMBURSED!!!__ For those requiring mobility accommodations, please contact [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com)
 
+# Getting to and from the Pack Forest Conference Center
+We will provide transportation between the University of Washington Campus and the Pack Forest Conference Center, but we can only ensure transport for you if you are attending the entire conference. 
+ 
+The bus schedule will be as follows: 
 ### November 7th: 
-- __8:30 am__: Bus from MIT to Boston Logan Airport to Woods Hole
-   - Note: This bus will arrive at Boston Logan Airport around __9:00 am__ 
-- __10:00 am__: Bus from Boston Logan Airport to Woods Hole
+- __2:30 pm__: Bus from University of Washington to Pack Forest
+   - Note: One bus will pick-up any late-arrivals at SeaTak Airport around __3:00 pm__ 
 
-The bus will pick up from and drop off at **Terminal B** of Boston Logan Airport and by the Massachusetts Avenue and Amherst Street intersection on the MIT campus. Please refer to the below maps for the exact pick-up points. 
+<!-- The bus will pick up from and drop off at **Terminal B** of Boston Logan Airport and by the Massachusetts Avenue and Amherst Street intersection on the MIT campus. Please refer to the below maps for the exact pick-up points. 
 <img src="/assets/img/IMG_5023.png" alt="MIT Campus Pick-up Location">
-<img src="/assets/img/IMG_5024.png" alt="Boston Logan Pick-up Location">
+<img src="/assets/img/IMG_5024.png" alt="Boston Logan Pick-up Location"> -->
 
 
-**Conference accomdations** will be at MBL’s SWOPE building. Check in is at 2 pm as shown on the [Schedule](https://graduateclimateconference.github.io/schedule/). Before then, we will need to store belongings in the auditorium. Please refer to the maps linked above for these building locations. 
+<!-- **Conference accomdations** will be at MBL’s SWOPE building. Check in is at 2 pm as shown on the [Schedule](https://graduateclimateconference.github.io/schedule/). Before then, we will need to store belongings in the auditorium. Please refer to the maps linked above for these building locations. -->
 
 ### November 9th:
-- __12:30 pm__: Bus from Woods Hole to Boston Logan Airport to MIT
-- __12:30 pm__: Bus from Woods Hole to Boston Logan Airport
+- __12:30 pm__: Bus from Pack Forest to UW
+  - Note: One bus will stop at SeaTak Airport around __2:30 pm__ 
 
-In the event that you need to take a bus to augment these conference-provided transport options, we have found that tickets are available and cheapest via the [Peter Pan](https://peterpanbus.com/) bus line or the [Plymouth & Brockton](https://www.p-b.com/schedules/) bus line. 
+<!-- In the event that you need to take a bus to augment these conference-provided transport options, we have found that tickets are available and cheapest via the [Peter Pan](https://peterpanbus.com/) bus line or the [Plymouth & Brockton](https://www.p-b.com/schedules/) bus line. -->
 
-__Please note__: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston. The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system.
+<!-- __Please note__: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston. The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system. -->
 
 # Meals
-We’ve shared a list of attendees with dietary needs (e.g., allergies, vegan, gluten-free, lactose intolerance, etc.) with the Marine Biological Laboratory dining staff. _If you requested a special meal, please identify yourself to the kitchen staff at each meal to ensure you receive the meal prepared specifically for you._
+We’ve shared a list of attendees with dietary needs (e.g., allergies, vegan, gluten-free, lactose intolerance, etc.) with the Pack Forest Conference Center dining staff. _If you requested a special meal, please identify yourself to the kitchen staff at each meal to ensure you receive the meal prepared specifically for you._
 
 As a reminder, all meals served at the conference will be **vegetarian.** The dining team is familiar with our group and will do their best to accommodate any additional requests as needed. If you feel you will need more protein than provided, please bring your own. Personal snacks are welcome and encouraged!
 
-# Post-Conference 
+<!-- # Post-Conference 
 To wrap up the weekend, the organizing committee has compiled a [list of activities](https://docs.google.com/spreadsheets/d/1Vsks3KDjsjwmXlmeFhQywaO6x1hjIrLzXMH9TUAqQns/edit) for a **self-guided** and **attendee-organized** social afternoon in Boston. Explore the city with new friends, enjoy some great food, and celebrate the close of another incredible GCC! Feel free to use the WhatsApp group to coordinate with other attendees.-->
 
 
