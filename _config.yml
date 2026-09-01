@@ -23,7 +23,7 @@ navbar-links:
   # Logistics: "logistics"
   Schedule: "schedule"
   Logistics:
-    # - Basic Info: "logistics"
+    - Basic Info: "logistics"
     # - Booklet: "booklet"
     - Presentations: "presentations"
     # - Public Session: "publicsession"
