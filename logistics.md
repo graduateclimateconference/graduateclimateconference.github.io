@@ -51,7 +51,6 @@ The bus schedule will be as follows:
 # Accommodations
 Conference participants will be staying in historical cabins. Each cabin sleeps up to eight people. Restrooms and showers are located in a building across from the cabins (see map for details). Pack Forest provides towels and bedding for all participants.
 
-  </div>
   <div class="column right" style="background-color: site.page-col;">
     <img src="/assets/img/pfcc_map.png" alt="Pack Forest Conference Center Map">
   </div>
