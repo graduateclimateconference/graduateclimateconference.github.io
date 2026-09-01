@@ -22,7 +22,6 @@ For those who arriving by plane, follow signs for the __Link Light Rail__. Pleas
 <div align="center">
 <img src="/assets/img/UW_Station.png" alt="Walking Directions">
 </div>
-
  
 __Please note: Ubers, Lyfts, Taxis, Car Rentals, etc will NOT BE REIMBURSED!!!__ For those requiring mobility accommodations, please contact [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com)
 
