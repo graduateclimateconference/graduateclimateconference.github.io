@@ -21,9 +21,9 @@ navbar-links:
   About: "about"
   Application: "application"
   # Logistics: "logistics"
-  Schedule: "schedule"
   Logistics:
     - Basic Info: "logistics"
+    - Schedule: "schedule"
     # - Booklet: "booklet"
     - Presentations: "presentations"
     # - Public Session: "publicsession"
