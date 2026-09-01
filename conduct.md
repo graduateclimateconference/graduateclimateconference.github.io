@@ -24,7 +24,4 @@ The Graduate Climate Conference (GCC) is organized by graduate students, for gra
 Anyone requested to stop unacceptable behavior is expected to comply immediately. The GCC organizing team may take any action deemed appropriate, including immediate removal. We reserve the right to prohibit attendance at any future GCC.
 
 ## IV. Reporting 
-If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify the GCC organizing team (gradclimateconference@gmail.com) or any of the GCC co-chairs individually: 
-- Grace Brown (gabrown@mit.edu)
-- Lilac Hong (zhhong@uw.edu)
-- Katie Webb (krwebb@uw.edu)
+If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify the GCC organizing team (gradclimateconference@gmail.com).
