@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COVID-19 Policies and Information
+title: COVID-19/Flu Policies and Information
 cover-img: "/assets/img/packforest.jpeg"
 ---
 
@@ -12,7 +12,7 @@ The Graduate Climate Conference (GCC) is organized by graduate students, for gra
 
 ## Isolation Protocols
 
-Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html){:target="_blank"} before or during the meeting should immediately contact us at [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com). We hope to provide an isolation apartment to allow said attendee to quarantine for the remainder of the conference.
+Attendees who feel ill or experience any [symptoms of COVID-19/Flu](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html){:target="_blank"} before or during the meeting should immediately contact us at [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com). We hope to provide an isolation apartment to allow said attendee to quarantine for the remainder of the conference.
 
 ## Other Onsite Safety Measures
 
