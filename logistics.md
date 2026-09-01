@@ -48,6 +48,23 @@ The bus schedule will be as follows:
 
 <!-- __Please note__: We will arrange for buses to pick attendees up at Boston Logan Airport, so no one except those local to the area should need to make their way to MIT to recieve transport. However, in the event that it is necessary, you can use the MBTA (referred to as the “T”), which includes the subway, bus and commuter rail system in Boston, to make your way to the MIT campus. The OpenMBTA smartphone app is a great way to track bus/subway arrival and departure times when using public transportation in Boston. The MIT campus is located at the Kendall/MIT stop on the Red Line of the subway system. -->
 
+# Accommodations
+Conference participants will be staying in historical cabins. Each cabin sleeps up to eight people. Restrooms and showers are located in a building across from the cabins (see map for details). Pack Forest provides towels and bedding for all participants.
+
+  </div>
+  <div class="column right" style="background-color: site.page-col;">
+    <img src="/assets/img/pfcc_map.png" alt="Pack Forest Conference Center Map">
+  </div>
+
+### What to Bring?
+- Toiletries
+- Refillable Water Bottle
+- Warm Clothes
+- Rain Jacket
+- Halloween Costume
+- Your Poster (if applicable)
+- Ear Plugs (if you are a light sleeper)
+
 # Meals
 We’ve shared a list of attendees with dietary needs (e.g., allergies, vegan, gluten-free, lactose intolerance, etc.) with the Pack Forest Conference Center dining staff. _If you requested a special meal, please identify yourself to the kitchen staff at each meal to ensure you receive the meal prepared specifically for you._
 
