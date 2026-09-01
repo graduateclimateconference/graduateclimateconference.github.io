@@ -11,7 +11,7 @@ GCC 2026 will be held from __November 6 - 8, 2026 at the [Pack Forest Conference
 # Getting to the UW Oceans Sciences Building
 The public session will be held on __Friday, November 6 from 12:00 pm to 2:30 pm__ in the __[UW Ocean Sciences Building](https://www.google.com/maps/place/Ocean+Sciences+Building,+1492+NE+Boat+St,+Seattle,+WA+98105/@47.6513197,-122.3114173,406m/data=!3m1!1e3!4m6!3m5!1s0x549014ee76772623:0xfbe91106360c56d7!8m2!3d47.6512363!4d-122.3126707!16s%2Fg%2F1tdg2y0m!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgzMC4wIKXMDSoASAFQAw%3D%3D)__. 
 
-For those who arriving by plane, follow signs for the __Link Light Rail__. Please take the __Link 1-Line from SeaTak/Airport to Univ of Washington Station__. The cost is $3.00. From the Univ of Washington Station, it is around a 13 min walk. See the maps below:
+For those who arriving by plane, follow signs for the __Link Light Rail__. Please take the __Link 1-Line from SeaTac/Airport to Univ of Washington Station__. The cost is $3.00. From the Univ of Washington Station, it is around a 13 min walk. See the maps below:
 
 ### Link Light Rail Map
 <div align="center">
@@ -31,7 +31,7 @@ We will provide transportation between the University of Washington Ocean Scienc
 The bus schedule will be as follows: 
 ### Friday, November 7th: 
 - __2:30 pm__: Bus from UW to Pack Forest
-   - Note: One bus will pick-up any late-arrivals at SeaTak Airport around __3:00 pm__ 
+   - Note: One bus will pick-up any late-arrivals at SeaTac Airport around __3:00 pm__ 
 
 <!-- The bus will pick up from and drop off at **Terminal B** of Boston Logan Airport and by the Massachusetts Avenue and Amherst Street intersection on the MIT campus. Please refer to the below maps for the exact pick-up points. 
 <img src="/assets/img/IMG_5023.png" alt="MIT Campus Pick-up Location">
@@ -42,7 +42,7 @@ The bus schedule will be as follows:
 
 ### Sunday, November 9th:
 - __12:30 pm__: Bus from Pack Forest to UW
-  - Note: One bus will stop at SeaTak Airport around __2:30 pm__ 
+  - Note: One bus will stop at SeaTac Airport around __2:30 pm__ 
 
 <!-- In the event that you need to take a bus to augment these conference-provided transport options, we have found that tickets are available and cheapest via the [Peter Pan](https://peterpanbus.com/) bus line or the [Plymouth & Brockton](https://www.p-b.com/schedules/) bus line. -->
 
