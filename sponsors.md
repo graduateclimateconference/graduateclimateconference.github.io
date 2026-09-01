@@ -68,7 +68,7 @@ subtitle: Graduate Climate Conference Sponsors
         <p>Department of Atmospheric and Oceanic Sciences, <br> University of Wisconsin-Madison</p>
         <a target="_blank" href="https://www.aos.wisc.edu"><img src="/assets/img/sponsors/uwmad_aos.jpeg" alt="Department of Atmospheric and Oceanic Sciences, University of Wisconsin-            Madison" style="max-height=300px; max-width:300px;"></a> -->
       </div>
-      <div class="column right">
+      <div class="column left">
         <p>Woods Hole Oceanographic Institution</p>
         <a target="_blank" href="https://www.whoi.edu/"><img src="/assets/img/sponsors/whoi_logo.png" alt="Woods Hole Oceanographic Institution" style="max-height=300px; max-width:300px;"></a>
        </div>
@@ -76,11 +76,11 @@ subtitle: Graduate Climate Conference Sponsors
         <p>Department of Earth and Environmental Sciences, <br> Boston College</p>
         <a target="_blank" href="https://www.bc.edu/bc-web/schools/morrissey/departments/eesc.html"><img src="/assets/img/sponsors/boston_earthsci.jpeg" alt="Department of Earth and Environmental Sciences, Boston College" style="max-height=300px; max-width:300px;"></a> -->
        </div> 
-      <div class="column left">
+      <div class="column right">
         <p>UW School of Oceanography</p>
         <a target="_blank" href="https://www.ocean.washington.edu"><img src="/assets/img/sponsors/UW_oceanography" alt="UW School of Oceanography" style="max-height=300px; max-width:300px;"></a>
       </div>
-      <div class="column right">
+      <div class="column left">
         <p>MIT Earth, Atmospheric and Climate Sciences</p>
         <a target="_blank" href="https://www.eaps.mit.edu"><img src="/assets/img/sponsors/mit_eaps.png" alt="MIT Earth, Atmospheric and Climate Sciences" style="max-height=300px; max-width:300px;"></a>
       <div class="column right">
@@ -95,7 +95,7 @@ subtitle: Graduate Climate Conference Sponsors
         <p>UW Graduate School</p>
         <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a> -->
       </div>
-      <div class="column left">
+      <div class="column right">
         <p>UW Cooperative Institute for Climate, Ocean, and Ecosystem Studies</p>
         <a target="_blank" href="https://www.cicoes.uw.edu"><img src="/assets/img/sponsors/cicoes.png" alt="UW Cooperative Institute for Climate, Ocean, and Ecosystem Studies" style="max-height=300px; max-width:300px;"></a>
       </div>
