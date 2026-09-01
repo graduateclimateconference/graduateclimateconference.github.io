@@ -91,18 +91,18 @@ subtitle: Graduate Climate Conference Sponsors
         <p>UW Department of Atmospheric and Climate Science</p>
         <a target="_blank" href="https://atmos.uw.edu/"><img src="/assets/img/sponsors/UW_atmos.jpeg" alt="UW Department of Atmospheric and Climate Science" style="max-height=300px; max-width:300px;"></a>
       </div>
-      <div class="column right">
+      <!-- <div class="column right">
         <p>UW Graduate School</p>
-        <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a>
+        <a target="_blank" href="https://www.grad.uw.edu"><img src="/assets/img/sponsors/uw-grad-school.png" alt="UW Graduate School" style="max-height=300px; max-width:300px;"></a> -->
       </div>
       <div class="column left">
         <p>UW Cooperative Institute for Climate, Ocean, and Ecosystem Studies</p>
         <a target="_blank" href="https://www.cicoes.uw.edu"><img src="/assets/img/sponsors/cicoes.png" alt="UW Cooperative Institute for Climate, Ocean, and Ecosystem Studies" style="max-height=300px; max-width:300px;"></a>
       </div>
-      <div class="column right">
+      <!-- <div class="column right">
         <p>MIT Lorenz Center</p>
         <a target="_blank" href="https://www.lorenz.mit.edu"><img src="/assets/img/sponsors/MIT Lorenz Center.jpg" alt="MIT Lorenz Center" style="max-height=300px; max-width:300px;"></a>
-      </div>
+      </div> -->
       <!-- <div class="column left">
         <p>Lawrence Berkeley National Laboratory</p>
         <a target="_blank" href="http://www.lbnl.gov"><img src="/assets/img/sponsors/lbnl.png" alt="Lawrence Berkeley National Laboratory" style="max-height=300px; max-width:300px;"></a>
