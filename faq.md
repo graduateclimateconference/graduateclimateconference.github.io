@@ -52,7 +52,7 @@ Travel grants are issued for airfare as funding allows. If you would like to be 
 
 ### Are accommodations, transportation, and food included?
 
-We will provide transport between Seattle and Pack Forest, as well as accomodations and food during the conference. Conference attendees will stay in provided housing, with bedding and towels provided. Meals will also be served in the on-site dining hall. All meals will be vegetarian, and we will accommodate any additional dietary restrictions and allergies. <!-- More information can be found on the [Logistics](https://graduateclimateconference.github.io/logistics2023/) page. -->
+We will provide transport between Seattle and Pack Forest, as well as accommodations and food during the conference. Conference attendees will stay in provided housing, with bedding and towels provided. Meals will also be served in the on-site dining hall. All meals will be vegetarian, and we will accommodate any additional dietary restrictions and allergies. More information can be found on the [Basic Info](https://graduateclimateconference.github.io/logistics/) page.
 
 ### Will the conference have a hybrid online option?
 
@@ -60,7 +60,7 @@ No, the conference will be conducted entirely in-person. Attendees will be expec
 
 ### What is the format?
 
-GCC 2026 will be a mixture of oral presentations, poster presentations, attendee-led workshops, and social events. An example of a past schedule can be found [Here](https://graduateclimateconference.github.io/pdf/GCC_schedule.pdf).
+GCC 2026 will be a mixture of oral presentations, poster presentations, attendee-led workshops, and social events. Please see our draft [Schedule](https://graduateclimateconference.github.io/schedule/).
 
 ### How many people will be there?
 
