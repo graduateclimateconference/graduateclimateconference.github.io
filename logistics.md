@@ -29,7 +29,7 @@ __Please note: Ubers, Lyfts, Taxis, Car Rentals, etc will NOT BE REIMBURSED!!!__
 We will provide transportation between the University of Washington Campus and the Pack Forest Conference Center, but we can only ensure transport for you if you are attending the entire conference. 
  
 The bus schedule will be as follows: 
-### November 7th: 
+### Friday, November 7th: 
 - __2:30 pm__: Bus from University of Washington to Pack Forest
    - Note: One bus will pick-up any late-arrivals at SeaTak Airport around __3:00 pm__ 
 
@@ -40,7 +40,7 @@ The bus schedule will be as follows:
 
 <!-- **Conference accomdations** will be at MBL’s SWOPE building. Check in is at 2 pm as shown on the [Schedule](https://graduateclimateconference.github.io/schedule/). Before then, we will need to store belongings in the auditorium. Please refer to the maps linked above for these building locations. -->
 
-### November 9th:
+### Sunday, November 9th:
 - __12:30 pm__: Bus from Pack Forest to UW
   - Note: One bus will stop at SeaTak Airport around __2:30 pm__ 
 
