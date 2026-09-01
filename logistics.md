@@ -26,11 +26,11 @@ For those who arriving by plane, follow signs for the __Link Light Rail__. Pleas
 __Please note: Ubers, Lyfts, Taxis, Car Rentals, etc will NOT BE REIMBURSED!!!__ For those requiring mobility accommodations, please contact [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com)
 
 # Getting to and from the Pack Forest Conference Center
-We will provide transportation between the University of Washington Campus and the Pack Forest Conference Center, but we can only ensure transport for you if you are attending the entire conference. 
+We will provide transportation between the University of Washington Ocean Sciences Building and the Pack Forest Conference Center, but we can only ensure transport for you if you are attending the entire conference. 
  
 The bus schedule will be as follows: 
 ### Friday, November 7th: 
-- __2:30 pm__: Bus from University of Washington to Pack Forest
+- __2:30 pm__: Bus from UW to Pack Forest
    - Note: One bus will pick-up any late-arrivals at SeaTak Airport around __3:00 pm__ 
 
 <!-- The bus will pick up from and drop off at **Terminal B** of Boston Logan Airport and by the Massachusetts Avenue and Amherst Street intersection on the MIT campus. Please refer to the below maps for the exact pick-up points. 
