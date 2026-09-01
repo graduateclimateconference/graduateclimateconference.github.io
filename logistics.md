@@ -13,6 +13,16 @@ The pubic session will be held on __Friday, November 6 from 12:00 pm to 2:30 pm_
 
 For those who arriving by plane, follow signs for the __Link Light Rail__. Please take the __Link 1-Line from SeaTak/Airport to Univ of Washington Station__. The cost is $3.00. From the Univ of Washington Station, it is around a 13 min walk. See the maps below:
 
+### Link Light Rail Map
+<div align="center">
+<img src="/assets/img/link_map.png" alt="Link Map">
+</div>
+
+### Walking from the UW Station to the Oceans Sciences Building Map
+<div align="center">
+<img src="/assets/img/UW_Station.png" alt="Walking Directions">
+</div>
+
 __Please note: Ubers, Lyfts, Taxis, Car Rentals, etc will NOT BE REIMBURSED!!!__ For those requiring mobility accommodations, please contact [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com)
 
 # Getting to and from the Pack Forest Conference Center
