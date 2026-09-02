@@ -18,7 +18,7 @@ For those who arriving by plane, follow signs for the __Link Light Rail__. Pleas
 <img src="/assets/img/link_map_2026.png" width="300" alt="Link Map">
 </div>
 
-### Walking from the UW Station to the Oceans Sciences Building Map
+### Walking Directions from the UW Station to the Oceans Sciences Building
 <div align="center">
 <img src="/assets/img/UW_Station.png" alt="Walking Directions">
 </div>
