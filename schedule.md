@@ -9,7 +9,7 @@ cover-img: "/assets/img/pack1.jpeg"
 <img src="/assets/img/2026_Conference_Schedule.png" alt="Conference schedule">
 </div>
 
-_Last updated 4:30 pm on Tuuesday, September 1st_ 
+_Last updated 4:30 pm on Tuesday, September 1st_ 
 
 <!--[Abstracts](https://graduateclimateconference.github.io/pdf/GCC2024_abstracts.pdf)-->
 
