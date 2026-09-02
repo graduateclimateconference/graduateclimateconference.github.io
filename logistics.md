@@ -117,7 +117,6 @@ Those arriving via train or bus will have to purchase a farecard (<3$) to board 
     <p>Conference participants will be staying in historical cabins. Each cabin sleeps up to eight people. Restrooms and showers are located in a building across from the cabins (see map for details). Pack Forest provides towels and bedding for all participants.</p>
     <h3>What to Bring</h3>
     <p>Here is a reminder of what to bring with you: toiletries, a refillable water bottle, a headlamp (recommended), warm clothes, a rain jacket, a halloween costume, and your poster (if relevant). Bedding and towels will be provided, but some of the accommodations are a short walk away from the communal showers. You will be staying in cabins with 8 people in them, so you may want to bring ear plugs with you if you are a light sleeper!</p>
-  </div>
   <div class="column right" style="background-color: site.page-col;">
     <img src="/assets/img/pfcc_map.png" alt="Pack Forest Conference Center Map">
   </div>
