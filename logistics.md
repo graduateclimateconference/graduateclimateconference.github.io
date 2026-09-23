@@ -11,7 +11,7 @@ GCC 2026 will be held from __November 6 - 8, 2026 at the [Pack Forest Conference
 # Getting to the UW Fishery Science Building
 The public session will be held on __Friday, November 6 from 12:00 pm to 2:30 pm__ in the __[UW Fishery Science Building](https://www.google.com/maps/place/Fishery+Science+Building+(FSH)/@47.6511071,-122.3127648,795m/data=!3m1!1e3!4m6!3m5!1s0x549014f192a5ab41:0xd3c85fb56366b3ec!8m2!3d47.653138!4d-122.316352!16s%2Fg%2F1thbwc1_!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D)__. 
 
-For those who arriving by plane, follow signs for the __Link Light Rail__. Please take the __Link 1-Line from SeaTac/Airport to Univ of Washington Station__. The cost is $3.00. From the Univ of Washington Station, it is around a 13 min walk. See the maps below:
+For those who arriving by plane, follow signs for the __Link Light Rail__. Please take the __Link 1-Line from SeaTac/Airport to Univ of Washington Station__. The cost is $3.00. From the Univ of Washington Station, it is around a 16 min walk. See the maps below:
 
 ### Link Light Rail Map
 <div align="center">
