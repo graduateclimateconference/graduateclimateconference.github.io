@@ -10,13 +10,13 @@ cover-img: "/assets/img/packforest.jpeg"
   <h1>Conference Co-Chairs</h1>
   <div class="team">
     <ul class="auto-grid" role="list" style="list-style-type:none">
-      <li>
+      <!-- <li>
         <div class="profile">
           <h2 class="profile__name">Grace Brown</h2>
           <p>- Co-chair<br>- Abstracts<br></p>
           <img alt="Grace Brown" src="/assets/img/headshots/2026/Grace_Brown_Co_Chair.jpg" />
         </div>
-      </li>
+      </li> -->
       <li>
         <div class="profile">
           <h2 class="profile__name">Katie Webb</h2>
