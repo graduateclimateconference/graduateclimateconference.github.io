@@ -20,6 +20,7 @@ cover-img: "/assets/img/packforest.jpeg"
 - __Attending the Conference__
     - [What is the format?](#what-is-the-format)
     - [How many people will be there?](#how-many-people-will-be-there)
+    - [Can I bring my significant other with me to the conference?](#can-i-bring-my-significant-other-with-me-to-the-conference)
     <!-- - [What are the Sunday activities?](#what-are-the-sunday-activities) -->
     - [What precautions does the GCC have against COVID-19 and Flu?](#what-precautions-does-the-gcc-have-against-covid-19-and-flu)
 - __More__
@@ -69,6 +70,10 @@ Approximately 120 attendees are expected.
 <!-- ### What are the Sunday activities?
 
 It is a GCC tradition to have optional recreation activities on Sunday afternoon. Refer to the [Logistics](https://graduateclimateconference.github.io/logistics/) page later for more information about specific activities offered at GCC 2025. -->
+
+### Can I bring my significant other with me to the conference?
+
+Unfortunately, we can not accommodate any additional conference attendees beyond those presenting at Pack Forest Conference Center. Spouses or significant others are welcome to attend the [Public Poster Session](https://graduateclimateconference.github.io/logistics/) at the University of Washington, but any lodging, transportation, and other costs of their attendance will __not be reimbursed.__ 
 
 ### What precautions does the GCC have against COVID-19 and Flu?
 
