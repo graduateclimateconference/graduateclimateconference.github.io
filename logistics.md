@@ -8,8 +8,8 @@ cover-img: "/assets/img/pack1.jpeg"
 
 GCC 2026 will be held from __November 6 - 8, 2026 at the [Pack Forest Conference Center](https://sites.uw.edu/packweb/conference-center/), Eatonville, Washington__. The drive between Seattle and Pack Forest is approximately 2 hours. Transportation between Seattle and Pack Forest will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquiries. Thank you!
 
-# Getting to the UW Oceans Sciences Building
-The public session will be held on __Friday, November 6 from 12:00 pm to 2:30 pm__ in the __[UW Ocean Sciences Building](https://www.google.com/maps/place/Ocean+Sciences+Building,+1492+NE+Boat+St,+Seattle,+WA+98105/@47.6513197,-122.3114173,406m/data=!3m1!1e3!4m6!3m5!1s0x549014ee76772623:0xfbe91106360c56d7!8m2!3d47.6512363!4d-122.3126707!16s%2Fg%2F1tdg2y0m!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgzMC4wIKXMDSoASAFQAw%3D%3D)__. 
+# Getting to the UW Fishery Science Building
+The public session will be held on __Friday, November 6 from 12:00 pm to 2:30 pm__ in the __[UW Fishery Science Building](https://www.google.com/maps/place/Fishery+Science+Building+(FSH)/@47.6511071,-122.3127648,795m/data=!3m1!1e3!4m6!3m5!1s0x549014f192a5ab41:0xd3c85fb56366b3ec!8m2!3d47.653138!4d-122.316352!16s%2Fg%2F1thbwc1_!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D)__. 
 
 For those who arriving by plane, follow signs for the __Link Light Rail__. Please take the __Link 1-Line from SeaTac/Airport to Univ of Washington Station__. The cost is $3.00. From the Univ of Washington Station, it is around a 13 min walk. See the maps below:
 
@@ -18,7 +18,7 @@ For those who arriving by plane, follow signs for the __Link Light Rail__. Pleas
 <img src="/assets/img/link_map_2026.png" width="300" alt="Link Map">
 </div>
 
-### Walking Directions from the UW Station to the Oceans Sciences Building
+### Walking Directions from the UW Station to the Fishery Science Building
 <div align="center">
 <img src="/assets/img/UW_Station.png" alt="Walking Directions">
 </div>
@@ -26,7 +26,7 @@ For those who arriving by plane, follow signs for the __Link Light Rail__. Pleas
 __Please note: Ubers, Lyfts, Taxis, Car Rentals, etc will NOT BE REIMBURSED!!!__ For those requiring mobility accommodations, please contact [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com)
 
 # Getting to and from the Pack Forest Conference Center
-We will provide transportation between the University of Washington Ocean Sciences Building and the Pack Forest Conference Center, but we can only ensure transport for you if you are attending the entire conference. 
+We will provide transportation between the University of Washington Fishery Science Building and the Pack Forest Conference Center, but we can only ensure transport for you if you are attending the entire conference. 
  
 The bus schedule will be as follows: 
 ### Friday, November 6th: 
