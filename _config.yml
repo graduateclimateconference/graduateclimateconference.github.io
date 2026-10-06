@@ -27,7 +27,7 @@ navbar-links:
     # - Booklet: "booklet"
     - Presentations: "presentations"
     # - Public Session: "publicsession"
-  # Speakers: "speakers"
+  Speakers: "speakers"
   # Workshops: "commpartners"
   FAQ: "faq"
   More Info:
