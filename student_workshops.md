@@ -5,25 +5,14 @@ subtitle: Graduate Climate Conference Student Workshops
 ---
 __All student workshops are on Saturday, November 7, 2026 from 2:15-3:15 PM__
 
-## Workshop #1: Finding Emotional Resilience in Working with Tough Topics
-<img src="/assets/img/Workshop_1.png" alt="Julia Pinnix">
-<br>
-<i> Julia Pinnix, Visitor Services Manager at [US Fish and Wildlife (Nisqually)](https://www.fws.gov/refuge/billy-frank-jr-nisqually) </i>
+## Workshop #1: Improv for Scientists
+<i> Rudra Thaker, University of Wisconsin-Madison </i>
 <br><br>
-Julia Pinnix was carried into now-vanished glacial ice caves on Mount Rainier as a baby. Her path accordingly led to glaciers in Alaska and the Pacific Northwest and a career helping visitors to our public lands understand climate change. She is currently the Visitor Services Manager for Nisqually National Wildlife Refuge Complex, U.S. Fish and Wildlife Service, in Olympia, Washington.
+This workshop will be based on a 6 week university credit course Rudra took earlier in the Spring. The workshop, following the course, is about different improv techniques for effective science communication. There is no material to be taught in the workshop but rather different group activities. This includes the “yes and” method of communication, trusting your team games, and then finally a fun exercise of describing your research in 3 minutes, 1 minute, 30 seconds, and 10 seconds.
 
-## Workshop #2: Pursuing Applied Climate Science Research Outside Academia
-<img src="/assets/img/Workshop_2.png" alt="Claire Zarakas">
-<br>
-<i> Claire Zarakas, Research Scientist at [CarbonPlan](https://carbonplan.org/) </i>
+Improv in general has been considered to be a great tool to improvise science communication. This was first done in the field of medical sciences to navigate conversations with patients coming from different beliefs about medicine and was found super successful.
+
+## Workshop #2: Building Interdisciplinary Research Networks in Climate Science
+<i> Leah Van Dyke, University of California, Santa Cruz </i>
 <br><br>
-Claire Zarakas is a research scientist at CarbonPlan, a research nonprofit. She received her BA in Geosciences from Princeton University and her PhD in Atmospheric Sciences from the University of Washington, where she was a DOE Computational Science Graduate Fellow. She then joined CarbonPlan as a Schmidt Sciences fellow with a joint appointment at the University of California, Irvine. Previously, she worked at a public sector consulting firm where she conducted research to inform climate mitigation and adaptation policies.
-
-## Workshop #3: Climate Journalist in an Age of Misinformation
-<img src="/assets/img/Workshop_3_1.png" alt="Claire Thompson"> <img src="/assets/img/Workshop_3_2.png" alt="Clayton Aldern">
-<br>
-<i> Claire Thompson and Clayton Aldern, Data Journalists at [Grist](https://grist.org/) </i>
-<br><br>
-Claire Elise Thompson is an associate editor at Grist, and the writer of the weekly solutions newsletter, Looking Forward. She has been at Grist since 2018, focusing on telling stories about climate solutions and the people leading them. She was a 2022 MJ Bear fellow with the Online News Association and participated in the inaugural Climate Beacons Newsroom Initiative with the Solutions Journalism Network. She is based in Seattle.
-
-Clayton Page Aldern is a senior data reporter at Grist and the author of The Weight of Nature, which traces how climate change alters brain health, cognition, and behavior. His essays and journalism have been published by The Guardian, The Atlantic, The Economist, Aeon, Scientific American, Logic, Sierra Magazine, and many others. A former neuroscientist, Aldern also helps coordinate the Neuro Climate Working Group, an international research consortium studying the neurological dimensions of climate change. He is a research affiliate of the University of Washington’s Center for Studies in Demography & Ecology and a research fellow at the Supervised Program for Alignment Research.
+Research questions are often inherently interdisciplinary, yet many students feel uncomfortable reaching out to potential collaborators outside of their primary field or may not know how to find researchers whose goals align with their own. This workshop discusses strategies and opportunities for graduate students to connect and work with researchers across disciplines, improve communication across fields, and identify opportunities for collaboration. Participants will discuss common challenges in interdisciplinary research, including differences in terminology, methods, and scientific perspectives, as well as strategies for overcoming barriers to communication and collaboration. Participants will also be encouraged to share organizations, scholarship opportunities, programs, and professional networks that have helped them connect with researchers, institutions, or collaborators outside of their primary field. The goal of the workshop is to emphasize how interdisciplinary approaches can strengthen climate research and help students identify both barriers and opportunities in building collaborative research networks.
