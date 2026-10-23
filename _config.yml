@@ -30,6 +30,7 @@ navbar-links:
   Speakers: "speakers"
   Workshops: 
     - Community Partners: "commpartners"
+    - Student Workshops: "student_workshops"
   FAQ: "faq"
   More Info:
     - Code of Conduct: "conduct"
