@@ -28,7 +28,7 @@ navbar-links:
     - Presentations: "presentations"
     # - Public Session: "publicsession"
   Speakers: "speakers"
-  # Workshops: "commpartners"
+  Workshops: "commpartners"
   FAQ: "faq"
   More Info:
     - Code of Conduct: "conduct"
