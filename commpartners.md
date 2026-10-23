@@ -8,7 +8,7 @@ __All community partner workshops are on Sunday, November 8, 2026 from 10:45-11:
 ## Workshop #1: Finding Emotional Resilience in Working with Tough Topics
 <img src="/assets/img/Workshop_1.png" alt="Julia Pinnix">
 <i> Julia Pinnix, Visitor Services Manager at [US Fish and Wildlife (Nisqually)](https://www.fws.gov/refuge/billy-frank-jr-nisqually) </i>
-<br>
+</n>
 Julia Pinnix was carried into now-vanished glacial ice caves on Mount Rainier as a baby. Her path accordingly led to glaciers in Alaska and the Pacific Northwest and a career helping visitors to our public lands understand climate change. She is currently the Visitor Services Manager for Nisqually National Wildlife Refuge Complex, U.S. Fish and Wildlife Service, in Olympia, Washington.
 
 ## Workshop #2: Pursuing Applied Climate Science Research Outside Academia
