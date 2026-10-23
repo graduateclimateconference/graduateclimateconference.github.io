@@ -13,15 +13,11 @@ Dr. David (Roo) Nicholson is an Associate Scientist in the Marine Chemistry and 
 
 ---
 
-<!-- # Dr. Marcela Loría-Salazar
-<img src="/assets/img/MArcela_pic.jpg" alt="Dr. Marcela Loría-Salazar">
+# Dr. Joan Casey
+<img src="/assets/img/Casey.jpg" alt="Dr. Joan Casey">
 
-__Title: Bridging the Gap: Advancing Aerosol Research in the Understudied Central U.S.__
+<!-- __Title: Bridging the Gap: Advancing Aerosol Research in the Understudied Central U.S.__ -->
 
-Marcela Loría-Salazar is an Assistant Professor in the School of Meteorology at the University of Oklahoma, where she leads interdisciplinary research on atmospheric processes that shape air composition. Her work addresses emissions from urban areas, wildfires, prescribed burns, agriculture, and dust, with a strong emphasis on advancing air quality forecasting and exposure assessments.
+Joan A. Casey received her doctoral degree from the Department of Environmental Health Sciences at Johns Hopkins Bloomberg School of Public Health in 2014. Dr. Casey is an environmental epidemiologist who focuses on environmental health, environmental justice, and sustainability. Her research uses large secondary health datasets, such as electronic health records, to study the relationship between emerging environmental exposures and population health across the lifecourse. She also considers vulnerable populations, joint social and environmental exposures, and health disparities, particularly in an era of climate change. Dr. Casey investigates a range of exposures including wildfires, power outages, ambient temperature, the built environment, fossil fuel infrastructure, and concentrated animal feeding operations.
 
-Dr. Loría-Salazar is recognized for her innovative integration of aerosol and gas-phase measurements, satellite remote sensing, meteorological data, numerical modeling, deep learning, and big data assimilation. Her collaborative approach has positioned her as a key contributor to major national and international initiatives, including NASA’s PACE Mission Early Adopter Program, NOAA’s Pathfinders Initiative, CIWRO, and the SPARTAN Global Network. 
-
-As a leader in her field, she plays a pivotal role in efforts to improve smoke behavior prediction, including serving on a national initiative led by the National Academies of Sciences, Engineering, and Medicine (NASEM). Her research has earned prestigious recognition, including the NASA Earth and Space Science Fellowship and awards from the University of Nevada, Reno, and the University of Oklahoma.
-
-Dr. Loría-Salazar holds a Ph.D. and M.S. in Atmospheric Sciences from the University of Nevada, Reno, and a B.S. in Meteorology from the Universidad de Costa Rica. She is dedicated to promoting inclusive scientific collaboration and driving innovation to enhance environmental health and resilience. -->
+From 2014-2016, Dr. Casey was a Robert Wood Johnson Health and Society Scholar, and from 2019-2022, she was the co-chair of the International Society for Environmental Epidemiology North American chapter. She also serves as an editorial board review member for Environmental Health Perspectives. Dr. Casey also holds a BS in Biological and Environmental Engineering from Cornell University and an MA in Applied Physiology from Teachers College at Columbia University.
