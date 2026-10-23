@@ -16,6 +16,8 @@ Dr. David (Roo) Nicholson is an Associate Scientist in the Marine Chemistry and 
 # Dr. Joan Casey
 <img src="/assets/img/Casey.jpg" alt="Dr. Joan Casey">
 
+The title and bio are coming soon!
+
 <!-- __Title: Bridging the Gap: Advancing Aerosol Research in the Understudied Central U.S.__ 
 
 Joan A. Casey received her doctoral degree from the Department of Environmental Health Sciences at Johns Hopkins Bloomberg School of Public Health in 2014. Dr. Casey is an environmental epidemiologist who focuses on environmental health, environmental justice, and sustainability. Her research uses large secondary health datasets, such as electronic health records, to study the relationship between emerging environmental exposures and population health across the lifecourse. She also considers vulnerable populations, joint social and environmental exposures, and health disparities, particularly in an era of climate change. Dr. Casey investigates a range of exposures including wildfires, power outages, ambient temperature, the built environment, fossil fuel infrastructure, and concentrated animal feeding operations.
