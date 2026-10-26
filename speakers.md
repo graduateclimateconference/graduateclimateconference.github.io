@@ -14,9 +14,7 @@ Dr. David (Roo) Nicholson is an Associate Scientist in the Marine Chemistry and 
 ---
 
 # Dr. Joan Casey
-<img src="/assets/img/Casey.jpg" alt="Dr. Joan Casey">
-
-The title and bio are coming soon!
+<img src="/assets/img/JCasey_Headshot.jpg" alt="Dr. Joan Casey">
 
 __Title: Before the Pie Burns — Time, Burnout, and Science in a Warming World__ 
 
