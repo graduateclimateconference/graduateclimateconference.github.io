@@ -19,7 +19,7 @@ navbar-links:
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   About: "about"
-  Application: "application"
+  # Application: "application"
   # Logistics: "logistics"
   Logistics:
     - Basic Info: "logistics"
