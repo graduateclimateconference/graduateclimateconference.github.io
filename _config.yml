@@ -26,6 +26,7 @@ navbar-links:
     - Schedule: "schedule"
     # - Booklet: "booklet"
     - Presentations: "presentations"
+    - Social Activities: "social"
     # - Public Session: "publicsession"
   Speakers: "speakers"
   Workshops: 
