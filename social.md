@@ -55,4 +55,6 @@ On your own: map of trail options can be found here
 
 ### Post Conference Activities
 
-List of recommendations can be found here
+<div class="pdf-container">
+    <iframe width="100%" height="1000" src="/assets/img/Seattle_Activities_Guide.pdf">/iframe>
+</div>
