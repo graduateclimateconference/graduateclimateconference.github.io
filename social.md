@@ -8,7 +8,7 @@ cover-img: "/assets/img/pack1.jpeg"
 ### Public Session:
 
 BINGO!
-- GCC attendees will be encouraged to play bingo to start to get to know their fellow attendees. The bingo sheet is linked here.
+- GCC attendees will be encouraged to play bingo to start to get to know their fellow attendees.
 - We will print out enough of these sheets and we will hand them out at the check in table. When someone gets a bingo, we will collect the sheets (they need to put their full name on the bottom) so that we can draw a bingo winner on Saturday night. If they get a blackout, they get three entries for the prize! Yes, there will be a fun prize!
 
 ### Evening Activities (8:30pm):
