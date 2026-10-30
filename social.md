@@ -35,7 +35,7 @@ Organized Hike: Little Mashel Falls
 - ~5.8 miles roundtrip
 - ~728 feet elevation gain
 - Time: 2.5-3 hours
-- Hike map
+- [Hike Map and Description](https://www.wta.org/go-hiking/hikes/little-mashel-falls#hike-full-description)
 - Meet at 5:00 am. Group will depart at 5:15am
 
 ### Evening Activities (9:15pm):
@@ -51,7 +51,7 @@ Halloween Party & Trivia Night
 
 ### Morning Hike
 
-On your own: map of trail options can be found here
+On your own: map of trail options can be found [here](https://sites.uw.edu/packweb/pack-forest/interactive-map/)
 
 ### Post Conference Activities
 
