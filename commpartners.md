@@ -19,7 +19,7 @@ Julia Pinnix was carried into now-vanished glacial ice caves on Mount Rainier as
 <br><br>
 Claire Zarakas is a research scientist at CarbonPlan, a research nonprofit. She received her BA in Geosciences from Princeton University and her PhD in Atmospheric Sciences from the University of Washington, where she was a DOE Computational Science Graduate Fellow. She then joined CarbonPlan as a Schmidt Sciences fellow with a joint appointment at the University of California, Irvine. Previously, she worked at a public sector consulting firm where she conducted research to inform climate mitigation and adaptation policies.
 
-## Workshop #3: Climate Journalist in an Age of Misinformation
+## Workshop #3: Climate Journalism in an Age of Misinformation
 <img src="/assets/img/Workshop_3_1.png" alt="Claire Thompson"> <img src="/assets/img/Workshop_3_2.png" alt="Clayton Aldern">
 <br>
 <i> Claire Thompson and Clayton Aldern, Data Journalists at [Grist](https://grist.org/) </i>
