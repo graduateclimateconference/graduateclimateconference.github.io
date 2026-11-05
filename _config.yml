@@ -24,7 +24,7 @@ navbar-links:
   Logistics:
     - Basic Info: "logistics"
     - Schedule: "schedule"
-    # - Booklet: "booklet"
+    - Booklet: "booklet"
     - Presentations: "presentations"
     - Social Activities: "social"
     # - Public Session: "publicsession"
