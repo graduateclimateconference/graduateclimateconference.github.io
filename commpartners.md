@@ -20,10 +20,10 @@ Julia Pinnix was carried into now-vanished glacial ice caves on Mount Rainier as
 Claire Zarakas is a research scientist at CarbonPlan, a research nonprofit. She received her BA in Geosciences from Princeton University and her PhD in Atmospheric Sciences from the University of Washington, where she was a DOE Computational Science Graduate Fellow. She then joined CarbonPlan as a Schmidt Sciences fellow with a joint appointment at the University of California, Irvine. Previously, she worked at a public sector consulting firm where she conducted research to inform climate mitigation and adaptation policies.
 
 ## Workshop #3: Climate Journalism in an Age of Misinformation
-<img src="/assets/img/Workshop_3_1.png" alt="Claire Thompson"> <img src="/assets/img/Workshop_3_2.png" alt="Clayton Aldern">
+<img src="/assets/img/Workshop_3_1.png" alt="Claire Thompson"> <img src="/assets/img/Kate_Yoder_Headshot.png" alt="Katie Yoder">
 <br>
 <i> Claire Thompson and Clayton Aldern, Data Journalists at [Grist](https://grist.org/) </i>
 <br><br>
 Claire Elise Thompson is an associate editor at Grist, and the writer of the weekly solutions newsletter, Looking Forward. She has been at Grist since 2018, focusing on telling stories about climate solutions and the people leading them. She was a 2022 MJ Bear fellow with the Online News Association and participated in the inaugural Climate Beacons Newsroom Initiative with the Solutions Journalism Network. She is based in Seattle.
 
-Clayton Page Aldern is a senior data reporter at Grist and the author of The Weight of Nature, which traces how climate change alters brain health, cognition, and behavior. His essays and journalism have been published by The Guardian, The Atlantic, The Economist, Aeon, Scientific American, Logic, Sierra Magazine, and many others. A former neuroscientist, Aldern also helps coordinate the Neuro Climate Working Group, an international research consortium studying the neurological dimensions of climate change. He is a research affiliate of the University of Washington’s Center for Studies in Demography & Ecology and a research fellow at the Supervised Program for Alignment Research.
+Kate Yoder is a senior staff writer covering climate change through the lens of language, culture, and history. Her work has received a FOLIO: Eddie & Ozzie Award and a SEAL Environmental Journalism Award for bringing fresh perspective and social relevance to environmental issues. She has been at Grist since 2015 and is based in Seattle.
